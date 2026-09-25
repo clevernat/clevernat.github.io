@@ -1,0 +1,77 @@
+{
+ "updated": "2026-09-25",
+ "long": [
+  {
+   "id": "9bV-s36V5r4",
+   "title": "Claude Opus 5.5 Tutorial: Build 3 Real Apps Without Coding",
+   "date": "2026-09-25",
+   "short": false,
+   "len": "13:14"
+  },
+  {
+   "id": "Rkv7LZjHE7U",
+   "title": "How to Pick the Best AI Model in 2026: Why Leaderboards Fail",
+   "date": "2026-09-24",
+   "short": false,
+   "len": "8:38"
+  },
+  {
+   "id": "XdrgGXs7TQQ",
+   "title": "OpenArt Tutorial: Create Images, AI Videos, Lip Sync & 3D Worlds",
+   "date": "2026-09-22",
+   "short": false,
+   "len": "14:40"
+  },
+  {
+   "id": "poSNSqomaI4",
+   "title": "The Chatbot Era Is Over: How AI Agents Went from Answers to Actions",
+   "date": "2026-09-18",
+   "short": false,
+   "len": "9:47"
+  }
+ ],
+ "shorts": [
+  {
+   "id": "aASEkFVk4Js",
+   "title": "This New AI Can't Write a Single Word (and X Loves It)",
+   "date": "2026-09-25",
+   "short": true,
+   "len": "1:52"
+  },
+  {
+   "id": "yGwgxsWlFVc",
+   "title": "One Email Can Hijack Your AI Browser",
+   "date": "2026-09-25",
+   "short": true,
+   "len": "1:52"
+  },
+  {
+   "id": "rHUJ0YtnHfw",
+   "title": "Claude Opus 5.5: 40% Cheaper + 5 Wild Things People Built",
+   "date": "2026-09-24",
+   "short": true,
+   "len": "1:49"
+  },
+  {
+   "id": "mtGOt4HUFdw",
+   "title": "Grad school applications used to mean paper. This Saturday we automate them — free",
+   "date": "2026-09-22",
+   "short": true,
+   "len": "2:10"
+  },
+  {
+   "id": "SHzqnIyqKA0",
+   "title": "Five Frontier AI Models in Ten Days",
+   "date": "2026-09-21",
+   "short": true,
+   "len": "1:10"
+  },
+  {
+   "id": "3b0nFvoRhto",
+   "title": "The Chatbot Era Just Ended (Here's What Replaced It)",
+   "date": "2026-09-18",
+   "short": true,
+   "len": "1:23"
+  }
+ ]
+}
