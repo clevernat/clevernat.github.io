@@ -1,6 +1,20 @@
 {
- "updated": "2026-09-25",
+ "updated": "2026-09-27",
  "long": [
+  {
+   "id": "6LzsGSaI6G4",
+   "title": "4 One-Person AI Business Ideas With Claude (Part 1)",
+   "date": "2026-09-27",
+   "short": false,
+   "len": "12:00"
+  },
+  {
+   "id": "YSeiVqjBKxw",
+   "title": "How to Humanize AI Writing With Claude (Free Skill Tutorial)",
+   "date": "2026-09-26",
+   "short": false,
+   "len": "13:21"
+  },
   {
    "id": "9bV-s36V5r4",
    "title": "Claude Opus 5.5 Tutorial: Build 3 Real Apps Without Coding",
@@ -21,16 +35,16 @@
    "date": "2026-09-22",
    "short": false,
    "len": "14:40"
-  },
-  {
-   "id": "poSNSqomaI4",
-   "title": "The Chatbot Era Is Over: How AI Agents Went from Answers to Actions",
-   "date": "2026-09-18",
-   "short": false,
-   "len": "9:47"
   }
  ],
  "shorts": [
+  {
+   "id": "Vnpy3tr8Csw",
+   "title": "An AI Detector Says the Declaration of Independence Is 100% AI 🤔",
+   "date": "2026-09-27",
+   "short": true,
+   "len": "2:04"
+  },
   {
    "id": "aASEkFVk4Js",
    "title": "This New AI Can't Write a Single Word (and X Loves It)",
@@ -72,6 +86,13 @@
    "date": "2026-09-18",
    "short": true,
    "len": "1:23"
+  },
+  {
+   "id": "ins4YvArxeU",
+   "title": "The Machine That Broke AI for 20 Years",
+   "date": "2026-09-17",
+   "short": true,
+   "len": "1:51"
   }
  ]
 }
