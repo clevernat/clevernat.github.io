@@ -1,6 +1,13 @@
 {
- "updated": "2026-09-27",
+ "updated": "2026-09-29",
  "long": [
+  {
+   "id": "-dphtKsZAN0",
+   "title": "3 More One-Person AI Business Ideas With Claude (Part 2)",
+   "date": "2026-09-28",
+   "short": false,
+   "len": "9:53"
+  },
   {
    "id": "6LzsGSaI6G4",
    "title": "4 One-Person AI Business Ideas With Claude (Part 1)",
@@ -28,16 +35,23 @@
    "date": "2026-09-24",
    "short": false,
    "len": "8:38"
-  },
-  {
-   "id": "XdrgGXs7TQQ",
-   "title": "OpenArt Tutorial: Create Images, AI Videos, Lip Sync & 3D Worlds",
-   "date": "2026-09-22",
-   "short": false,
-   "len": "14:40"
   }
  ],
  "shorts": [
+  {
+   "id": "AR-QJ9gOx-Y",
+   "title": "Google Just Gave Gemini a Face",
+   "date": "2026-09-29",
+   "short": true,
+   "len": "1:30"
+  },
+  {
+   "id": "-cSdfS-Fe28",
+   "title": "He Lost His Voice to ALS. Then He Said This.",
+   "date": "2026-09-28",
+   "short": true,
+   "len": "1:43"
+  },
   {
    "id": "Vnpy3tr8Csw",
    "title": "An AI Detector Says the Declaration of Independence Is 100% AI 🤔",
@@ -79,20 +93,6 @@
    "date": "2026-09-21",
    "short": true,
    "len": "1:10"
-  },
-  {
-   "id": "3b0nFvoRhto",
-   "title": "The Chatbot Era Just Ended (Here's What Replaced It)",
-   "date": "2026-09-18",
-   "short": true,
-   "len": "1:23"
-  },
-  {
-   "id": "ins4YvArxeU",
-   "title": "The Machine That Broke AI for 20 Years",
-   "date": "2026-09-17",
-   "short": true,
-   "len": "1:51"
   }
  ]
 }
