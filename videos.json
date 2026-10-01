@@ -1,6 +1,13 @@
 {
- "updated": "2026-09-29",
+ "updated": "2026-10-01",
  "long": [
+  {
+   "id": "tIQtemNhKvE",
+   "title": "Claude Sonnet 5.5: Build a Real App From One Prompt",
+   "date": "2026-10-01",
+   "short": false,
+   "len": "10:26"
+  },
   {
    "id": "-dphtKsZAN0",
    "title": "3 More One-Person AI Business Ideas With Claude (Part 2)",
@@ -28,16 +35,23 @@
    "date": "2026-09-25",
    "short": false,
    "len": "13:14"
-  },
-  {
-   "id": "Rkv7LZjHE7U",
-   "title": "How to Pick the Best AI Model in 2026: Why Leaderboards Fail",
-   "date": "2026-09-24",
-   "short": false,
-   "len": "8:38"
   }
  ],
  "shorts": [
+  {
+   "id": "GwL40mOXNYw",
+   "title": "I Hid 3 Fake Citations. Can Claude Catch Them?",
+   "date": "2026-10-01",
+   "short": true,
+   "len": "1:20"
+  },
+  {
+   "id": "BCY5cjEKX1U",
+   "title": "Claude Found a New Molecular Machine. Scientists Are Split.",
+   "date": "2026-09-30",
+   "short": true,
+   "len": "1:56"
+  },
   {
    "id": "AR-QJ9gOx-Y",
    "title": "Google Just Gave Gemini a Face",
@@ -79,20 +93,6 @@
    "date": "2026-09-24",
    "short": true,
    "len": "1:49"
-  },
-  {
-   "id": "mtGOt4HUFdw",
-   "title": "Grad school applications used to mean paper. This Saturday we automate them — free",
-   "date": "2026-09-22",
-   "short": true,
-   "len": "2:10"
-  },
-  {
-   "id": "SHzqnIyqKA0",
-   "title": "Five Frontier AI Models in Ten Days",
-   "date": "2026-09-21",
-   "short": true,
-   "len": "1:10"
   }
  ]
 }
