@@ -1,6 +1,13 @@
 {
- "updated": "2026-10-01",
+ "updated": "2026-10-02",
  "long": [
+  {
+   "id": "5mLb5lb6WI8",
+   "title": "Claude Sonnet 5.5 Tested: 6 Real-World Tasks, No Retries",
+   "date": "2026-10-01",
+   "short": false,
+   "len": "10:34"
+  },
   {
    "id": "tIQtemNhKvE",
    "title": "Claude Sonnet 5.5: Build a Real App From One Prompt",
@@ -28,16 +35,16 @@
    "date": "2026-09-26",
    "short": false,
    "len": "13:21"
-  },
-  {
-   "id": "9bV-s36V5r4",
-   "title": "Claude Opus 5.5 Tutorial: Build 3 Real Apps Without Coding",
-   "date": "2026-09-25",
-   "short": false,
-   "len": "13:14"
   }
  ],
  "shorts": [
+  {
+   "id": "r31_omrwbjw",
+   "title": "Meta's AI Agent Just Beat ChatGPT",
+   "date": "2026-10-02",
+   "short": true,
+   "len": "1:14"
+  },
   {
    "id": "GwL40mOXNYw",
    "title": "I Hid 3 Fake Citations. Can Claude Catch Them?",
@@ -86,13 +93,6 @@
    "date": "2026-09-25",
    "short": true,
    "len": "1:52"
-  },
-  {
-   "id": "rHUJ0YtnHfw",
-   "title": "Claude Opus 5.5: 40% Cheaper + 5 Wild Things People Built",
-   "date": "2026-09-24",
-   "short": true,
-   "len": "1:49"
   }
  ]
 }
