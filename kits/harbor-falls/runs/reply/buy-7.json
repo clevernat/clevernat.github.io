@@ -1,7 +1,0 @@
-{
- "type": "buy",
- "owner": "Luis",
- "message": "Hi Alex, it's Luis at Summit Heating, sounds good, let's do it. How do I pay and when do you start?",
- "reply": "Hi Luis, great news. I'll send a payment link (card, due before I start) for the $900 fix pack. Once that's paid I'll kick off and aim to have fixes done within 5-7 business days, with updates along the way. No guarantees on results, but I'll fix everything the audit found. I'll also mention the optional $250/month care plan once the work's done, no pressure. Sending the link shortly.",
- "pass": false
-}

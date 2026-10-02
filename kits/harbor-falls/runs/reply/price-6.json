@@ -1,7 +1,0 @@
-{
- "type": "price",
- "owner": "Aisha",
- "message": "Hi Alex, it's Aisha at Pearl Dentistry, interesting. What does this cost?",
- "reply": "Hi Aisha, thanks for replying! It's a flat $900 one-time fix pack covering the issues we spot in the audit (speed, mobile, broken links, that kind of thing). No guarantees on results, just honest fixes. After that, an optional $250/month care plan keeps things maintained. Want me to send the audit findings first?",
- "pass": true
-}

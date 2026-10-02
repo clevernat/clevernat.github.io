@@ -1,7 +1,0 @@
-{
- "type": "buy",
- "owner": "Marcus",
- "message": "Hi Alex, it's Marcus at Luna Hair Studio, sounds good, let's do it. How do I pay and when do you start?",
- "reply": "Hi Marcus, great to hear! I'll send a Stripe invoice for $900 today - once it's paid I'll start the fix pack, usually wrapped up within 5-7 business days. I'll keep you posted as I go. If you want the $250/month care plan afterward to keep things maintained, we can add that once the fixes are done. Thanks!",
- "pass": true
-}

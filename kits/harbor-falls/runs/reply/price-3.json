@@ -1,7 +1,0 @@
-{
- "type": "price",
- "owner": "Marcus",
- "message": "Hi Alex, it's Marcus at Luna Hair Studio, interesting. What does this cost?",
- "reply": "Hi Marcus, thanks for writing back. The fix pack is a flat $900 one-time to resolve whatever issues we find in the audit (speed, broken links, mobile display, etc.). After that, an optional $250/month care plan covers ongoing monitoring and small updates if you want it. No pressure either way. Want me to send the audit findings first?",
- "pass": true
-}

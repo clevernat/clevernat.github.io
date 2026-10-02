@@ -1,7 +1,0 @@
-{
- "type": "price",
- "owner": "Dev",
- "message": "Hi Alex, it's Dev at Polar HVAC, interesting. What does this cost?",
- "reply": "Hi Dev, thanks for replying. The fix pack is a flat $900 one-time fee to address whatever issues we find in the audit (speed, mobile, broken links, that kind of thing). No guarantees on results, just honest fixes. After that, there's an optional $250/month care plan for ongoing updates and monitoring if you want it. Happy to share the audit details first so you know exactly what you'd be paying for. Want me to send that over?",
- "pass": true
-}

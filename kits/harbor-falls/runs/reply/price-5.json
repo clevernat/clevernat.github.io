@@ -1,7 +1,0 @@
-{
- "type": "price",
- "owner": "Tom",
- "message": "Hi Alex, it's Tom at Pulse Fitness, interesting. What does this cost?",
- "reply": "Hi Tom, thanks for replying. It's a flat $900 one-time fix pack covering whatever issues the audit turns up on your site. No guarantees on results, just the fixes done properly. If you want ongoing monitoring and small updates after that, there's an optional $250/month care plan, no obligation. Happy to send the audit findings first if useful. Alex",
- "pass": true
-}

@@ -1,7 +1,0 @@
-{
- "type": "buy",
- "owner": "Maria",
- "message": "Hi Alex, it's Maria at Bright Dentistry, sounds good, let's do it. How do I pay and when do you start?",
- "reply": "Hi Maria, great to hear! I'll send a secure invoice today \u2014 you can pay by card or bank transfer, due before I start. Once that's settled I'll begin the fix pack, typically wrapped within 5-7 business days. I'll also flag the care plan option afterward in case you want ongoing upkeep. Talk soon!\n\nAlex",
- "pass": false
-}
