@@ -97,6 +97,28 @@ h1{letter-spacing:-.04em}h2{letter-spacing:-.03em}.k{letter-spacing:.08em}
   </div>
 </article>
 
+<article class="tool" id="ai-receptionist">
+  <img src="img/ai-receptionist.jpg" alt="AI receptionist built with Claude and tested on 400+ calls: free test kit">
+  <div class="body">
+    <div class="tags"><span class="tag">Claude + ElevenLabs</span><span class="tag">Voice agent</span><span class="tag">400+ test calls</span></div>
+    <h2>AI receptionist test kit</h2>
+    <p class="desc">Everything from the video: a facts template, the 40-call answer key (plus 8 edge tests), Claude's final receptionist prompt, and the small piece of code that works out which appointment times are still open. Tested on a fictional dental office: 56 of 56 emergencies right, about 6 cents a minute to run. No income promises.</p>
+    <div class="btns">
+      <a class="btn" href="prompts/ai-receptionist-test-kit.md" download="ai-receptionist-test-kit.md"><svg viewBox="0 0 24 24"><path d="M12 3v12m0 0 5-5m-5 5-5-5M4 20h16"/></svg>Download the test kit</a>
+      <a class="btn alt" href="prompts/ai-receptionist-test-kit.md">View it</a>
+      <a class="btn alt watch" data-video="Pb05tl6wcgw" href="https://youtu.be/Pb05tl6wcgw" hidden><svg viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="14" rx="3"/><path d="m10 9 5 3-5 3z"/></svg>Watch the full tutorial</a>
+    </div>
+    <ol>
+      <li><span>Fill in the <b>facts template</b> with the business owner: hours, services, what they don't do, insurance, prices, openings, emergency rules.</span></li>
+      <li><span>Write the <b>answer key first</b>: for each test call, what the receptionist must do and must never do.</span></li>
+      <li><span>In <b>ElevenLabs &gt; Agents</b>, create a blank agent, paste the prompt and greeting, pick a voice, choose <b>Claude Sonnet 5.5</b>, and set the <b>backup LLM to a Claude model</b>.</span></li>
+      <li><span>Fill the time and open-slot blanks from code at the start of every call (<b>slots.py</b> in the kit).</span></li>
+      <li><span>Run every test more than once, then <b>check the call log</b>: which model answered, the cost, and the transcript.</span></li>
+    </ol>
+    <div class="laptop"><svg viewBox="0 0 24 24"><rect x="4" y="4" width="16" height="11" rx="1.5"/><path d="M2 19h20"/></svg><span>Do this on a laptop or desktop. Emergencies must always go to 911 or a person. Not medical or legal advice.</span></div>
+  </div>
+</article>
+
 <article class="tool" id="smb-44">
   <img src="img/smb-44.jpg" alt="All 44 Claude Small Business skills tested: free scorecard and 5 prompts">
   <div class="body">
