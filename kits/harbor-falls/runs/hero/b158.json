@@ -1,0 +1,35 @@
+{
+ "id": "b158",
+ "audit": {
+  "flags": {
+   "no_mobile": true,
+   "no_booking": true,
+   "no_click_to_call": false,
+   "heavy_images": false,
+   "no_reviews": false,
+   "stale_footer": false,
+   "no_hours": true,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "<head>\n<meta charset=\"utf-8\">\n<title>Coral Pros Hair Studio | Salon in Harbor Falls</title>",
+   "no_booking": "<p>Stop in or give us a ring.</p>",
+   "no_click_to_call": "Phone: <a href=\"tel:55501461197\">(555) 0146-1197</a>",
+   "heavy_images": "<img src=\"/photos/team-1.webp\" width=\"640\" height=\"420\" loading=\"lazy\" alt=\"Coral Pros Hair Studio team\">",
+   "no_reviews": "<h2>What customers say</h2><blockquote>\"Fast, honest and fair.\" - A. Rivera</blockquote><blockquote>\"Best in town.\" - J. Cho</blockquote>",
+   "stale_footer": "<footer>&copy; 2026 Coral Pros Hair Studio. All rights reserved.</footer>",
+   "no_hours": "<p>Serving Harbor Falls for 13 years. Owner: Omar Patel.</p>",
+   "weak_title": "<meta name=\"description\" content=\"Coral Pros Hair Studio: trusted salon in Harbor Falls for 13 years.\">"
+  }
+ },
+ "email": {
+  "subject": "Quick note about Coral Pros' website",
+  "body": "Hi Omar,\n\nI took a look at Coral Pros Hair Studio's site. Two things are likely costing you bookings: it doesn't work well on mobile, and there's no way to book an appointment online. Most people searching for a salon on their phone will leave if they can't quickly see the site or book a slot, and go to a competitor instead. Your hours also aren't listed, so people can't tell if you're open before calling.\n\nI fix exactly this kind of thing for a flat fee. Happy to walk you through what I found in a free 10-minute call, no pressure either way.\n\nWould later this week work?\n\nAlex\nNorthlight Web",
+  "flaws_mentioned": [
+   "no_mobile",
+   "no_booking",
+   "no_hours"
+  ]
+ },
+ "secs": 13.5
+}

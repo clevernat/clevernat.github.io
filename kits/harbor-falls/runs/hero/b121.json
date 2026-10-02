@@ -1,0 +1,34 @@
+{
+ "id": "b121",
+ "audit": {
+  "flags": {
+   "no_mobile": false,
+   "no_booking": false,
+   "no_click_to_call": false,
+   "heavy_images": false,
+   "no_reviews": true,
+   "stale_footer": false,
+   "no_hours": true,
+   "weak_title": true
+  },
+  "evidence": {
+   "no_mobile": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+   "no_booking": "<a class=\"btn\" href=\"/book\">Book online</a>",
+   "no_click_to_call": "<a href=\"tel:55501551586\">(555) 0155-1586</a>",
+   "heavy_images": "<img src=\"/photos/team-1.webp\" width=\"640\" height=\"420\" loading=\"lazy\" alt=\"Luna Hair Studio team\">",
+   "no_reviews": "NONE",
+   "stale_footer": "<footer>&copy; 2026 Luna Hair Studio. All rights reserved.</footer>",
+   "no_hours": "NONE",
+   "weak_title": "<title>Home</title>"
+  }
+ },
+ "email": {
+  "subject": "Luna Hair Studio's website is turning away bookings",
+  "body": "Hi Jack,\n\nI took a look at Luna Hair Studio's site. Two things are likely costing you clients: there are no reviews shown, so new visitors searching for a salon in Harbor Falls can't tell if you're any good before they book elsewhere, and your hours aren't listed, so people can't tell if you're open right now and just leave instead of calling.\n\nBoth are quick fixes. I'd like to offer a free 10-minute walkthrough to show you exactly what I'd change and why.\n\nWorth a quick call this week?\n\nAlex\nNorthlight Web",
+  "flaws_mentioned": [
+   "no_reviews",
+   "no_hours"
+  ]
+ },
+ "secs": 12.6
+}

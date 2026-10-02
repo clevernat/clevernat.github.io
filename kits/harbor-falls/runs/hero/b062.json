@@ -1,0 +1,36 @@
+{
+ "id": "b062",
+ "audit": {
+  "flags": {
+   "no_mobile": false,
+   "no_booking": true,
+   "no_click_to_call": true,
+   "heavy_images": false,
+   "no_reviews": false,
+   "stale_footer": true,
+   "no_hours": true,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+   "no_booking": "<p>Stop in or give us a ring.</p>",
+   "no_click_to_call": "<p>Phone: (555) 0197-2960</p>",
+   "heavy_images": "<img src=\"/photos/team-1.webp\" width=\"640\" height=\"420\" loading=\"lazy\" alt=\"Polar Co Heating & Cooling team\">",
+   "no_reviews": "<blockquote>\"Fast, honest and fair.\" - A. Rivera</blockquote>",
+   "stale_footer": "<footer>&copy; 2021 Polar Co Heating & Cooling. All rights reserved.</footer>",
+   "no_hours": "NONE",
+   "weak_title": "<title>Polar Co Heating & Cooling | HVAC in Harbor Falls</title>"
+  }
+ },
+ "email": {
+  "subject": "Polar Co's site has no booking button",
+  "body": "Hi Luis,\n\nQuick note on Polar Co's website \u2014 I checked it out and noticed two things likely costing you jobs: there's no way to book or request service online, and no click-to-call button on mobile, so anyone searching for HVAC help from their phone has to hunt for your number or fill out a slow form instead. The footer's also out of date and hours aren't listed, which adds doubt for first-time visitors.\n\nI fix these for a flat fee. Want a free 10-minute walkthrough where I show you exactly what's happening and what I'd change?\n\nAlex\nNorthlight Web",
+  "flaws_mentioned": [
+   "no_booking",
+   "no_click_to_call",
+   "stale_footer",
+   "no_hours"
+  ]
+ },
+ "secs": 14.3
+}

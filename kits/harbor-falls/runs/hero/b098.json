@@ -1,0 +1,37 @@
+{
+ "id": "b098",
+ "audit": {
+  "flags": {
+   "no_mobile": true,
+   "no_booking": false,
+   "no_click_to_call": false,
+   "heavy_images": true,
+   "no_reviews": true,
+   "stale_footer": true,
+   "no_hours": true,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "NONE",
+   "no_booking": "<a class=\"btn\" href=\"/book\">Book online</a>",
+   "no_click_to_call": "<a href=\"tel:55501285576\">(555) 0128-5576</a>",
+   "heavy_images": "<img src=\"/photos/IMG_1342_original_11MB.jpg\" width=\"5184\" alt=\"\">",
+   "no_reviews": "NONE",
+   "stale_footer": "<footer>&copy; 2020 Northwind Co Plumbing. All rights reserved.</footer>",
+   "no_hours": "NONE",
+   "weak_title": "NONE"
+  }
+ },
+ "email": {
+  "subject": "Quick note on the Northwind Co Plumbing site",
+  "body": "Hi Sofia,\n\nI took a look at Northwind Co Plumbing's site. Two things are likely costing you calls: it's not set up for mobile, so most searches for a Harbor Falls plumber probably bounce before they can reach your number. And there's no reviews shown, which matters a lot when someone's picking between plumbers they don't know.\n\nI also noticed heavy images slowing load time, no listed hours, and an outdated footer.\n\nI fix sites like this for a flat fee. Want a free 10-minute walkthrough where I show you exactly what's happening and what it'd take to fix?\n\nAlex\nNorthlight Web",
+  "flaws_mentioned": [
+   "no_mobile",
+   "no_reviews",
+   "heavy_images",
+   "no_hours",
+   "stale_footer"
+  ]
+ },
+ "secs": 14.3
+}

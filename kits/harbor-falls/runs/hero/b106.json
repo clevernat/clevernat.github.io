@@ -1,0 +1,35 @@
+{
+ "id": "b106",
+ "audit": {
+  "flags": {
+   "no_mobile": true,
+   "no_booking": false,
+   "no_click_to_call": true,
+   "heavy_images": true,
+   "no_reviews": false,
+   "stale_footer": false,
+   "no_hours": false,
+   "weak_title": true
+  },
+  "evidence": {
+   "no_mobile": "<head>\n<meta charset=\"utf-8\">\n<title>Home</title>\n</head>",
+   "no_booking": "<a class=\"btn\" href=\"/book\">Book online</a>",
+   "no_click_to_call": "<p>Phone: (555) 0138-2493</p>",
+   "heavy_images": "<img src=\"/photos/IMG_5259_original_12MB.jpg\" width=\"4032\" alt=\"\">",
+   "no_reviews": "<blockquote>\"Fast, honest and fair.\" - A. Rivera</blockquote>",
+   "stale_footer": "<footer>&copy; 2026 Clearwater Works Plumbing. All rights reserved.</footer>",
+   "no_hours": "<h2>Hours</h2><ul><li>Mon-Fri 8:00-17:00</li><li>Sat 9:00-13:00</li></ul>",
+   "weak_title": "<title>Home</title>"
+  }
+ },
+ "email": {
+  "subject": "Clearwater Works: mobile visitors can't call you",
+  "body": "Hi Nora,\n\nI checked Clearwater Works Plumbing's site. Two issues are likely costing you jobs: it doesn't display correctly on mobile, and there's no click-to-call button on phone numbers. Most plumbing searches happen on mobile when someone has a leak right now, and if they can't tap to call in a few seconds, they call the next listing instead.\n\nThe site is also slow to load from heavy, unoptimized images, which pushes impatient mobile visitors away before they see your number.\n\nI fix these for a flat fee. Want a free 10-minute walkthrough showing exactly what's happening and what it'd take to fix?\n\nAlex",
+  "flaws_mentioned": [
+   "no_mobile",
+   "no_click_to_call",
+   "heavy_images"
+  ]
+ },
+ "secs": 13.5
+}

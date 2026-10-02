@@ -1,0 +1,7 @@
+{
+ "type": "price",
+ "owner": "Luis",
+ "message": "Hi Alex, it's Luis at Summit Heating, interesting. What does this cost?",
+ "reply": "Hi Luis, thanks for replying. The fix pack is $900 one-time \u2014 covers the issues we flag in the audit (speed, broken links, mobile, etc). After that, an optional $250/month care plan keeps things monitored and updated if you want it. No pressure either way. Want me to send the audit details first so you can see what's actually wrong?",
+ "pass": true
+}

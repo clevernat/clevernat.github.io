@@ -1,0 +1,34 @@
+{
+ "id": "b143",
+ "audit": {
+  "flags": {
+   "no_mobile": false,
+   "no_booking": false,
+   "no_click_to_call": false,
+   "heavy_images": false,
+   "no_reviews": false,
+   "stale_footer": true,
+   "no_hours": false,
+   "weak_title": true
+  },
+  "evidence": {
+   "no_mobile": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+   "no_booking": "<a class=\"btn\" href=\"/book\">Book online</a>",
+   "no_click_to_call": "<a href=\"tel:55501531525\">(555) 0153-1525</a>",
+   "heavy_images": "<img src=\"/photos/team-1.webp\" width=\"640\" height=\"420\" loading=\"lazy\" alt=\"Luna Pros Hair Studio team\">",
+   "no_reviews": "<blockquote>\"Fast, honest and fair.\" - A. Rivera</blockquote>",
+   "stale_footer": "&copy; 2020 Luna Pros Hair Studio. All rights reserved.",
+   "no_hours": "<h2>Hours</h2><ul><li>Mon-Fri 8:00-17:00</li><li>Sat 9:00-13:00</li></ul>",
+   "weak_title": "<title>Home</title>"
+  }
+ },
+ "email": {
+  "subject": "Luna Pros Hair Studio: two quick fixes",
+  "body": "Hi Ivy,\n\nI looked at Luna Pros Hair Studio's site. Two things are likely costing you bookings: the title tag is weak, so when someone in Harbor Falls searches \"hair salon near me,\" your listing doesn't stand out or clearly say who you are. And the footer still shows outdated info, which makes new visitors double-check whether you're even open before they call.\n\nBoth are quick, flat-fee fixes. Happy to walk you through exactly what I'd change in a free 10-minute call, no obligation.\n\nWorth a quick look?\n\nAlex",
+  "flaws_mentioned": [
+   "weak_title",
+   "stale_footer"
+  ]
+ },
+ "secs": 13.3
+}

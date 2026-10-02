@@ -1,0 +1,34 @@
+{
+ "id": "b203",
+ "audit": {
+  "flags": {
+   "no_mobile": true,
+   "no_booking": true,
+   "no_click_to_call": false,
+   "heavy_images": false,
+   "no_reviews": false,
+   "stale_footer": true,
+   "no_hours": false,
+   "weak_title": true
+  },
+  "evidence": {
+   "no_mobile": "<head>\n<meta charset=\"utf-8\">\n<title>Home</title>\n</head>",
+   "no_booking": "<p>Stop in or give us a ring.</p>",
+   "no_click_to_call": "<p>Phone: <a href=\"tel:55501583548\">(555) 0158-3548</a></p>",
+   "heavy_images": "<img src=\"/photos/team-1.webp\" width=\"640\" height=\"420\" loading=\"lazy\" alt=\"Forge Fitness team\">",
+   "no_reviews": "<blockquote>\"Fast, honest and fair.\" - A. Rivera</blockquote><blockquote>\"Best in town.\" - J. Cho</blockquote>",
+   "stale_footer": "<footer>&copy; 2022 Forge Fitness. All rights reserved.</footer>",
+   "no_hours": "<h2>Hours</h2><ul><li>Mon-Fri 8:00-17:00</li><li>Sat 9:00-13:00</li></ul>",
+   "weak_title": "<title>Home</title>"
+  }
+ },
+ "email": {
+  "subject": "Forge Fitness: no booking button on mobile",
+  "body": "Hi Marcus,\n\nI checked Forge Fitness's site. Two things are likely costing you members: it's not usable on mobile (most people search for gyms on their phone), and there's no way to book a class or trial session online, so anyone ready to join has to call during business hours or give up.\n\nI fix local business sites like this for a flat fee. Want a free 10-minute walkthrough where I show you exactly what's happening and what I'd do? No pitch, just the screen share.\n\nAlex\nNorthlight Web",
+  "flaws_mentioned": [
+   "no_mobile",
+   "no_booking"
+  ]
+ },
+ "secs": 13.6
+}

@@ -1,0 +1,34 @@
+{
+ "id": "b117",
+ "audit": {
+  "flags": {
+   "no_mobile": false,
+   "no_booking": true,
+   "no_click_to_call": false,
+   "heavy_images": true,
+   "no_reviews": true,
+   "stale_footer": false,
+   "no_hours": true,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+   "no_booking": "Stop in or give us a ring.",
+   "no_click_to_call": "<a href=\"tel:55501348513\">(555) 0134-8513</a>",
+   "heavy_images": "<img src=\"/photos/IMG_4448_original_14MB.jpg\" width=\"4032\" alt=\"\">",
+   "no_reviews": "NONE",
+   "stale_footer": "&copy; 2026 Dockside Works Plumbing. All rights reserved.",
+   "no_hours": "NONE",
+   "weak_title": "<title>Dockside Works Plumbing | Plumbing in Harbor Falls</title>"
+  }
+ },
+ "email": {
+  "subject": "Quick fix for Dockside Works' site",
+  "body": "Hi Hannah,\n\nI looked at Dockside Works' website. Two things are likely costing you calls: there's no way to book or request service online, so anyone searching after hours just leaves, and the site doesn't list your business hours, which makes people unsure if you're open and go to a competitor instead.\n\nI fix exactly this kind of thing for a flat fee, no retainer. Want a free 10-minute walkthrough where I show you what's losing you customers and how to fix it?\n\nAlex\nNorthlight Web",
+  "flaws_mentioned": [
+   "no_booking",
+   "no_hours"
+  ]
+ },
+ "secs": 13.1
+}

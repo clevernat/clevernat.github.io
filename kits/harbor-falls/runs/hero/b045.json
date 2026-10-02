@@ -1,0 +1,34 @@
+{
+ "id": "b045",
+ "audit": {
+  "flags": {
+   "no_mobile": false,
+   "no_booking": true,
+   "no_click_to_call": false,
+   "heavy_images": false,
+   "no_reviews": false,
+   "stale_footer": false,
+   "no_hours": false,
+   "weak_title": true
+  },
+  "evidence": {
+   "no_mobile": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+   "no_booking": "Stop in or give us a ring.",
+   "no_click_to_call": "<a href=\"tel:55501727448\">(555) 0172-7448</a>",
+   "heavy_images": "<img src=\"/photos/team-1.webp\" width=\"640\" height=\"420\" loading=\"lazy\" alt=\"Summit Heating & Cooling team\">",
+   "no_reviews": "<blockquote>\"Fast, honest and fair.\" - A. Rivera</blockquote>",
+   "stale_footer": "&copy; 2026 Summit Heating & Cooling. All rights reserved.",
+   "no_hours": "<h2>Hours</h2><ul><li>Mon-Fri 8:00-17:00</li><li>Sat 9:00-13:00</li></ul>",
+   "weak_title": "<title>Home</title>"
+  }
+ },
+ "email": {
+  "subject": "Quick fix for Summit Heating & Cooling's site",
+  "body": "Hi Ben,\n\nI took a look at Summit Heating & Cooling's website. Two things are likely costing you calls:\n\nThere's no way to book or request service online, so anyone searching after hours just moves to the next HVAC company. And the homepage title doesn't mention \"Harbor Falls\" or \"HVAC,\" which hurts how you show up in local searches.\n\nBoth are fixable without a redesign. I run Northlight Web, a one-person shop that fixes stuff like this for a flat fee.\n\nWant a free 10-minute walkthrough showing exactly what I'd change?\n\nAlex",
+  "flaws_mentioned": [
+   "no_booking",
+   "weak_title"
+  ]
+ },
+ "secs": 13.5
+}

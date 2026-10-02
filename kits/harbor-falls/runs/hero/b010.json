@@ -1,0 +1,34 @@
+{
+ "id": "b010",
+ "audit": {
+  "flags": {
+   "no_mobile": false,
+   "no_booking": false,
+   "no_click_to_call": false,
+   "heavy_images": false,
+   "no_reviews": true,
+   "stale_footer": true,
+   "no_hours": false,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+   "no_booking": "<a class=\"btn\" href=\"/book\">Book online</a>",
+   "no_click_to_call": "<a href=\"tel:55501553535\">(555) 0155-3535</a>",
+   "heavy_images": "<img src=\"/photos/team-1.webp\" width=\"640\" height=\"420\" loading=\"lazy\" alt=\"Pearl Group Dentistry team\">",
+   "no_reviews": "NONE",
+   "stale_footer": "&copy; 2020 Pearl Group Dentistry. All rights reserved.",
+   "no_hours": "<h2>Hours</h2><ul><li>Mon-Fri 8:00-17:00</li><li>Sat 9:00-13:00</li></ul>",
+   "weak_title": "<title>Pearl Group Dentistry | Dental in Harbor Falls</title>"
+  }
+ },
+ "email": {
+  "subject": "Pearl Group Dentistry: no reviews showing",
+  "body": "Marcus,\n\nQuick note on Pearl Group Dentistry's site. Two things stood out:\n\nNo patient reviews are displayed anywhere. In Harbor Falls, that's often the deciding factor when someone's comparing dentists before calling \u2014 no proof, no trust, and they call the next practice instead.\n\nThe footer also still shows outdated info, which makes the site feel unmaintained to a new visitor checking you're legit.\n\nHappy to do a free 10-minute walkthrough showing exactly what I'd fix and why. No pitch, just the rundown.\n\nWorth a quick call this week?\n\nAlex\nNorthlight Web",
+  "flaws_mentioned": [
+   "no_reviews",
+   "stale_footer"
+  ]
+ },
+ "secs": 14.1
+}

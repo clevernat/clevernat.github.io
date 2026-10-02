@@ -1,0 +1,36 @@
+{
+ "id": "b065",
+ "audit": {
+  "flags": {
+   "no_mobile": true,
+   "no_booking": true,
+   "no_click_to_call": false,
+   "heavy_images": false,
+   "no_reviews": false,
+   "stale_footer": true,
+   "no_hours": true,
+   "weak_title": true
+  },
+  "evidence": {
+   "no_mobile": "<head>\n<meta charset=\"utf-8\">\n<title>Home</title>\n</head>",
+   "no_booking": "<strong>Book your visit today!</strong> Just ask when you stop by.",
+   "no_click_to_call": "Phone: <a href=\"tel:55501351454\">(555) 0135-1454</a>",
+   "heavy_images": "<img src=\"/photos/team-1.webp\" width=\"640\" height=\"420\" loading=\"lazy\" alt=\"Comfort Co Heating & Cooling team\">",
+   "no_reviews": "<blockquote>\"Fast, honest and fair.\" - A. Rivera</blockquote><blockquote>\"Best in town.\" - J. Cho</blockquote>",
+   "stale_footer": "<footer>&copy; 2019 Comfort Co Heating & Cooling. All rights reserved.</footer>",
+   "no_hours": "<p>Serving Harbor Falls for 22 years. Owner: Omar Mensah.</p>",
+   "weak_title": "<title>Home</title>"
+  }
+ },
+ "email": {
+  "subject": "Comfort Co's site on mobile",
+  "body": "Hi Omar,\n\nI checked Comfort Co Heating & Cooling's website. Two things are likely costing you calls: the site isn't mobile-friendly, and there's no way to book online. Most people searching for HVAC help do it from their phone, often after hours, and if the page doesn't work right or they can't book without calling during business hours, they just go to the next search result.\n\nThe footer's also outdated and the site doesn't list your hours, which makes people second-guess if you're still active.\n\nI fix stuff like this for a flat fee. Want a free 10-minute walkthrough of what I'd change?\n\nAlex\nNorthlight Web",
+  "flaws_mentioned": [
+   "no_mobile",
+   "no_booking",
+   "stale_footer",
+   "no_hours"
+  ]
+ },
+ "secs": 11.8
+}

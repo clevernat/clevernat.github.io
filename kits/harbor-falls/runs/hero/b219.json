@@ -1,0 +1,34 @@
+{
+ "id": "b219",
+ "audit": {
+  "flags": {
+   "no_mobile": false,
+   "no_booking": true,
+   "no_click_to_call": false,
+   "heavy_images": true,
+   "no_reviews": true,
+   "stale_footer": true,
+   "no_hours": true,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+   "no_booking": "Stop in or give us a ring.",
+   "no_click_to_call": "Phone: <a href=\"tel:55501992831\">(555) 0199-2831</a>",
+   "heavy_images": "<img src=\"/photos/IMG_2077_original_9MB.jpg\" width=\"4032\" alt=\"\">",
+   "no_reviews": "NONE",
+   "stale_footer": "&copy; 2022 Anchor Works Fitness. All rights reserved.",
+   "no_hours": "NONE",
+   "weak_title": "<title>Anchor Works Fitness | Fitness in Harbor Falls</title>"
+  }
+ },
+ "email": {
+  "subject": "Quick note on the Anchor Works site",
+  "body": "Hi Nora,\n\nI took a look at Anchor Works Fitness's site. Two things are likely costing you members: there's no way to book a class or session online, so anyone checking at night or between errands has to call and wait or just moves on to a gym where they can book instantly. Also, your hours aren't listed anywhere, so people can't even tell if you're open before showing up or calling.\n\nI fix stuff like this for a flat fee, no retainer. Happy to do a free 10-minute walkthrough and show you exactly what I'd change, no pressure either way.\n\nWorth a quick call this week?\n\nAlex",
+  "flaws_mentioned": [
+   "no_booking",
+   "no_hours"
+  ]
+ },
+ "secs": 14.0
+}

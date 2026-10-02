@@ -1,0 +1,36 @@
+{
+ "id": "b036",
+ "audit": {
+  "flags": {
+   "no_mobile": true,
+   "no_booking": true,
+   "no_click_to_call": false,
+   "heavy_images": false,
+   "no_reviews": false,
+   "stale_footer": true,
+   "no_hours": true,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "NONE",
+   "no_booking": "Stop in or give us a ring.",
+   "no_click_to_call": "Phone: <a href=\"tel:55501217927\">(555) 0121-7927</a>",
+   "heavy_images": "<img src=\"/photos/team-1.webp\" width=\"640\" height=\"420\" loading=\"lazy\" alt=\"Smile Co Dentistry team\">",
+   "no_reviews": "<h2>What customers say</h2><blockquote>\"Fast, honest and fair.\" - A. Rivera</blockquote><blockquote>\"Best in town.\" - J. Cho</blockquote>",
+   "stale_footer": "&copy; 2022 Smile Co Dentistry. All rights reserved.",
+   "no_hours": "NONE",
+   "weak_title": "NONE"
+  }
+ },
+ "email": {
+  "subject": "Smile Co's site is likely losing you new patients",
+  "body": "Hi Marcus,\n\nI looked at Smile Co Dentistry's website. Two things are probably costing you patients: there's no way to book an appointment online, so anyone searching after hours just moves to the next dentist, and the site isn't mobile-friendly, which is how most people find a dentist nearby in the first place. Your footer and office hours also look out of date, which can make people second-guess calling.\n\nI fix sites like this for a flat fee, no retainer. Happy to do a free 10-minute walkthrough showing exactly what I'd change and why.\n\nWorth a quick look?\n\nAlex\nNorthlight Web",
+  "flaws_mentioned": [
+   "no_booking",
+   "no_mobile",
+   "stale_footer",
+   "no_hours"
+  ]
+ },
+ "secs": 12.3
+}

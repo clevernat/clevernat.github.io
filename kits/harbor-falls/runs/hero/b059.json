@@ -1,0 +1,34 @@
+{
+ "id": "b059",
+ "audit": {
+  "flags": {
+   "no_mobile": false,
+   "no_booking": false,
+   "no_click_to_call": false,
+   "heavy_images": false,
+   "no_reviews": true,
+   "stale_footer": false,
+   "no_hours": true,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+   "no_booking": "<a class=\"btn\" href=\"/book\">Book online</a>",
+   "no_click_to_call": "<a href=\"tel:55501268041\">(555) 0126-8041</a>",
+   "heavy_images": "<img src=\"/photos/team-1.webp\" width=\"640\" height=\"420\" loading=\"lazy\" alt=\"Evergreen Works Heating & Cooling team\">",
+   "no_reviews": "NONE",
+   "stale_footer": "&copy; 2026 Evergreen Works Heating & Cooling. All rights reserved.",
+   "no_hours": "NONE",
+   "weak_title": "<title>Evergreen Works Heating & Cooling | HVAC in Harbor Falls</title>"
+  }
+ },
+ "email": {
+  "subject": "Quick fix for Evergreen Works' site",
+  "body": "Hi Priya,\n\nI looked at Evergreen Works' website. Two things are likely costing you calls: there are no customer reviews shown, so people comparing HVAC companies in Harbor Falls have no proof you're reliable before they pick up the phone. And your hours aren't listed, so anyone searching after-hours (a common time for heating/cooling emergencies) can't tell if you're open and goes to a competitor who shows theirs.\n\nBoth are quick fixes. I run a one-person shop fixing exactly this kind of thing for a flat fee.\n\nWant a free 10-minute walkthrough where I show you what I'd change? No pitch, just the fixes.\n\nAlex\nNorthlight Web",
+  "flaws_mentioned": [
+   "no_reviews",
+   "no_hours"
+  ]
+ },
+ "secs": 12.7
+}

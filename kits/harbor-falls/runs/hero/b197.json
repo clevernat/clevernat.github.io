@@ -1,0 +1,37 @@
+{
+ "id": "b197",
+ "audit": {
+  "flags": {
+   "no_mobile": false,
+   "no_booking": true,
+   "no_click_to_call": false,
+   "heavy_images": true,
+   "no_reviews": true,
+   "stale_footer": false,
+   "no_hours": true,
+   "weak_title": true
+  },
+  "evidence": {
+   "no_mobile": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+   "no_booking": "Stop in or give us a ring.",
+   "no_click_to_call": "Phone: <a href=\"tel:55501542979\">(555) 0154-2979</a>",
+   "heavy_images": "<img src=\"/photos/IMG_6157_original_14MB.jpg\" width=\"4032\" alt=\"\">",
+   "no_reviews": "NONE",
+   "stale_footer": "&copy; 2026 Redline Co Auto Care. All rights reserved.",
+   "no_hours": "NONE",
+   "weak_title": "<title>Home</title>"
+  }
+ },
+ "email": {
+  "subject": "Redline Co's site may be losing you bookings",
+  "body": "Hi Hannah,\n\nI looked at Redline Co Auto Care's site. Two things are likely costing you customers: there's no way to book an appointment online, so people who find you after hours just move to the next shop. And the homepage has no customer reviews, which matters a lot for auto care since people want proof before trusting someone with their car.\n\nSmaller issues too: heavy images slow the load, hours aren't listed anywhere, and the page title doesn't say what you do or where.\n\nI fix sites like this for a flat fee, no retainer. Want a free 10-minute walkthrough where I show you exactly what's happening and what I'd fix first?\n\nAlex\nNorthlight Web",
+  "flaws_mentioned": [
+   "no_booking",
+   "no_reviews",
+   "heavy_images",
+   "no_hours",
+   "weak_title"
+  ]
+ },
+ "secs": 13.9
+}

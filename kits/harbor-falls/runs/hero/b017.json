@@ -1,0 +1,36 @@
+{
+ "id": "b017",
+ "audit": {
+  "flags": {
+   "no_mobile": true,
+   "no_booking": false,
+   "no_click_to_call": true,
+   "heavy_images": false,
+   "no_reviews": false,
+   "stale_footer": true,
+   "no_hours": true,
+   "weak_title": true
+  },
+  "evidence": {
+   "no_mobile": "<head>\n<meta charset=\"utf-8\">\n<title>Home</title>\n</head>",
+   "no_booking": "<a class=\"btn\" href=\"/book\">Book online</a>",
+   "no_click_to_call": "<p>Phone: (555) 0133-2741</p>",
+   "heavy_images": "<img src=\"/photos/team-1.webp\" width=\"640\" height=\"420\" loading=\"lazy\" alt=\"Harbor Co Dentistry team\">",
+   "no_reviews": "<h2>What customers say</h2><blockquote>\"Fast, honest and fair.\" - A. Rivera</blockquote><blockquote>\"Best in town.\" - J. Cho</blockquote>",
+   "stale_footer": "<footer>&copy; 2019 Harbor Co Dentistry. All rights reserved.</footer>",
+   "no_hours": "NONE",
+   "weak_title": "<title>Home</title>"
+  }
+ },
+ "email": {
+  "subject": "Harbor Co Dentistry's site is costing you new patients",
+  "body": "Hi Hannah,\n\nI checked Harbor Co Dentistry's site and a couple things are likely costing you patients. It isn't mobile-friendly, so anyone searching for a dentist in Harbor Falls on their phone gets a broken layout and leaves. And there's no click-to-call button, so mobile visitors who want to book can't just tap to dial \u2014 they have to hunt for your number or give up.\n\nThe footer's out of date and hours aren't listed either, which adds friction right when someone's deciding to call.\n\nI fix sites like this for a flat fee. Happy to do a free 10-minute walkthrough showing exactly what's broken \u2014 no obligation.\n\nAlex",
+  "flaws_mentioned": [
+   "no_mobile",
+   "no_click_to_call",
+   "stale_footer",
+   "no_hours"
+  ]
+ },
+ "secs": 15.5
+}

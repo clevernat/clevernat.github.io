@@ -1,0 +1,34 @@
+{
+ "id": "b183",
+ "audit": {
+  "flags": {
+   "no_mobile": false,
+   "no_booking": false,
+   "no_click_to_call": true,
+   "heavy_images": true,
+   "no_reviews": false,
+   "stale_footer": true,
+   "no_hours": true,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+   "no_booking": "<a class=\"btn\" href=\"/book\">Book online</a>",
+   "no_click_to_call": "<p>Phone: (555) 0148-7754</p>",
+   "heavy_images": "<img src=\"/photos/IMG_6031_original_9MB.jpg\" width=\"4608\" alt=\"\">",
+   "no_reviews": "<blockquote>\"Fast, honest and fair.\" - A. Rivera</blockquote>",
+   "stale_footer": "&copy; 2020 Fast Lane Group Auto Care. All rights reserved.",
+   "no_hours": "NONE",
+   "weak_title": "<title>Fast Lane Group Auto Care | Auto Repair in Harbor Falls</title>"
+  }
+ },
+ "email": {
+  "subject": "Fast Lane Group Auto Care - quick site fix",
+  "body": "Hi Grace,\n\nI checked your site and noticed there's no click-to-call button, so mobile visitors looking for a quick quote or tow have to copy your number manually before calling - that's likely costing you calls from people who'd rather just tap and dial. The site also doesn't list your hours anywhere, which means people checking if you're open right now may just move on to a competitor instead.\n\nI fix issues like these for local businesses for a flat fee. Want a free 10-minute walkthrough where I show you exactly what I'd change?\n\nAlex\nNorthlight Web",
+  "flaws_mentioned": [
+   "no_click_to_call",
+   "no_hours"
+  ]
+ },
+ "secs": 11.8
+}

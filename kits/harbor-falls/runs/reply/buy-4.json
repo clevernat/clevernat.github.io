@@ -1,0 +1,7 @@
+{
+ "type": "buy",
+ "owner": "Priya",
+ "message": "Hi Alex, it's Priya at Ironside Auto Care, sounds good, let's do it. How do I pay and when do you start?",
+ "reply": "Hi Priya, great news! I'll send a secure invoice to this email for the $900 fix pack \u2014 payable by card or bank transfer. Once it's paid I'll start within 1-2 business days and keep you posted as I go. I'll also mention the $250/month care plan in the invoice notes if you want ongoing upkeep after the fixes \u2014 no pressure either way. Thanks, Priya!",
+ "pass": true
+}

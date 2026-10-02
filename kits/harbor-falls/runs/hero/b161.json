@@ -1,0 +1,35 @@
+{
+ "id": "b161",
+ "audit": {
+  "flags": {
+   "no_mobile": false,
+   "no_booking": true,
+   "no_click_to_call": false,
+   "heavy_images": true,
+   "no_reviews": true,
+   "stale_footer": true,
+   "no_hours": false,
+   "weak_title": true
+  },
+  "evidence": {
+   "no_mobile": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+   "no_booking": "<p><strong>Book your visit today!</strong> Just ask when you stop by.</p>",
+   "no_click_to_call": "<a href=\"tel:55501933451\">(555) 0193-3451</a>",
+   "heavy_images": "<img src=\"/photos/IMG_4350_original_14MB.jpg\" width=\"4032\" alt=\"\">",
+   "no_reviews": "NONE",
+   "stale_footer": "&copy; 2019 Ironside Auto Care. All rights reserved.",
+   "no_hours": "<h2>Hours</h2><ul><li>Mon-Fri 8:00-17:00</li><li>Sat 9:00-13:00</li></ul>",
+   "weak_title": "<title>Home</title>"
+  }
+ },
+ "email": {
+  "subject": "Quick fix for Ironside Auto Care's site",
+  "body": "Hi Grace,\n\nI looked at Ironside Auto Care's website. Two things are likely costing you booked appointments: there's no way to book or request service online, so anyone searching after hours just moves to the next shop. And the homepage has no customer reviews, which matters a lot in auto care when people are choosing who to trust with their car.\n\nI also noticed heavy, slow-loading images that make the site feel sluggish on mobile.\n\nI fix sites like this for a flat fee, no retainer. Want a free 10-minute walkthrough where I show you exactly what I'd change and why?\n\nAlex\nNorthlight Web",
+  "flaws_mentioned": [
+   "no_booking",
+   "no_reviews",
+   "heavy_images"
+  ]
+ },
+ "secs": 13.8
+}

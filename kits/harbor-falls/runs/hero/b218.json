@@ -1,0 +1,34 @@
+{
+ "id": "b218",
+ "audit": {
+  "flags": {
+   "no_mobile": false,
+   "no_booking": false,
+   "no_click_to_call": false,
+   "heavy_images": false,
+   "no_reviews": true,
+   "stale_footer": true,
+   "no_hours": false,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+   "no_booking": "<a class=\"btn\" href=\"/book\">Book online</a>",
+   "no_click_to_call": "<a href=\"tel:55501106511\">(555) 0110-6511</a>",
+   "heavy_images": "<img src=\"/photos/team-1.webp\" width=\"640\" height=\"420\" loading=\"lazy\" alt=\"Peak Pros Fitness team\">",
+   "no_reviews": "NONE",
+   "stale_footer": "&copy; 2020 Peak Pros Fitness. All rights reserved.",
+   "no_hours": "<h2>Hours</h2><ul><li>Mon-Fri 8:00-17:00</li><li>Sat 9:00-13:00</li></ul>",
+   "weak_title": "<title>Peak Pros Fitness | Fitness in Harbor Falls</title>"
+  }
+ },
+ "email": {
+  "subject": "Peak Pros Fitness: two quick fixes",
+  "body": "Hi Omar,\n\nI checked out the Peak Pros Fitness site. Two things are likely costing you members:\n\nYour footer still shows outdated info (old hours/contact), which makes new visitors double-check elsewhere or just call to confirm - friction that loses bookings. And there are no reviews showing on the site, so people comparing gyms in Harbor Falls have nothing to judge trust by before picking a competitor instead.\n\nBoth are fixable in an afternoon. Want a free 10-minute walkthrough where I show you exactly what I'd change and why?\n\nAlex\nNorthlight Web",
+  "flaws_mentioned": [
+   "stale_footer",
+   "no_reviews"
+  ]
+ },
+ "secs": 11.5
+}

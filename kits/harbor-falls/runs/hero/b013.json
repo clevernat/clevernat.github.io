@@ -1,0 +1,34 @@
+{
+ "id": "b013",
+ "audit": {
+  "flags": {
+   "no_mobile": true,
+   "no_booking": false,
+   "no_click_to_call": false,
+   "heavy_images": false,
+   "no_reviews": true,
+   "stale_footer": true,
+   "no_hours": false,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "<head>\n<meta charset=\"utf-8\">",
+   "no_booking": "<a class=\"btn\" href=\"/book\">Book online</a>",
+   "no_click_to_call": "Phone: <a href=\"tel:55501168402\">(555) 0116-8402</a>",
+   "heavy_images": "<img src=\"/photos/team-1.webp\" width=\"640\" height=\"420\" loading=\"lazy\" alt=\"Shoreline Co Dentistry team\">",
+   "no_reviews": "NONE",
+   "stale_footer": "<footer>&copy; 2020 Shoreline Co Dentistry. All rights reserved.</footer>",
+   "no_hours": "<h2>Hours</h2><ul><li>Mon-Fri 8:00-17:00</li><li>Sat 9:00-13:00</li></ul>",
+   "weak_title": "<meta name=\"description\" content=\"Shoreline Co Dentistry: trusted dental in Harbor Falls for 26 years.\">"
+  }
+ },
+ "email": {
+  "subject": "Shoreline Co Dentistry's site on mobile",
+  "body": "Hi Aisha,\n\nI checked Shoreline Co Dentistry's website. Two things are likely costing you patients: the site isn't mobile-friendly (most people searching for a dentist in Harbor Falls are on their phone, and a broken mobile layout sends them straight to the next listing), and there are no reviews shown, which is often the deciding factor between you and a competitor.\n\nI run Northlight Web, a one-person shop that fixes exactly this kind of thing for a flat fee.\n\nHappy to do a free 10-minute walkthrough showing what I'd fix first, no obligation. Would Thursday or Friday work?\n\nAlex",
+  "flaws_mentioned": [
+   "no_mobile",
+   "no_reviews"
+  ]
+ },
+ "secs": 13.0
+}

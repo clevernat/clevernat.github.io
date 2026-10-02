@@ -1,0 +1,34 @@
+{
+ "id": "b133",
+ "audit": {
+  "flags": {
+   "no_mobile": true,
+   "no_booking": false,
+   "no_click_to_call": true,
+   "heavy_images": false,
+   "no_reviews": false,
+   "stale_footer": false,
+   "no_hours": false,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "<head>\n<meta charset=\"utf-8\">\n<title>Tide Works Hair Studio | Salon in Harbor Falls</title>",
+   "no_booking": "<a class=\"btn\" href=\"/book\">Book online</a>",
+   "no_click_to_call": "<p>Phone: (555) 0190-1818</p>",
+   "heavy_images": "<img src=\"/photos/team-1.webp\" width=\"640\" height=\"420\" loading=\"lazy\" alt=\"Tide Works Hair Studio team\">",
+   "no_reviews": "<h2>What customers say</h2><blockquote>\"Fast, honest and fair.\" - A. Rivera</blockquote><blockquote>\"Best in town.\" - J. Cho</blockquote>",
+   "stale_footer": "<footer>&copy; 2026 Tide Works Hair Studio. All rights reserved.</footer>",
+   "no_hours": "<h2>Hours</h2><ul><li>Mon-Fri 8:00-17:00</li><li>Sat 9:00-13:00</li></ul>",
+   "weak_title": "<title>Tide Works Hair Studio | Salon in Harbor Falls</title>\n<meta name=\"description\" content=\"Tide Works Hair Studio: trusted salon in Harbor Falls for 24 years.\">"
+  }
+ },
+ "email": {
+  "subject": "Tide Works Hair Studio \u2014 quick site fix",
+  "body": "Hi Maria,\n\nI looked at Tide Works Hair Studio's site. Two things are likely costing you bookings: it doesn't display correctly on phones, and there's no tap-to-call button, so mobile visitors can't ring you directly from the page. Since most salon searches happen on phones, that's probably turning lookers into no-shows before they ever call.\n\nI fix sites like this for a flat fee. Want a free 10-minute walkthrough where I show you exactly what's broken and how I'd fix it? No pressure either way.\n\nAlex\nNorthlight Web",
+  "flaws_mentioned": [
+   "no_mobile",
+   "no_click_to_call"
+  ]
+ },
+ "secs": 14.6
+}

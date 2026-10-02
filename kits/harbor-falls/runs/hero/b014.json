@@ -1,0 +1,35 @@
+{
+ "id": "b014",
+ "audit": {
+  "flags": {
+   "no_mobile": false,
+   "no_booking": true,
+   "no_click_to_call": true,
+   "heavy_images": false,
+   "no_reviews": false,
+   "stale_footer": true,
+   "no_hours": false,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+   "no_booking": "<p>Stop in or give us a ring.</p>",
+   "no_click_to_call": "<p>Phone: (555) 0159-5469</p>",
+   "heavy_images": "<img src=\"/photos/team-1.webp\" width=\"640\" height=\"420\" loading=\"lazy\" alt=\"Smile Dentistry team\">",
+   "no_reviews": "<blockquote>\"Fast, honest and fair.\" - A. Rivera</blockquote>",
+   "stale_footer": "<footer>&copy; 2019 Smile Dentistry. All rights reserved.</footer>",
+   "no_hours": "<h2>Hours</h2><ul><li>Mon-Fri 8:00-17:00</li><li>Sat 9:00-13:00</li></ul>",
+   "weak_title": "<title>Smile Dentistry | Dental in Harbor Falls</title>"
+  }
+ },
+ "email": {
+  "subject": "Smile Dentistry: patients can't book or call from your site",
+  "body": "Hi Priya,\n\nI checked Smile Dentistry's site and found two things likely costing you new patients: there's no online booking option, and no click-to-call button on mobile, so anyone searching on their phone has to manually dial or hunt for a contact form. Both are common reasons local patients give up and call a competitor instead. Your footer also still shows an old year, which is a minor trust ding but easy to fix.\n\nI'm Alex, I run Northlight Web, a one-person shop that fixes exactly this kind of thing for a flat fee. Want a free 10-minute walkthrough where I show you the fixes on your actual site? No pressure either way.\n\nAlex",
+  "flaws_mentioned": [
+   "no_booking",
+   "no_click_to_call",
+   "stale_footer"
+  ]
+ },
+ "secs": 13.5
+}

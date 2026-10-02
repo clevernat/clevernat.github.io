@@ -1,0 +1,36 @@
+{
+ "id": "b153",
+ "audit": {
+  "flags": {
+   "no_mobile": false,
+   "no_booking": true,
+   "no_click_to_call": false,
+   "heavy_images": true,
+   "no_reviews": true,
+   "stale_footer": false,
+   "no_hours": true,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+   "no_booking": "Stop in or give us a ring.",
+   "no_click_to_call": "Phone: <a href=\"tel:55501538507\">(555) 0153-8507</a>",
+   "heavy_images": "<img src=\"/photos/IMG_4972_original_13MB.jpg\" width=\"4032\" alt=\"\">",
+   "no_reviews": "<p>Stop in or give us a ring.</p>",
+   "stale_footer": "<footer>&copy; 2026 Saltwater Works Hair Studio. All rights reserved.</footer>",
+   "no_hours": "<p>Serving Harbor Falls for 6 years. Owner: Luis Okafor.</p>",
+   "weak_title": "<title>Saltwater Works Hair Studio | Salon in Harbor Falls</title>"
+  }
+ },
+ "email": {
+  "subject": "Quick fix for Saltwater Works' booking",
+  "body": "Hi Luis,\n\nI looked at Saltwater Works' site. Two things are likely costing you clients: there's no online booking, so anyone searching after hours has no way to grab a slot and probably calls the next salon instead. And your hours aren't listed anywhere on the site, so people can't even tell if you're open before they try.\n\nOn top of that, the photos are slowing the page down, and there are no reviews showing, which makes new visitors less sure about booking with you.\n\nHappy to do a free 10-minute walkthrough and show you exactly what I'd fix first. No pressure either way.\n\nAlex",
+  "flaws_mentioned": [
+   "no_booking",
+   "no_hours",
+   "heavy_images",
+   "no_reviews"
+  ]
+ },
+ "secs": 13.6
+}

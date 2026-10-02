@@ -1,0 +1,34 @@
+{
+ "id": "b038",
+ "audit": {
+  "flags": {
+   "no_mobile": false,
+   "no_booking": true,
+   "no_click_to_call": false,
+   "heavy_images": false,
+   "no_reviews": true,
+   "stale_footer": false,
+   "no_hours": false,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+   "no_booking": "Stop in or give us a ring.",
+   "no_click_to_call": "<a href=\"tel:55501822782\">(555) 0182-2782</a>",
+   "heavy_images": "<img src=\"/photos/team-1.webp\" width=\"640\" height=\"420\" loading=\"lazy\" alt=\"Gentle Co Dentistry team\">",
+   "no_reviews": "NONE",
+   "stale_footer": "<footer>&copy; 2026 Gentle Co Dentistry. All rights reserved.</footer>",
+   "no_hours": "<h2>Hours</h2><ul><li>Mon-Fri 8:00-17:00</li><li>Sat 9:00-13:00</li></ul>",
+   "weak_title": "<title>Gentle Co Dentistry | Dental in Harbor Falls</title>"
+  }
+ },
+ "email": {
+  "subject": "Gentle Co Dentistry: two quick fixes",
+  "body": "Hi Chloe,\n\nI looked at Gentle Co Dentistry's site. Two things are likely costing you new patients:\n\n1. No online booking - people searching for a Harbor Falls dentist at night or on weekends have no way to grab an appointment, so they just call the next practice.\n2. No reviews shown - without visible reviews, new visitors have nothing to confirm you're trustworthy before they call.\n\nI fix these for a flat fee. Happy to do a free 10-minute walkthrough showing exactly what I'd change - no obligation.\n\nWorth a quick look?\n\nAlex\nNorthlight Web",
+  "flaws_mentioned": [
+   "no_booking",
+   "no_reviews"
+  ]
+ },
+ "secs": 20.3
+}

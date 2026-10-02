@@ -1,0 +1,36 @@
+{
+ "id": "b137",
+ "audit": {
+  "flags": {
+   "no_mobile": false,
+   "no_booking": true,
+   "no_click_to_call": true,
+   "heavy_images": false,
+   "no_reviews": false,
+   "stale_footer": false,
+   "no_hours": true,
+   "weak_title": true
+  },
+  "evidence": {
+   "no_mobile": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+   "no_booking": "NONE",
+   "no_click_to_call": "Phone: (555) 0145-5045",
+   "heavy_images": "<img src=\"/photos/team-1.webp\" width=\"640\" height=\"420\" loading=\"lazy\" alt=\"Luna Co Hair Studio team\">",
+   "no_reviews": "<blockquote>\"Fast, honest and fair.\" - A. Rivera</blockquote>",
+   "stale_footer": "&copy; 2026 Luna Co Hair Studio. All rights reserved.",
+   "no_hours": "NONE",
+   "weak_title": "<title>Home</title>"
+  }
+ },
+ "email": {
+  "subject": "Luna Co Hair Studio - quick site note",
+  "body": "Hi Tom,\n\nI checked Luna Co's website and two things are likely costing you bookings. There's no way to book online, so anyone looking after hours just leaves. And there's no click-to-call on mobile, so people have to copy your number by hand instead of tapping to call - most won't bother.\n\nThe site's also missing hours and the page title doesn't say \"hair salon\" or \"Harbor Falls,\" which hurts how you show up in Google search.\n\nI fix issues like these for local businesses for a flat fee. Happy to walk you through what I found in a free 10-minute call, no pitch, just the specifics.\n\nWorth a quick look?\n\nAlex",
+  "flaws_mentioned": [
+   "no_booking",
+   "no_click_to_call",
+   "no_hours",
+   "weak_title"
+  ]
+ },
+ "secs": 12.1
+}

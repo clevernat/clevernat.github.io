@@ -1,0 +1,36 @@
+{
+ "id": "b178",
+ "audit": {
+  "flags": {
+   "no_mobile": false,
+   "no_booking": false,
+   "no_click_to_call": true,
+   "heavy_images": true,
+   "no_reviews": true,
+   "stale_footer": true,
+   "no_hours": true,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+   "no_booking": "<a class=\"btn\" href=\"/book\">Book online</a>",
+   "no_click_to_call": "<p>Phone: (555) 0145-4210</p>",
+   "heavy_images": "<img src=\"/photos/IMG_4890_original_13MB.jpg\" width=\"4608\" alt=\"\">",
+   "no_reviews": "<p>Serving Harbor Falls for 8 years. Owner: Chloe Tanaka.</p>",
+   "stale_footer": "<footer>&copy; 2020 Fast Lane Pros Auto Care. All rights reserved.</footer>",
+   "no_hours": "<footer>&copy; 2020 Fast Lane Pros Auto Care. All rights reserved.</footer>",
+   "weak_title": "<meta name=\"description\" content=\"Fast Lane Pros Auto Care: trusted auto repair in Harbor Falls for 8 years.\">"
+  }
+ },
+ "email": {
+  "subject": "A couple quick fixes for Fast Lane Pros' site",
+  "body": "Hi Chloe,\n\nI took a look at Fast Lane Pros' website. Two things are likely costing you calls: there's no click-to-call button, so mobile visitors have to copy and dial your number manually, and your hours aren't listed anywhere, so people unsure if you're open just call a competitor instead.\n\nI also noticed no customer reviews on the site and a footer with outdated info.\n\nI fix these kinds of issues for a flat fee. Happy to do a free 10-minute walkthrough showing exactly what I'd change, no obligation. Would Thursday or Friday work?\n\nAlex",
+  "flaws_mentioned": [
+   "no_click_to_call",
+   "no_hours",
+   "no_reviews",
+   "stale_footer"
+  ]
+ },
+ "secs": 13.6
+}

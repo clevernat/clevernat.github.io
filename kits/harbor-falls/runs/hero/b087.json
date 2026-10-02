@@ -1,0 +1,36 @@
+{
+ "id": "b087",
+ "audit": {
+  "flags": {
+   "no_mobile": true,
+   "no_booking": false,
+   "no_click_to_call": true,
+   "heavy_images": false,
+   "no_reviews": true,
+   "stale_footer": true,
+   "no_hours": false,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "<head>\n<meta charset=\"utf-8\">\n<title>Rapid Plumbing | Plumbing in Harbor Falls</title>",
+   "no_booking": "<a class=\"btn\" href=\"/book\">Book online</a>",
+   "no_click_to_call": "<p>Phone: (555) 0110-2826</p>",
+   "heavy_images": "<img src=\"/photos/team-1.webp\" width=\"640\" height=\"420\" loading=\"lazy\" alt=\"Rapid Plumbing team\">",
+   "no_reviews": "NONE",
+   "stale_footer": "<footer>&copy; 2019 Rapid Plumbing. All rights reserved.</footer>",
+   "no_hours": "<h2>Hours</h2><ul><li>Mon-Fri 8:00-17:00</li><li>Sat 9:00-13:00</li></ul>",
+   "weak_title": "<meta name=\"description\" content=\"Rapid Plumbing: trusted plumbing in Harbor Falls for 8 years.\">"
+  }
+ },
+ "email": {
+  "subject": "Rapid Plumbing's site may be losing calls",
+  "body": "Hi Maria,\n\nI took a quick look at Rapid Plumbing's website. Two things stood out: it doesn't display properly on phones, and there's no tap-to-call button \u2014 so mobile visitors (most plumbing searches) can't easily reach you and likely just call the next listing instead.\n\nI also noticed no customer reviews are shown and the footer still has outdated info, which can make visitors hesitate before calling.\n\nI fix these kinds of issues for local businesses for a flat fee. Want a free 10-minute walkthrough where I show you exactly what's happening and what it'd take to fix?\n\nAlex\nNorthlight Web",
+  "flaws_mentioned": [
+   "no_mobile",
+   "no_click_to_call",
+   "no_reviews",
+   "stale_footer"
+  ]
+ },
+ "secs": 12.9
+}

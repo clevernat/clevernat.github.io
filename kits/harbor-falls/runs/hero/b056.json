@@ -1,0 +1,34 @@
+{
+ "id": "b056",
+ "audit": {
+  "flags": {
+   "no_mobile": false,
+   "no_booking": true,
+   "no_click_to_call": false,
+   "heavy_images": false,
+   "no_reviews": false,
+   "stale_footer": false,
+   "no_hours": false,
+   "weak_title": true
+  },
+  "evidence": {
+   "no_mobile": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+   "no_booking": "Stop in or give us a ring.",
+   "no_click_to_call": "Phone: <a href=\"tel:55501569842\">(555) 0156-9842</a>",
+   "heavy_images": "<img src=\"/photos/team-1.webp\" width=\"640\" height=\"420\" loading=\"lazy\" alt=\"Comfort Heating & Cooling team\">",
+   "no_reviews": "<h2>What customers say</h2><blockquote>\"Fast, honest and fair.\" - A. Rivera</blockquote><blockquote>\"Best in town.\" - J. Cho</blockquote>",
+   "stale_footer": "<footer>&copy; 2026 Comfort Heating & Cooling. All rights reserved.</footer>",
+   "no_hours": "<h2>Hours</h2><ul><li>Mon-Fri 8:00-17:00</li><li>Sat 9:00-13:00</li></ul>",
+   "weak_title": "<title>Home</title>"
+  }
+ },
+ "email": {
+  "subject": "Quick fix for Comfort Heating & Cooling's site",
+  "body": "Hi Aisha,\n\nI took a quick look at Comfort Heating & Cooling's website. Two things are likely costing you jobs: there's no way to book or request service online, so anyone searching after hours just moves to the next HVAC company. And the homepage title doesn't mention HVAC or Harbor Falls, which hurts how you show up in local search results.\n\nBoth are fixable without a redesign. I'd like to offer a free 10-minute walkthrough where I show you exactly what I'd change and why. No pitch, no obligation.\n\nWould a short call this week work?\n\nAlex",
+  "flaws_mentioned": [
+   "no_booking",
+   "weak_title"
+  ]
+ },
+ "secs": 13.2
+}

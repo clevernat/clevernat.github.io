@@ -1,0 +1,34 @@
+{
+ "id": "t03",
+ "audit": {
+  "flags": {
+   "no_mobile": false,
+   "no_booking": false,
+   "no_click_to_call": false,
+   "heavy_images": true,
+   "no_reviews": true,
+   "stale_footer": true,
+   "no_hours": false,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+   "no_booking": "<a class=\"btn\" href=\"/book\">Book online</a>",
+   "no_click_to_call": "<a href=\"tel:55502342177\">(555) 0234-2177</a>",
+   "heavy_images": "<img src=\"/photos/IMG_8170_original_13MB.jpg\" width=\"5184\" alt=\"\">",
+   "no_reviews": "<p>Serving Harbor Falls for 5 years. Owner: Aisha Brooks.</p>",
+   "stale_footer": "<footer>&copy; 2019 Mainline Plumbing. All rights reserved.</footer>",
+   "no_hours": "<h2>Hours</h2><ul><li>Mon-Fri 8:00-17:00</li><li>Sat 9:00-13:00</li></ul>",
+   "weak_title": "<title>Mainline Plumbing | Plumbing in Harbor Falls</title>"
+  }
+ },
+ "email": {
+  "subject": "Mainline Plumbing site: a couple quick fixes",
+  "body": "Hi Aisha,\n\nI looked at Mainline Plumbing's site. Two things are likely costing you calls: the homepage has no customer reviews, so people comparing plumbers in Harbor Falls have nothing to trust before dialing. And the image sizes are slowing the page down, which pushes mobile visitors (most of your traffic, probably) to leave before it even loads.\n\nI run Northlight Web, a one-person shop that fixes exactly this kind of thing for a flat fee.\n\nWant a free 10-minute walkthrough where I show you both issues on your actual site and what fixing them would look like? No obligation.\n\nAlex",
+  "flaws_mentioned": [
+   "no_reviews",
+   "heavy_images"
+  ]
+ },
+ "secs": 26.8
+}

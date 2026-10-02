@@ -1,0 +1,36 @@
+{
+ "id": "b004",
+ "audit": {
+  "flags": {
+   "no_mobile": true,
+   "no_booking": false,
+   "no_click_to_call": false,
+   "heavy_images": true,
+   "no_reviews": false,
+   "stale_footer": true,
+   "no_hours": true,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "<head>\n<meta charset=\"utf-8\">\n<title>Harbor Pros Dentistry | Dental in Harbor Falls</title>",
+   "no_booking": "<a class=\"btn\" href=\"/book\">Book online</a>",
+   "no_click_to_call": "<a href=\"tel:55501849166\">(555) 0184-9166</a>",
+   "heavy_images": "<img src=\"/photos/IMG_3180_original_13MB.jpg\" width=\"4608\" alt=\"\">",
+   "no_reviews": "<blockquote>\"Fast, honest and fair.\" - A. Rivera</blockquote>",
+   "stale_footer": "<footer>&copy; 2022 Harbor Pros Dentistry. All rights reserved.</footer>",
+   "no_hours": "<p>Serving Harbor Falls for 5 years. Owner: Maria Fischer.</p>",
+   "weak_title": "NONE"
+  }
+ },
+ "email": {
+  "subject": "Harbor Pros Dentistry: mobile visitors are bouncing",
+  "body": "Hi Maria,\n\nI checked Harbor Pros Dentistry's site. Two things are likely costing you new patients: it's not set up for mobile, so anyone searching for a dentist on their phone (most people) gets a broken layout and probably leaves; and there's no office hours listed, so people can't tell if you're open before calling or walking in.\n\nThere's also heavy, slow-loading images and an outdated footer, but the first two are the ones actually driving people away.\n\nI fix sites like this for a flat fee. Want a free 10-minute walkthrough where I show you exactly what's happening and how I'd fix it? No obligation.\n\nAlex\nNorthlight Web",
+  "flaws_mentioned": [
+   "no_mobile",
+   "no_hours",
+   "heavy_images",
+   "stale_footer"
+  ]
+ },
+ "secs": 13.9
+}

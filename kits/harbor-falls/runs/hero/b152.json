@@ -1,0 +1,36 @@
+{
+ "id": "b152",
+ "audit": {
+  "flags": {
+   "no_mobile": true,
+   "no_booking": false,
+   "no_click_to_call": true,
+   "heavy_images": false,
+   "no_reviews": false,
+   "stale_footer": true,
+   "no_hours": true,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "NONE",
+   "no_booking": "<a class=\"btn\" href=\"/book\">Book online</a>",
+   "no_click_to_call": "<p><strong>Call us anytime:</strong> (555) 0114-8713</p>",
+   "heavy_images": "<img src=\"/photos/team-1.webp\" width=\"640\" height=\"420\" loading=\"lazy\" alt=\"Honey Group Hair Studio team\">",
+   "no_reviews": "<h2>What customers say</h2><blockquote>\"Fast, honest and fair.\" - A. Rivera</blockquote><blockquote>\"Best in town.\" - J. Cho</blockquote>",
+   "stale_footer": "&copy; 2022 Honey Group Hair Studio. All rights reserved.",
+   "no_hours": "NONE",
+   "weak_title": "NONE"
+  }
+ },
+ "email": {
+  "subject": "Quick fix for Honey Group's website",
+  "body": "Hi Sofia,\n\nI checked Honey Group Hair Studio's site and noticed it isn't mobile-friendly, and your phone number isn't clickable on mobile. Since most people search for a salon on their phone and tap to call right away, both issues likely mean lost bookings every week.\n\nI also noticed the footer looks outdated and your hours aren't listed, which can make people unsure if you're open.\n\nI fix these for a flat fee. Want a free 10-minute walkthrough showing exactly what's costing you customers?\n\nAlex\nNorthlight Web",
+  "flaws_mentioned": [
+   "no_mobile",
+   "no_click_to_call",
+   "stale_footer",
+   "no_hours"
+  ]
+ },
+ "secs": 12.6
+}

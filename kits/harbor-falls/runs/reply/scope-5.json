@@ -1,0 +1,7 @@
+{
+ "type": "scope",
+ "owner": "Tom",
+ "message": "Hi Alex, it's Tom at Pulse Fitness, nice. Can you also build me a mobile app for bookings and run my Facebook ads while you are at it? Same price?",
+ "reply": "Hey Tom, thanks for the reply! Just to be clear on scope: we only fix websites, so no mobile apps or Facebook ads from us - those need a different specialist. The $900 fix pack covers the website issues we found, one-time. If you want ongoing upkeep after that, the $250/month care plan covers it. Happy to send the audit details if useful.",
+ "pass": true
+}

@@ -1,0 +1,35 @@
+{
+ "id": "b030",
+ "audit": {
+  "flags": {
+   "no_mobile": false,
+   "no_booking": false,
+   "no_click_to_call": false,
+   "heavy_images": true,
+   "no_reviews": false,
+   "stale_footer": true,
+   "no_hours": false,
+   "weak_title": true
+  },
+  "evidence": {
+   "no_mobile": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+   "no_booking": "<a class=\"btn\" href=\"/book\">Book online</a>",
+   "no_click_to_call": "Phone: <a href=\"tel:55501542352\">(555) 0154-2352</a>",
+   "heavy_images": "<img src=\"/photos/IMG_4700_original_9MB.jpg\" width=\"4032\" alt=\"\">",
+   "no_reviews": "<blockquote>\"Fast, honest and fair.\" - A. Rivera</blockquote>",
+   "stale_footer": "<footer>&copy; 2019 Family Works Dentistry. All rights reserved.</footer>",
+   "no_hours": "<h2>Hours</h2><ul><li>Mon-Fri 8:00-17:00</li><li>Sat 9:00-13:00</li></ul>",
+   "weak_title": "<title>Home</title>"
+  }
+ },
+ "email": {
+  "subject": "Family Works Dentistry \u2014 quick site fix idea",
+  "body": "Hi Jack,\n\nI looked at the Family Works Dentistry site. Two things are likely costing you new patients: the homepage images are large enough that the page loads slowly on mobile, and the title tag is generic, so you're probably not showing up well when someone in Harbor Falls searches for a dentist. Also noticed the footer still shows an old year/info, which can make visitors second-guess if the practice is active.\n\nI fix exactly this kind of thing for a flat fee. Happy to walk you through what I found on a free 10-minute call, no pressure either way.\n\nWorth a quick look?\n\nAlex\nNorthlight Web",
+  "flaws_mentioned": [
+   "heavy_images",
+   "weak_title",
+   "stale_footer"
+  ]
+ },
+ "secs": 15.1
+}

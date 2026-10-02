@@ -1,0 +1,34 @@
+{
+ "id": "b174",
+ "audit": {
+  "flags": {
+   "no_mobile": false,
+   "no_booking": true,
+   "no_click_to_call": false,
+   "heavy_images": false,
+   "no_reviews": false,
+   "stale_footer": false,
+   "no_hours": false,
+   "weak_title": true
+  },
+  "evidence": {
+   "no_mobile": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+   "no_booking": "Stop in or give us a ring.",
+   "no_click_to_call": "<a href=\"tel:55501236084\">(555) 0123-6084</a>",
+   "heavy_images": "<img src=\"/photos/team-1.webp\" width=\"640\" height=\"420\" loading=\"lazy\" alt=\"Harbor Co Auto Care team\">",
+   "no_reviews": "<blockquote>\"Fast, honest and fair.\" - A. Rivera</blockquote>",
+   "stale_footer": "&copy; 2026 Harbor Co Auto Care. All rights reserved.",
+   "no_hours": "<h2>Hours</h2><ul><li>Mon-Fri 8:00-17:00</li><li>Sat 9:00-13:00</li></ul>",
+   "weak_title": "<title>Home</title>"
+  }
+ },
+ "email": {
+  "subject": "Quick note on Harbor Co Auto Care's website",
+  "body": "Hi Nora,\n\nI took a look at Harbor Co Auto Care's site. Two things are likely costing you customers: there's no way to book an appointment online, so anyone searching after hours just moves to the next shop, and the homepage title doesn't say \"auto repair\" or \"Harbor Falls,\" which hurts how you show up in Google searches.\n\nBoth are fixable without a redesign. I run a one-person shop fixing exactly this kind of thing for a flat fee.\n\nHappy to do a free 10-minute walkthrough showing what I'd change and why. No pitch if it's not a fit.\n\nAlex",
+  "flaws_mentioned": [
+   "no_booking",
+   "weak_title"
+  ]
+ },
+ "secs": 14.6
+}

@@ -1,0 +1,34 @@
+{
+ "id": "b184",
+ "audit": {
+  "flags": {
+   "no_mobile": true,
+   "no_booking": false,
+   "no_click_to_call": true,
+   "heavy_images": true,
+   "no_reviews": true,
+   "stale_footer": false,
+   "no_hours": false,
+   "weak_title": true
+  },
+  "evidence": {
+   "no_mobile": "<meta charset=\"utf-8\">",
+   "no_booking": "<a class=\"btn\" href=\"/book\">Book online</a>",
+   "no_click_to_call": "<p>Phone: (555) 0193-9805</p>",
+   "heavy_images": "<img src=\"/photos/IMG_1497_original_12MB.jpg\" width=\"4032\" alt=\"\">",
+   "no_reviews": "NONE",
+   "stale_footer": "<footer>&copy; 2026 Pistons Pros Auto Care. All rights reserved.</footer>",
+   "no_hours": "<h2>Hours</h2><ul><li>Mon-Fri 8:00-17:00</li><li>Sat 9:00-13:00</li></ul>",
+   "weak_title": "<title>Home</title>"
+  }
+ },
+ "email": {
+  "subject": "Quick fix for Pistons Pros' mobile traffic",
+  "body": "Hi Luis,\n\nI checked Pistons Pros Auto Care's site. On mobile it doesn't display correctly, and there's no tap-to-call button, so people searching for auto care in Harbor Falls on their phones can't easily reach you or even read the page. That's likely your biggest source of lost calls.\n\nI fix these for a flat fee, no retainer. Want a free 10-minute walkthrough where I show you exactly what's broken and what it'd take to fix?\n\nNo pressure either way.\n\nAlex\nNorthlight Web",
+  "flaws_mentioned": [
+   "no_mobile",
+   "no_click_to_call"
+  ]
+ },
+ "secs": 12.8
+}

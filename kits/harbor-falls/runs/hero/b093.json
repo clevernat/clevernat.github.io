@@ -1,0 +1,36 @@
+{
+ "id": "b093",
+ "audit": {
+  "flags": {
+   "no_mobile": false,
+   "no_booking": true,
+   "no_click_to_call": true,
+   "heavy_images": false,
+   "no_reviews": false,
+   "stale_footer": true,
+   "no_hours": true,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+   "no_booking": "Phone: (555) 0144-6294",
+   "no_click_to_call": "Phone: (555) 0144-6294",
+   "heavy_images": "<img src=\"/photos/team-1.webp\" width=\"640\" height=\"420\" loading=\"lazy\" alt=\"Northwind Pros Plumbing team\">",
+   "no_reviews": "<blockquote>\"Fast, honest and fair.\" - A. Rivera</blockquote>",
+   "stale_footer": "&copy; 2020 Northwind Pros Plumbing. All rights reserved.",
+   "no_hours": "<p>Stop in or give us a ring.</p>",
+   "weak_title": "<title>Northwind Pros Plumbing | Plumbing in Harbor Falls</title>"
+  }
+ },
+ "email": {
+  "subject": "Quick fix for Northwind Pros Plumbing's site",
+  "body": "Hi Ben,\n\nI checked your site and found two things likely costing you jobs: there's no click-to-call link, so mobile visitors searching for a plumber can't tap to dial you, and there's no booking option, so anyone ready to schedule has to call during business hours or give up. I also noticed no posted hours and an outdated footer, which can make visitors unsure you're still active.\n\nI fix these for a flat fee, no ongoing contracts. Want a free 10-minute walkthrough this week where I show you exactly what's happening and what it'd take to fix?\n\nAlex",
+  "flaws_mentioned": [
+   "no_click_to_call",
+   "no_booking",
+   "no_hours",
+   "stale_footer"
+  ]
+ },
+ "secs": 13.1
+}

@@ -1,0 +1,34 @@
+{
+ "id": "b041",
+ "audit": {
+  "flags": {
+   "no_mobile": false,
+   "no_booking": false,
+   "no_click_to_call": false,
+   "heavy_images": true,
+   "no_reviews": false,
+   "stale_footer": false,
+   "no_hours": false,
+   "weak_title": true
+  },
+  "evidence": {
+   "no_mobile": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+   "no_booking": "<a class=\"btn\" href=\"/book\">Book online</a>",
+   "no_click_to_call": "<a href=\"tel:55501529789\">(555) 0152-9789</a>",
+   "heavy_images": "<img src=\"/photos/IMG_1727_original_13MB.jpg\" width=\"4608\" alt=\"\">",
+   "no_reviews": "<blockquote>\"Fast, honest and fair.\" - A. Rivera</blockquote>",
+   "stale_footer": "&copy; 2026 Arctic Heating & Cooling. All rights reserved.",
+   "no_hours": "<h2>Hours</h2><ul><li>Mon-Fri 8:00-17:00</li><li>Sat 9:00-13:00</li></ul>",
+   "weak_title": "<title>Home</title>"
+  }
+ },
+ "email": {
+  "subject": "Arctic Heating & Cooling's site may be losing calls",
+  "body": "Hi Tom,\n\nI looked at Arctic Heating & Cooling's website. Two things are likely costing you customers:\n\nYour homepage images are large and unoptimized, which slows load time significantly, especially on mobile. In Harbor Falls, someone with a no-heat emergency searching on their phone will often leave before it loads and call the next HVAC company instead.\n\nYour page title also doesn't mention \"heating\" or \"cooling\" or your service area, so you're likely getting buried below competitors in local search results for those terms.\n\nI fix issues like these for a flat fee. Happy to do a free 10-minute walkthrough showing exactly what I'd change, no obligation.\n\nWorth a quick call this week?\n\nAlex",
+  "flaws_mentioned": [
+   "heavy_images",
+   "weak_title"
+  ]
+ },
+ "secs": 14.7
+}

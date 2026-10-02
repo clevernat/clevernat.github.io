@@ -1,0 +1,34 @@
+{
+ "id": "t01",
+ "audit": {
+  "flags": {
+   "no_mobile": false,
+   "no_booking": false,
+   "no_click_to_call": false,
+   "heavy_images": true,
+   "no_reviews": true,
+   "stale_footer": false,
+   "no_hours": false,
+   "weak_title": true
+  },
+  "evidence": {
+   "no_mobile": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+   "no_booking": "<a class=\"btn\" href=\"/book\">Book online</a>",
+   "no_click_to_call": "<a href=\"tel:55502404164\">(555) 0240-4164</a>",
+   "heavy_images": "<img src=\"/photos/IMG_4896_original_10MB.jpg\" width=\"5184\" alt=\"\">",
+   "no_reviews": "NONE",
+   "stale_footer": "<footer>&copy; 2026 Gentle Dentistry. All rights reserved.</footer>",
+   "no_hours": "<h2>Hours</h2><ul><li>Mon-Fri 8:00-17:00</li><li>Sat 9:00-13:00</li></ul>",
+   "weak_title": "<title>Home</title>"
+  }
+ },
+ "email": {
+  "subject": "Your site's photos may be costing you patients",
+  "body": "Hi Grace,\n\nI looked at Gentle Dentistry's site. Your three photos are 9-12MB each unresized, which makes the page slow to load, especially on phones. Most people searching for a dentist nearby will bounce before it finishes loading, often straight to a competitor's listing.\n\nI also didn't see any patient reviews on the page. For a dental practice, that's usually the first thing new patients look for before booking.\n\nI fix issues like these for a flat fee. Want a free 10-minute walkthrough of what's slowing your site down and what I'd do about it?\n\nAlex\nNorthlight Web",
+  "flaws_mentioned": [
+   "heavy_images",
+   "no_reviews"
+  ]
+ },
+ "secs": 22.1
+}

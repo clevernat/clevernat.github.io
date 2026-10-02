@@ -1,0 +1,36 @@
+{
+ "id": "b140",
+ "audit": {
+  "flags": {
+   "no_mobile": true,
+   "no_booking": true,
+   "no_click_to_call": false,
+   "heavy_images": true,
+   "no_reviews": false,
+   "stale_footer": false,
+   "no_hours": true,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "<head>",
+   "no_booking": "<p>Stop in or give us a ring.</p>",
+   "no_click_to_call": "<a href=\"tel:55501242199\">(555) 0124-2199</a>",
+   "heavy_images": "<img src=\"/photos/IMG_3860_original_9MB.jpg\" width=\"4608\" alt=\"\">",
+   "no_reviews": "<blockquote>\"Fast, honest and fair.\" - A. Rivera</blockquote>",
+   "stale_footer": "&copy; 2026 Honey Co Hair Studio. All rights reserved.",
+   "no_hours": "<p>Serving Harbor Falls for 7 years. Owner: Marcus Bauer.</p>",
+   "weak_title": "<meta name=\"description\" content=\"Honey Co Hair Studio: trusted salon in Harbor Falls for 7 years.\">"
+  }
+ },
+ "email": {
+  "subject": "Honey Co Hair Studio: quick site fix list",
+  "body": "Hi Marcus,\n\nI checked Honey Co Hair Studio's site. Two things are likely costing you bookings: it's not mobile-friendly, and there's no booking option, so anyone browsing on their phone (most people) can't actually book a cut without calling. On top of that, the site has no listed hours and the images are slow to load, which doesn't help either.\n\nI fix sites like this for a flat fee, no retainer. Happy to do a free 10-minute walkthrough and show you exactly what I'd change and why.\n\nWorth a quick call this week?\n\nAlex",
+  "flaws_mentioned": [
+   "no_mobile",
+   "no_booking",
+   "no_hours",
+   "heavy_images"
+  ]
+ },
+ "secs": 11.4
+}

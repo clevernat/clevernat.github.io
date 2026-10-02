@@ -1,0 +1,7 @@
+{
+ "type": "scope",
+ "owner": "Maria",
+ "message": "Hi Alex, it's Maria at Bright Dentistry, nice. Can you also build me a mobile app for bookings and run my Facebook ads while you are at it? Same price?",
+ "reply": "Hi Maria, thanks for the quick reply! Just to be clear on scope: we only do website fixes, not mobile apps or ad management. The $900 fix pack covers your site issues (speed, mobile, broken stuff, etc.), one-time. If you need apps or Facebook ads, you'd want a specialist for those - happy to point you in a direction if helpful. Want me to send over the audit findings first?",
+ "pass": true
+}

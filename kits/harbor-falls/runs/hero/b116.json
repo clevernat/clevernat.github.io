@@ -1,0 +1,36 @@
+{
+ "id": "b116",
+ "audit": {
+  "flags": {
+   "no_mobile": false,
+   "no_booking": false,
+   "no_click_to_call": true,
+   "heavy_images": true,
+   "no_reviews": true,
+   "stale_footer": false,
+   "no_hours": true,
+   "weak_title": true
+  },
+  "evidence": {
+   "no_mobile": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+   "no_booking": "<a class=\"btn\" href=\"/book\">Book online</a>",
+   "no_click_to_call": "<p>Phone: (555) 0140-9179</p>",
+   "heavy_images": "<img src=\"/photos/IMG_9146_original_10MB.jpg\" width=\"4608\" alt=\"\">",
+   "no_reviews": "NONE",
+   "stale_footer": "<footer>&copy; 2026 Anchor Works Plumbing. All rights reserved.</footer>",
+   "no_hours": "NONE",
+   "weak_title": "<title>Home</title>"
+  }
+ },
+ "email": {
+  "subject": "Anchor Works: two quick fixes, likely costing calls",
+  "body": "Hi Sam,\n\nTook a quick look at Anchor Works Plumbing's site. Two things stood out: there's no click-to-call button, so mobile visitors with a leaking pipe have to manually dial instead of tapping once - that's a real drop-off for emergency plumbing searches. And your hours aren't listed anywhere, so people can't tell if you're open right now and often just call the next result.\n\nI also noticed no customer reviews on the page and a page title that doesn't say \"plumber\" or \"Harbor Falls,\" which hurts how you show up in search.\n\nI fix these for a flat fee. Want a free 10-minute walkthrough of what's costing you the most?\n\nAlex",
+  "flaws_mentioned": [
+   "no_click_to_call",
+   "no_hours",
+   "no_reviews",
+   "weak_title"
+  ]
+ },
+ "secs": 16.5
+}

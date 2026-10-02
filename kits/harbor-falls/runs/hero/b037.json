@@ -1,0 +1,35 @@
+{
+ "id": "b037",
+ "audit": {
+  "flags": {
+   "no_mobile": true,
+   "no_booking": false,
+   "no_click_to_call": false,
+   "heavy_images": true,
+   "no_reviews": false,
+   "stale_footer": false,
+   "no_hours": true,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "<meta charset=\"utf-8\">",
+   "no_booking": "<a class=\"btn\" href=\"/book\">Book online</a>",
+   "no_click_to_call": "<a href=\"tel:55501963589\">(555) 0196-3589</a>",
+   "heavy_images": "<img src=\"/photos/IMG_3041_original_9MB.jpg\" width=\"4032\" alt=\"\">",
+   "no_reviews": "<blockquote>\"Fast, honest and fair.\" - A. Rivera</blockquote>",
+   "stale_footer": "<footer>&copy; 2026 Lighthouse Works Dentistry. All rights reserved.</footer>",
+   "no_hours": "NONE",
+   "weak_title": "<meta name=\"description\" content=\"Lighthouse Works Dentistry: trusted dental in Harbor Falls for 5 years.\">"
+  }
+ },
+ "email": {
+  "subject": "A couple of quick fixes for Lighthouse Works' site",
+  "body": "Hi Chloe,\n\nI took a look at Lighthouse Works Dentistry's website. Two things are likely costing you new patients: it isn't set up for mobile, so anyone searching on their phone (most people) has a hard time booking, and your hours aren't listed anywhere, so people can't tell if you're open before they call. The site is also slow to load due to large images, which doesn't help either.\n\nI fix exactly this kind of thing for a flat fee. Happy to walk you through what I found in a free 10-minute call, no obligation.\n\nWorth a quick look?\n\nAlex",
+  "flaws_mentioned": [
+   "no_mobile",
+   "no_hours",
+   "heavy_images"
+  ]
+ },
+ "secs": 19.4
+}

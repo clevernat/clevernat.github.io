@@ -1,0 +1,34 @@
+{
+ "id": "b066",
+ "audit": {
+  "flags": {
+   "no_mobile": true,
+   "no_booking": false,
+   "no_click_to_call": true,
+   "heavy_images": true,
+   "no_reviews": false,
+   "stale_footer": true,
+   "no_hours": false,
+   "weak_title": true
+  },
+  "evidence": {
+   "no_mobile": "<head>\n<meta charset=\"utf-8\">\n<title>Home</title>\n</head>",
+   "no_booking": "<a class=\"btn\" href=\"/book\">Book online</a>",
+   "no_click_to_call": "<p>Phone: (555) 0135-9874</p>",
+   "heavy_images": "<img src=\"/photos/IMG_7293_original_12MB.jpg\" width=\"4608\" alt=\"\">",
+   "no_reviews": "<blockquote>\"Fast, honest and fair.\" - A. Rivera</blockquote><blockquote>\"Best in town.\" - J. Cho</blockquote>",
+   "stale_footer": "<footer>&copy; 2021 Comfort Pros Heating & Cooling. All rights reserved.</footer>",
+   "no_hours": "<h2>Hours</h2><ul><li>Mon-Fri 8:00-17:00</li><li>Sat 9:00-13:00</li></ul>",
+   "weak_title": "<title>Home</title>"
+  }
+ },
+ "email": {
+  "subject": "Comfort Pros site: mobile visitors can't call you",
+  "body": "Hi Ivy,\n\nI checked Comfort Pros Heating & Cooling's site. Two things are likely costing you jobs: it doesn't work well on phones, and there's no click-to-call button. Since most people search for HVAC help on their phone when something's broken, anyone trying to reach you on mobile either can't navigate the page easily or has to manually dial your number instead of tapping it. Both are quick fixes.\n\nI run Northlight Web, a one-person shop that fixes stuff like this for a flat fee. Want a free 10-minute walkthrough where I show you exactly what's happening and what I'd do?\n\nAlex",
+  "flaws_mentioned": [
+   "no_mobile",
+   "no_click_to_call"
+  ]
+ },
+ "secs": 13.7
+}

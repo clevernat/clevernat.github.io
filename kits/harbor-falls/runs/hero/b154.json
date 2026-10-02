@@ -1,0 +1,36 @@
+{
+ "id": "b154",
+ "audit": {
+  "flags": {
+   "no_mobile": true,
+   "no_booking": true,
+   "no_click_to_call": true,
+   "heavy_images": false,
+   "no_reviews": false,
+   "stale_footer": true,
+   "no_hours": false,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "<meta charset=\"utf-8\">",
+   "no_booking": "Stop in or give us a ring.",
+   "no_click_to_call": "Phone: (555) 0121-8206",
+   "heavy_images": "<img src=\"/photos/team-1.webp\" width=\"640\" height=\"420\" loading=\"lazy\" alt=\"Mane Street Works Hair Studio team\">",
+   "no_reviews": "<blockquote>\"Fast, honest and fair.\" - A. Rivera</blockquote>",
+   "stale_footer": "&copy; 2022 Mane Street Works Hair Studio. All rights reserved.",
+   "no_hours": "<h2>Hours</h2><ul><li>Mon-Fri 8:00-17:00</li><li>Sat 9:00-13:00</li></ul>",
+   "weak_title": "<meta name=\"description\" content=\"Mane Street Works Hair Studio: trusted salon in Harbor Falls for 3 years.\">"
+  }
+ },
+ "email": {
+  "subject": "Mane Street Works: two quick fixes",
+  "body": "Hi Nora,\n\nI checked Mane Street Works' site. Two things are likely costing you bookings: it isn't mobile-friendly, so most phone visitors struggle to even browse it, and there's no click-to-call button, so people searching on their phones can't tap to ring you directly. On top of that, there's no online booking and the footer still has outdated info.\n\nI fix sites like this for a flat fee. Want a free 10-minute walkthrough where I show you exactly what's happening and what I'd change?\n\nAlex\nNorthlight Web",
+  "flaws_mentioned": [
+   "no_mobile",
+   "no_click_to_call",
+   "no_booking",
+   "stale_footer"
+  ]
+ },
+ "secs": 13.8
+}

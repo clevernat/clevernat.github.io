@@ -1,0 +1,36 @@
+{
+ "id": "b070",
+ "audit": {
+  "flags": {
+   "no_mobile": true,
+   "no_booking": false,
+   "no_click_to_call": false,
+   "heavy_images": false,
+   "no_reviews": true,
+   "stale_footer": false,
+   "no_hours": true,
+   "weak_title": true
+  },
+  "evidence": {
+   "no_mobile": "<meta charset=\"utf-8\">",
+   "no_booking": "<a class=\"btn\" href=\"/book\">Book online</a>",
+   "no_click_to_call": "<a href=\"tel:55501102138\">(555) 0110-2138</a>",
+   "heavy_images": "<img src=\"/photos/team-1.webp\" width=\"640\" height=\"420\" loading=\"lazy\" alt=\"Comfort Group Heating & Cooling team\">",
+   "no_reviews": "<p>Serving Harbor Falls for 3 years. Owner: Nora Patel.</p>",
+   "stale_footer": "&copy; 2026 Comfort Group Heating & Cooling. All rights reserved.",
+   "no_hours": "<p>Phone: <a href=\"tel:55501102138\">(555) 0110-2138</a></p>",
+   "weak_title": "<title>Home</title>"
+  }
+ },
+ "email": {
+  "subject": "Quick fix for Comfort Group's website",
+  "body": "Hi Nora,\n\nI checked Comfort Group Heating & Cooling's site. Two things are likely costing you calls: it doesn't display properly on phones, which is where most people search for an HVAC company in Harbor Falls, and there's no sign of your business hours, so visitors can't tell if you're open before calling.\n\nI also noticed no customer reviews are shown and the page title doesn't say what you do or where.\n\nI fix these for a flat fee. Happy to do a free 10-minute walkthrough showing exactly what's losing you leads, no pitch. Would this week work?\n\nAlex\nNorthlight Web",
+  "flaws_mentioned": [
+   "no_mobile",
+   "no_hours",
+   "no_reviews",
+   "weak_title"
+  ]
+ },
+ "secs": 17.0
+}

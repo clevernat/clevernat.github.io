@@ -1,0 +1,36 @@
+{
+ "id": "b239",
+ "audit": {
+  "flags": {
+   "no_mobile": true,
+   "no_booking": true,
+   "no_click_to_call": true,
+   "heavy_images": false,
+   "no_reviews": false,
+   "stale_footer": false,
+   "no_hours": true,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "<head>\n<meta charset=\"utf-8\">",
+   "no_booking": "<p>Stop in or give us a ring.</p>",
+   "no_click_to_call": "<p>Phone: (555) 0176-7645</p>",
+   "heavy_images": "<img src=\"/photos/team-1.webp\" width=\"640\" height=\"420\" loading=\"lazy\" alt=\"Stride Works Fitness team\">",
+   "no_reviews": "<blockquote>\"Fast, honest and fair.\" - A. Rivera</blockquote>",
+   "stale_footer": "<footer>&copy; 2026 Stride Works Fitness. All rights reserved.</footer>",
+   "no_hours": "<p>Phone: (555) 0176-7645</p>",
+   "weak_title": "<meta name=\"description\" content=\"Stride Works Fitness: trusted fitness in Harbor Falls for 17 years.\">"
+  }
+ },
+ "email": {
+  "subject": "Stride Works Fitness: mobile visitors can't book",
+  "body": "Hi Luis,\n\nI checked Stride Works Fitness's site. Two issues are likely costing you members: it's not mobile-friendly, and there's no online booking. Most people searching for a gym do it on their phone, often right after a workout or a search for \"gyms near me\" - if the page is hard to use and they can't book a class on the spot, they leave and try a competitor instead.\n\nThe site also has no click-to-call button and doesn't list your hours, which adds friction for anyone trying to reach you quickly.\n\nI fix issues like these for a flat fee. Happy to do a free 10-minute walkthrough showing exactly what's going on and what I'd change - no obligation either way.\n\nWorth a quick look?\n\nAlex",
+  "flaws_mentioned": [
+   "no_mobile",
+   "no_booking",
+   "no_click_to_call",
+   "no_hours"
+  ]
+ },
+ "secs": 23.0
+}

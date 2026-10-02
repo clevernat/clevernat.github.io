@@ -1,0 +1,37 @@
+{
+ "id": "b077",
+ "audit": {
+  "flags": {
+   "no_mobile": true,
+   "no_booking": true,
+   "no_click_to_call": false,
+   "heavy_images": true,
+   "no_reviews": false,
+   "stale_footer": true,
+   "no_hours": false,
+   "weak_title": true
+  },
+  "evidence": {
+   "no_mobile": "<head>\n<meta charset=\"utf-8\">\n<title>Home</title>\n</head>",
+   "no_booking": "<p>Stop in or give us a ring.</p>",
+   "no_click_to_call": "<a href=\"tel:55501797628\">(555) 0179-7628</a>",
+   "heavy_images": "<img src=\"/photos/IMG_4175_original_14MB.jpg\" width=\"5184\" alt=\"\">",
+   "no_reviews": "<blockquote>\"Fast, honest and fair.\" - A. Rivera</blockquote>",
+   "stale_footer": "&copy; 2022 Polar Group Heating & Cooling. All rights reserved.",
+   "no_hours": "<h2>Hours</h2><ul><li>Mon-Fri 8:00-17:00</li><li>Sat 9:00-13:00</li></ul>",
+   "weak_title": "<title>Home</title>"
+  }
+ },
+ "email": {
+  "subject": "Polar Group's site may be losing HVAC calls",
+  "body": "Hi Sofia,\n\nI took a quick look at Polar Group Heating & Cooling's website. Two things stood out: it isn't optimized for mobile, so most people searching \"HVAC repair near me\" on their phone likely struggle to use it or leave. And there's no way to book a service call online, so anyone visiting outside business hours has no option but to try a competitor instead.\n\nThe page title is also weak for search visibility, images are slowing load times, and the footer looks outdated.\n\nI run Northlight Web, fixing local business sites for a flat fee. Want a free 10-minute walkthrough of what I'd prioritize first?\n\nAlex",
+  "flaws_mentioned": [
+   "no_mobile",
+   "no_booking",
+   "weak_title",
+   "heavy_images",
+   "stale_footer"
+  ]
+ },
+ "secs": 18.5
+}

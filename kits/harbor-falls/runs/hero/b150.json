@@ -1,0 +1,37 @@
+{
+ "id": "b150",
+ "audit": {
+  "flags": {
+   "no_mobile": true,
+   "no_booking": true,
+   "no_click_to_call": false,
+   "heavy_images": false,
+   "no_reviews": true,
+   "stale_footer": false,
+   "no_hours": true,
+   "weak_title": true
+  },
+  "evidence": {
+   "no_mobile": "<meta charset=\"utf-8\">",
+   "no_booking": "<p>Stop in or give us a ring.</p>",
+   "no_click_to_call": "<a href=\"tel:55501693101\">(555) 0169-3101</a>",
+   "heavy_images": "<img src=\"/photos/team-1.webp\" width=\"640\" height=\"420\" loading=\"lazy\" alt=\"Velvet Works Hair Studio team\">",
+   "no_reviews": "NONE",
+   "stale_footer": "<footer>&copy; 2026 Velvet Works Hair Studio. All rights reserved.</footer>",
+   "no_hours": "NONE",
+   "weak_title": "<title>Home</title>"
+  }
+ },
+ "email": {
+  "subject": "Velvet Works: a couple of quick fixes",
+  "body": "Hi Ivy,\n\nI checked Velvet Works Hair Studio's site. Two things are likely costing you clients: it isn't mobile-friendly, so anyone searching on their phone (most people) struggles to even load it, and there's no online booking, so people who want to book outside business hours just move on to a salon where they can.\n\nThe site also has no reviews shown, no listed hours, and a page title that doesn't say \"hair salon in Harbor Falls,\" which hurts how you show up in search.\n\nHappy to do a free 10-minute walkthrough and show you exactly what I mean, no obligation.\n\nAlex\nNorthlight Web",
+  "flaws_mentioned": [
+   "no_mobile",
+   "no_booking",
+   "no_reviews",
+   "no_hours",
+   "weak_title"
+  ]
+ },
+ "secs": 16.2
+}

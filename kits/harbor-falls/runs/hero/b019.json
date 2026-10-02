@@ -1,0 +1,37 @@
+{
+ "id": "b019",
+ "audit": {
+  "flags": {
+   "no_mobile": true,
+   "no_booking": true,
+   "no_click_to_call": true,
+   "heavy_images": true,
+   "no_reviews": true,
+   "stale_footer": false,
+   "no_hours": false,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "NONE",
+   "no_booking": "Stop in or give us a ring.",
+   "no_click_to_call": "Phone: (555) 0164-2956",
+   "heavy_images": "<img src=\"/photos/IMG_6619_original_12MB.jpg\" width=\"4608\" alt=\"\">",
+   "no_reviews": "NONE",
+   "stale_footer": "&copy; 2026 Bright Pros Dentistry. All rights reserved.",
+   "no_hours": "<h2>Hours</h2><ul><li>Mon-Fri 8:00-17:00</li><li>Sat 9:00-13:00</li></ul>",
+   "weak_title": "NONE"
+  }
+ },
+ "email": {
+  "subject": "Bright Pros Dentistry: two quick site fixes",
+  "body": "Hi Grace,\n\nI checked Bright Pros Dentistry's site. Two things are likely costing you new patients: there's no click-to-call button, so mobile visitors searching \"dentist Harbor Falls\" can't call you without hunting for a number, and there's no online booking, so anyone browsing after hours just leaves instead of grabbing a slot. The site also isn't mobile-friendly and loads slowly from large images, and there are no patient reviews shown.\n\nI fix these for a flat fee. Happy to do a free 10-minute walkthrough showing exactly what's losing you patients, no pressure either way.\n\nWould Tuesday or Wednesday work?\n\nAlex\nNorthlight Web",
+  "flaws_mentioned": [
+   "no_click_to_call",
+   "no_booking",
+   "no_mobile",
+   "heavy_images",
+   "no_reviews"
+  ]
+ },
+ "secs": 13.3
+}

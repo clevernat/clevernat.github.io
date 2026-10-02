@@ -1,0 +1,7 @@
+{
+ "type": "price",
+ "owner": "Maria",
+ "message": "Hi Alex, it's Maria at Bright Dentistry, interesting. What does this cost?",
+ "reply": "Hi Maria, thanks for replying! It's a flat $900 one-time fix pack covering the issues we found (speed, mobile, broken links, etc. - no surprises after). Optional: $250/month care plan for ongoing updates and monitoring if you want it, but no obligation. Happy to send the specific findings for your site first if that's useful. No pressure either way.",
+ "pass": true
+}

@@ -1,0 +1,37 @@
+{
+ "id": "b085",
+ "audit": {
+  "flags": {
+   "no_mobile": false,
+   "no_booking": true,
+   "no_click_to_call": true,
+   "heavy_images": true,
+   "no_reviews": false,
+   "stale_footer": false,
+   "no_hours": true,
+   "weak_title": true
+  },
+  "evidence": {
+   "no_mobile": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+   "no_booking": "Stop in or give us a ring.",
+   "no_click_to_call": "Phone: (555) 0114-7999",
+   "heavy_images": "<img src=\"/photos/IMG_3459_original_14MB.jpg\" width=\"4608\" alt=\"\">",
+   "no_reviews": "<blockquote>\"Fast, honest and fair.\" - A. Rivera</blockquote>",
+   "stale_footer": "&copy; 2026 Mainline Plumbing. All rights reserved.",
+   "no_hours": "Serving Harbor Falls for 25 years. Owner: Marcus Haddad.",
+   "weak_title": "<title>Home</title>"
+  }
+ },
+ "email": {
+  "subject": "Mainline Plumbing: a couple quick fixes",
+  "body": "Marcus,\n\nLooked at Mainline Plumbing's site. Two things are likely costing you calls: there's no click-to-call on mobile, so anyone searching for a plumber from their phone has to manually dial or type your number instead of tapping once \u2014 and there's no booking option, so people who want to schedule outside business hours just leave. Smaller issues: the homepage title doesn't mention Harbor Falls or plumbing clearly, hours aren't listed, and some images are slowing the page down.\n\nHappy to do a free 10-minute walkthrough and show you exactly what I'd fix first.\n\nWorth a quick call this week?\n\nAlex",
+  "flaws_mentioned": [
+   "no_click_to_call",
+   "no_booking",
+   "weak_title",
+   "no_hours",
+   "heavy_images"
+  ]
+ },
+ "secs": 15.0
+}

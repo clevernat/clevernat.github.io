@@ -1,0 +1,35 @@
+{
+ "id": "b060",
+ "audit": {
+  "flags": {
+   "no_mobile": false,
+   "no_booking": true,
+   "no_click_to_call": true,
+   "heavy_images": true,
+   "no_reviews": false,
+   "stale_footer": false,
+   "no_hours": false,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+   "no_booking": "Stop in or give us a ring.",
+   "no_click_to_call": "Phone: (555) 0198-5835",
+   "heavy_images": "<img src=\"/photos/IMG_5480_original_9MB.jpg\" width=\"5184\" alt=\"\">",
+   "no_reviews": "\"Fast, honest and fair.\" - A. Rivera",
+   "stale_footer": "&copy; 2026 Evergreen Heating & Cooling. All rights reserved.",
+   "no_hours": "<li>Mon-Fri 8:00-17:00</li>",
+   "weak_title": "<meta name=\"description\" content=\"Evergreen Heating & Cooling: trusted hvac in Harbor Falls for 2 years.\">"
+  }
+ },
+ "email": {
+  "subject": "Quick note on Evergreen's website",
+  "body": "Hi Sofia,\n\nI took a look at Evergreen Heating & Cooling's site. Two things are likely costing you calls: there's no click-to-call button, so mobile visitors searching for emergency heating or AC repair can't reach you with one tap, and there's no way to book a service online, so anyone browsing after hours just leaves. The page is also slow to load because of heavy, unoptimized images, which pushes people away before they see your services.\n\nI fix exactly this kind of thing for a flat fee. Happy to do a free 10-minute walkthrough showing what I'd change and why.\n\nWorth a quick look?\n\nAlex",
+  "flaws_mentioned": [
+   "no_click_to_call",
+   "no_booking",
+   "heavy_images"
+  ]
+ },
+ "secs": 17.4
+}

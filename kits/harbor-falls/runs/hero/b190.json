@@ -1,0 +1,34 @@
+{
+ "id": "b190",
+ "audit": {
+  "flags": {
+   "no_mobile": true,
+   "no_booking": false,
+   "no_click_to_call": false,
+   "heavy_images": false,
+   "no_reviews": true,
+   "stale_footer": false,
+   "no_hours": false,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "<head>\n<meta charset=\"utf-8\">\n<title>Redline Group Auto Care | Auto Repair in Harbor Falls</title>",
+   "no_booking": "<a class=\"btn\" href=\"/book\">Book online</a>",
+   "no_click_to_call": "<p>Phone: <a href=\"tel:55501189703\">(555) 0118-9703</a></p>",
+   "heavy_images": "<img src=\"/photos/team-1.webp\" width=\"640\" height=\"420\" loading=\"lazy\" alt=\"Redline Group Auto Care team\">",
+   "no_reviews": "NONE",
+   "stale_footer": "<footer>&copy; 2026 Redline Group Auto Care. All rights reserved.</footer>",
+   "no_hours": "<h2>Hours</h2><ul><li>Mon-Fri 8:00-17:00</li><li>Sat 9:00-13:00</li></ul>",
+   "weak_title": "<meta name=\"description\" content=\"Redline Group Auto Care: trusted auto repair in Harbor Falls for 16 years.\">"
+  }
+ },
+ "email": {
+  "subject": "Redline Group Auto Care's site on mobile",
+  "body": "Ben,\n\nQuick note: I checked Redline Group Auto Care's site and it isn't set up for mobile. Most people searching for an auto shop nearby do it on their phone, and a page that doesn't render right there usually means they just call the next shop on the list instead.\n\nAlso noticed there's nowhere on the site showing your reviews, so visitors can't see your reputation before they decide to call.\n\nI fix stuff like this for a flat fee. Happy to do a free 10-minute walkthrough showing exactly what's going on and what I'd change, no obligation.\n\nWorth a quick look?\n\nAlex",
+  "flaws_mentioned": [
+   "no_mobile",
+   "no_reviews"
+  ]
+ },
+ "secs": 12.3
+}

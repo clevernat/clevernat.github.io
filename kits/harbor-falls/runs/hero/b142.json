@@ -1,0 +1,36 @@
+{
+ "id": "b142",
+ "audit": {
+  "flags": {
+   "no_mobile": true,
+   "no_booking": true,
+   "no_click_to_call": false,
+   "heavy_images": false,
+   "no_reviews": false,
+   "stale_footer": true,
+   "no_hours": true,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "NONE",
+   "no_booking": "Stop in or give us a ring.",
+   "no_click_to_call": "<a href=\"tel:55501721403\">(555) 0172-1403</a>",
+   "heavy_images": "<img src=\"/photos/team-1.webp\" width=\"640\" height=\"420\" loading=\"lazy\" alt=\"Saltwater Pros Hair Studio team\">",
+   "no_reviews": "<blockquote>\"Fast, honest and fair.\" - A. Rivera</blockquote>",
+   "stale_footer": "&copy; 2022 Saltwater Pros Hair Studio. All rights reserved.",
+   "no_hours": "NONE",
+   "weak_title": "<title>Saltwater Pros Hair Studio | Salon in Harbor Falls</title>"
+  }
+ },
+ "email": {
+  "subject": "Saltwater Pros: a couple quick fixes",
+  "body": "Hi Luis,\n\nI looked at Saltwater Pros Hair Studio's site. Two things are likely costing you bookings: it's not mobile-friendly, so most people searching for a salon on their phone have a hard time even using the page, and there's no way to book online, so anyone who lands there after hours just leaves instead of booking. The footer also looks out of date and hours aren't listed anywhere.\n\nI fix sites like this for a flat fee, no retainer. Want a free 10-minute walkthrough where I show you exactly what's happening and what I'd fix first?\n\nAlex\nNorthlight Web",
+  "flaws_mentioned": [
+   "no_mobile",
+   "no_booking",
+   "stale_footer",
+   "no_hours"
+  ]
+ },
+ "secs": 11.7
+}

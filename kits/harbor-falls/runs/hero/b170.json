@@ -1,0 +1,35 @@
+{
+ "id": "b170",
+ "audit": {
+  "flags": {
+   "no_mobile": true,
+   "no_booking": true,
+   "no_click_to_call": true,
+   "heavy_images": true,
+   "no_reviews": false,
+   "stale_footer": true,
+   "no_hours": false,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "<head>\n<meta charset=\"utf-8\">\n<title>Ironside Pros Auto Care | Auto Repair in Harbor Falls</title>",
+   "no_booking": "<p>Stop in or give us a ring.</p>",
+   "no_click_to_call": "<p>Phone: (555) 0134-6696</p>",
+   "heavy_images": "<img src=\"/photos/IMG_2656_original_10MB.jpg\" width=\"4032\" alt=\"\">",
+   "no_reviews": "<h2>What customers say</h2><blockquote>\"Fast, honest and fair.\" - A. Rivera</blockquote><blockquote>\"Best in town.\" - J. Cho</blockquote>",
+   "stale_footer": "<footer>&copy; 2021 Ironside Pros Auto Care. All rights reserved.</footer>",
+   "no_hours": "<h2>Hours</h2><ul><li>Mon-Fri 8:00-17:00</li><li>Sat 9:00-13:00</li></ul>",
+   "weak_title": "<title>Ironside Pros Auto Care | Auto Repair in Harbor Falls</title>"
+  }
+ },
+ "email": {
+  "subject": "Ironside Pros: a couple of quick fixes",
+  "body": "Hi Nora,\n\nI looked at Ironside Pros Auto Care's site. Two things are likely costing you booked jobs: there's no click-to-call link, so mobile visitors can't tap to call you, and there's no booking option, so anyone ready to schedule has to call during business hours or leave. The site also isn't optimized for mobile, which is where most local searches happen.\n\nI fix these for a flat fee, no retainer. Want a free 10-minute walkthrough where I show you exactly what's happening and what it'd take to fix?\n\nAlex\nNorthlight Web",
+  "flaws_mentioned": [
+   "no_click_to_call",
+   "no_booking",
+   "no_mobile"
+  ]
+ },
+ "secs": 12.4
+}

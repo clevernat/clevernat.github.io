@@ -1,0 +1,34 @@
+{
+ "id": "b011",
+ "audit": {
+  "flags": {
+   "no_mobile": true,
+   "no_booking": false,
+   "no_click_to_call": false,
+   "heavy_images": true,
+   "no_reviews": true,
+   "stale_footer": false,
+   "no_hours": false,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "<head>\n<meta charset=\"utf-8\">\n<title>Harbor Group Dentistry | Dental in Harbor Falls</title>",
+   "no_booking": "<a class=\"btn\" href=\"/book\">Book online</a>",
+   "no_click_to_call": "Phone: <a href=\"tel:55501276013\">(555) 0127-6013</a>",
+   "heavy_images": "<img src=\"/photos/IMG_9412_original_14MB.jpg\" width=\"5184\" alt=\"\">",
+   "no_reviews": "NONE",
+   "stale_footer": "<footer>&copy; 2026 Harbor Group Dentistry. All rights reserved.</footer>",
+   "no_hours": "<h2>Hours</h2><ul><li>Mon-Fri 8:00-17:00</li><li>Sat 9:00-13:00</li></ul>",
+   "weak_title": "<meta name=\"description\" content=\"Harbor Group Dentistry: trusted dental in Harbor Falls for 18 years.\">"
+  }
+ },
+ "email": {
+  "subject": "Harbor Group Dentistry's site on mobile",
+  "body": "Jack,\n\nI checked Harbor Group Dentistry's site. It isn't set up for mobile, and most people searching for a dentist in Harbor Falls are on their phone. If the page is hard to use there, they likely just call the next practice instead. Heavy images are also slowing load times, which makes that worse.\n\nI fix this kind of thing for a flat fee, no retainer. Happy to do a free 10-minute walkthrough showing exactly what's costing you visits and what it'd take to fix.\n\nWorth a quick look?\n\nAlex",
+  "flaws_mentioned": [
+   "no_mobile",
+   "heavy_images"
+  ]
+ },
+ "secs": 14.0
+}

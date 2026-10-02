@@ -1,0 +1,36 @@
+{
+ "id": "b027",
+ "audit": {
+  "flags": {
+   "no_mobile": true,
+   "no_booking": false,
+   "no_click_to_call": true,
+   "heavy_images": false,
+   "no_reviews": true,
+   "stale_footer": true,
+   "no_hours": false,
+   "weak_title": true
+  },
+  "evidence": {
+   "no_mobile": "<meta charset=\"utf-8\">",
+   "no_booking": "<a class=\"btn\" href=\"/book\">Book online</a>",
+   "no_click_to_call": "<p>Phone: (555) 0194-4109</p>",
+   "heavy_images": "<img src=\"/photos/team-1.webp\" width=\"640\" height=\"420\" loading=\"lazy\" alt=\"Bright Co Dentistry team\">",
+   "no_reviews": "<footer>&copy; 2022 Bright Co Dentistry. All rights reserved.</footer>",
+   "stale_footer": "<footer>&copy; 2022 Bright Co Dentistry. All rights reserved.</footer>",
+   "no_hours": "<h2>Hours</h2><ul><li>Mon-Fri 8:00-17:00</li><li>Sat 9:00-13:00</li></ul>",
+   "weak_title": "<title>Home</title>"
+  }
+ },
+ "email": {
+  "subject": "Bright Co Dentistry: two quick site fixes",
+  "body": "Hi Priya,\n\nI checked Bright Co Dentistry's site. Two things are likely costing you new patients: it isn't optimized for mobile, and there's no tap-to-call number. Most people searching for a dentist in Harbor Falls are on their phone, and if the site is hard to use and they can't call with one tap, they just move to the next result.\n\nI also noticed no patient reviews on the site and an outdated footer, which can make visitors second-guess booking.\n\nI fix these for a flat fee. Want a free 10-minute walkthrough showing exactly what I'd change?\n\nAlex\nNorthlight Web",
+  "flaws_mentioned": [
+   "no_mobile",
+   "no_click_to_call",
+   "no_reviews",
+   "stale_footer"
+  ]
+ },
+ "secs": 16.6
+}

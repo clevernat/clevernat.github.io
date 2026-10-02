@@ -1,0 +1,7 @@
+{
+ "type": "buy",
+ "owner": "Tom",
+ "message": "Hi Alex, it's Tom at Pulse Fitness, sounds good, let's do it. How do I pay and when do you start?",
+ "reply": "Hi Tom, great to have you on board. I'll send a Stripe invoice today for the $900 fix pack - payable by card, due before kickoff. Once that's paid I'll start the audit this week and have fixes done within 5-7 business days. I'll flag anything I find before changing it. If you want the $250/mo care plan after, we can add it then. Thanks, Alex",
+ "pass": true
+}

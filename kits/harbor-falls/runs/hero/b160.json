@@ -1,0 +1,34 @@
+{
+ "id": "b160",
+ "audit": {
+  "flags": {
+   "no_mobile": true,
+   "no_booking": true,
+   "no_click_to_call": false,
+   "heavy_images": false,
+   "no_reviews": true,
+   "stale_footer": false,
+   "no_hours": true,
+   "weak_title": true
+  },
+  "evidence": {
+   "no_mobile": "<head>\n<meta charset=\"utf-8\">\n<title>Home</title>\n</head>",
+   "no_booking": "<strong>Book your visit today!</strong> Just ask when you stop by.",
+   "no_click_to_call": "Phone: <a href=\"tel:55501593878\">(555) 0159-3878</a>",
+   "heavy_images": "<img src=\"/photos/team-1.webp\" width=\"640\" height=\"420\" loading=\"lazy\" alt=\"Studio 9 Group Hair Studio team\">",
+   "no_reviews": "NONE",
+   "stale_footer": "<footer>&copy; 2026 Studio 9 Group Hair Studio. All rights reserved.</footer>",
+   "no_hours": "NONE",
+   "weak_title": "<title>Home</title>"
+  }
+ },
+ "email": {
+  "subject": "Studio 9 Group's site may be losing bookings",
+  "body": "Hi Sam,\n\nI took a quick look at Studio 9 Group's website. Two things stood out: there's no booking link anywhere, so people who want to grab a slot have to call during business hours instead of just clicking a button -- and the site isn't mobile-friendly, which matters since most people search for a salon on their phone. Between those two, you're likely losing people before they ever reach out.\n\nI fix local business sites for a flat fee, no retainer. Want a free 10-minute walkthrough where I show you exactly what's happening and what I'd change?\n\nAlex\nNorthlight Web",
+  "flaws_mentioned": [
+   "no_booking",
+   "no_mobile"
+  ]
+ },
+ "secs": 12.8
+}

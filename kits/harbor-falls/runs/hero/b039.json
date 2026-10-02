@@ -1,0 +1,35 @@
+{
+ "id": "b039",
+ "audit": {
+  "flags": {
+   "no_mobile": true,
+   "no_booking": false,
+   "no_click_to_call": true,
+   "heavy_images": true,
+   "no_reviews": false,
+   "stale_footer": false,
+   "no_hours": true,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "<meta charset=\"utf-8\">",
+   "no_booking": "<a class=\"btn\" href=\"/book\">Book online</a>",
+   "no_click_to_call": "<p><strong>Call us anytime:</strong> (555) 0112-1756</p>",
+   "heavy_images": "<img src=\"/photos/IMG_1433_original_12MB.jpg\" width=\"5184\" alt=\"\">",
+   "no_reviews": "<h2>What customers say</h2><blockquote>\"Fast, honest and fair.\" - A. Rivera</blockquote>",
+   "stale_footer": "<footer>&copy; 2026 Lighthouse Co Dentistry. All rights reserved.</footer>",
+   "no_hours": "NONE",
+   "weak_title": "<meta name=\"description\" content=\"Lighthouse Co Dentistry: trusted dental in Harbor Falls for 25 years.\">"
+  }
+ },
+ "email": {
+  "subject": "Lighthouse Co Dentistry: quick site check",
+  "body": "Hi Priya,\n\nI checked Lighthouse Co's website. It's not mobile-friendly, and there's no tap-to-call button, so people searching for a dentist on their phone can't easily reach you or book an appointment. On top of that, your hours aren't listed, so patients can't tell if you're open before they call.\n\nThese are the kinds of gaps that quietly lose new patients to other practices in Harbor Falls.\n\nI fix sites like this for a flat fee at Northlight Web. Happy to do a free 10-minute walkthrough showing exactly what's costing you traffic. Would next week work?\n\nAlex",
+  "flaws_mentioned": [
+   "no_mobile",
+   "no_click_to_call",
+   "no_hours"
+  ]
+ },
+ "secs": 18.4
+}

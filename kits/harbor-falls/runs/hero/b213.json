@@ -1,0 +1,34 @@
+{
+ "id": "b213",
+ "audit": {
+  "flags": {
+   "no_mobile": false,
+   "no_booking": false,
+   "no_click_to_call": false,
+   "heavy_images": true,
+   "no_reviews": false,
+   "stale_footer": false,
+   "no_hours": true,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+   "no_booking": "<a class=\"btn\" href=\"/book\">Book online</a>",
+   "no_click_to_call": "<a href=\"tel:55501438556\">(555) 0143-8556</a>",
+   "heavy_images": "<img src=\"/photos/IMG_9816_original_11MB.jpg\" width=\"4032\" alt=\"\">",
+   "no_reviews": "<h2>What customers say</h2><blockquote>\"Fast, honest and fair.\" - A. Rivera</blockquote><blockquote>\"Best in town.\" - J. Cho</blockquote>",
+   "stale_footer": "<footer>&copy; 2026 Anchor Co Fitness. All rights reserved.</footer>",
+   "no_hours": "NONE",
+   "weak_title": "<title>Anchor Co Fitness | Fitness in Harbor Falls</title>"
+  }
+ },
+ "email": {
+  "subject": "Anchor Co Fitness site: a couple quick fixes",
+  "body": "Jack,\n\nLooked at Anchor Co Fitness's site. Two things are likely costing you members:\n\nYour hours aren't listed anywhere on the site. Someone deciding whether to drop in before or after work has no way to check, so they just pick a gym that tells them. That's a solved question at most competitors.\n\nAlso, your images are large and slow the page down, especially on mobile. People checking out a gym on their phone over lunch will bail before it finishes loading.\n\nBoth are quick, fixable things. Happy to walk you through exactly what I'd do, free, 10 minutes, no pitch. Let me know if you want to grab a time this week.\n\nAlex",
+  "flaws_mentioned": [
+   "no_hours",
+   "heavy_images"
+  ]
+ },
+ "secs": 13.4
+}

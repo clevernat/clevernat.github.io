@@ -1,0 +1,34 @@
+{
+ "id": "b216",
+ "audit": {
+  "flags": {
+   "no_mobile": false,
+   "no_booking": false,
+   "no_click_to_call": false,
+   "heavy_images": false,
+   "no_reviews": false,
+   "stale_footer": true,
+   "no_hours": true,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+   "no_booking": "<a class=\"btn\" href=\"/book\">Book online</a>",
+   "no_click_to_call": "<a href=\"tel:55501952716\">(555) 0195-2716</a>",
+   "heavy_images": "<img src=\"/photos/team-1.webp\" width=\"640\" height=\"420\" loading=\"lazy\" alt=\"Iron Tide Group Fitness team\">",
+   "no_reviews": "<blockquote>\"Fast, honest and fair.\" - A. Rivera</blockquote>",
+   "stale_footer": "<footer>&copy; 2019 Iron Tide Group Fitness. All rights reserved.</footer>",
+   "no_hours": "NONE",
+   "weak_title": "<title>Iron Tide Group Fitness | Fitness in Harbor Falls</title>"
+  }
+ },
+ "email": {
+  "subject": "Quick fix for Iron Tide Group Fitness's site",
+  "body": "Ben,\n\nI checked out Iron Tide Group Fitness's site. Two things are likely costing you members: there are no hours listed anywhere, so people searching for a Harbor Falls gym can't tell if you're open and just move to the next result. The footer also still has old info, which makes the site look abandoned to anyone checking before they visit.\n\nBoth are quick fixes. I run Northlight Web, a one-person shop that fixes stuff like this for a flat fee.\n\nWant a free 10-minute walkthrough of what I'd change? No pitch, just the fixes.\n\nAlex",
+  "flaws_mentioned": [
+   "no_hours",
+   "stale_footer"
+  ]
+ },
+ "secs": 12.7
+}

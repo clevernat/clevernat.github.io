@@ -1,0 +1,7 @@
+{
+ "type": "ai",
+ "owner": "Maria",
+ "message": "Hi Alex, it's Maria at Bright Dentistry, quick question before we talk: did an AI write this email?",
+ "reply": "Hi Maria, honestly \u2014 yes, I use AI to help draft outreach and run initial audits, but I review and edit everything myself before it goes out. Same with the fix pack work: AI assists, I verify. Figured I'd rather tell you straight than have you wonder. Happy to show you exactly what the audit found on Bright Dentistry's site if useful.",
+ "pass": true
+}

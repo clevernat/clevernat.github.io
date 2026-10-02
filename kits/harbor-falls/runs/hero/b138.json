@@ -1,0 +1,34 @@
+{
+ "id": "b138",
+ "audit": {
+  "flags": {
+   "no_mobile": false,
+   "no_booking": false,
+   "no_click_to_call": false,
+   "heavy_images": true,
+   "no_reviews": false,
+   "stale_footer": true,
+   "no_hours": false,
+   "weak_title": true
+  },
+  "evidence": {
+   "no_mobile": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+   "no_booking": "<a class=\"btn\" href=\"/book\">Book online</a>",
+   "no_click_to_call": "<a href=\"tel:55501837513\">(555) 0183-7513</a>",
+   "heavy_images": "<img src=\"/photos/IMG_8482_original_13MB.jpg\" width=\"4608\" alt=\"\">",
+   "no_reviews": "<blockquote>\"Fast, honest and fair.\" - A. Rivera</blockquote>",
+   "stale_footer": "&copy; 2019 Tide Group Hair Studio. All rights reserved.",
+   "no_hours": "<h2>Hours</h2><ul><li>Mon-Fri 8:00-17:00</li><li>Sat 9:00-13:00</li></ul>",
+   "weak_title": "<title>Home</title>"
+  }
+ },
+ "email": {
+  "subject": "Tide Group Hair Studio's site may be losing bookings",
+  "body": "Hi Marcus,\n\nI took a look at Tide Group Hair Studio's website. Two things stood out: your page title doesn't mention \"salon\" or \"Harbor Falls,\" so you're likely invisible when people nearby search for a hair salon. And your homepage images are unoptimized, slowing load time enough that mobile visitors often leave before the page finishes loading.\n\nBoth are fixable without a redesign. I run Northlight Web, a one-person shop that fixes this kind of thing for a flat fee.\n\nWant a free 10-minute walkthrough where I show you exactly what's happening and what I'd change? No pitch, just the findings.\n\nAlex",
+  "flaws_mentioned": [
+   "weak_title",
+   "heavy_images"
+  ]
+ },
+ "secs": 12.0
+}

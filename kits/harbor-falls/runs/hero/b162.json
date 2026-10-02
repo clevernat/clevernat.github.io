@@ -1,0 +1,36 @@
+{
+ "id": "b162",
+ "audit": {
+  "flags": {
+   "no_mobile": true,
+   "no_booking": false,
+   "no_click_to_call": true,
+   "heavy_images": true,
+   "no_reviews": false,
+   "stale_footer": true,
+   "no_hours": false,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "<head>\n<meta charset=\"utf-8\">\n<title>Pistons Auto Care | Auto Repair in Harbor Falls</title>",
+   "no_booking": "<a class=\"btn\" href=\"/book\">Book online</a>",
+   "no_click_to_call": "<p>Phone: (555) 0138-5302</p>",
+   "heavy_images": "<img src=\"/photos/IMG_2129_original_10MB.jpg\" width=\"4032\" alt=\"\">",
+   "no_reviews": "<blockquote>\"Fast, honest and fair.\" - A. Rivera</blockquote>",
+   "stale_footer": "<footer>&copy; 2020 Pistons Auto Care. All rights reserved.</footer>",
+   "no_hours": "<h2>Hours</h2><ul><li>Mon-Fri 8:00-17:00</li><li>Sat 9:00-13:00</li></ul>",
+   "weak_title": "NONE"
+  }
+ },
+ "email": {
+  "subject": "Quick fix for Pistons Auto Care's site",
+  "body": "Hi Aisha,\n\nI checked Pistons Auto Care's website. Two things are likely costing you calls: it's not set up for mobile, and there's no click-to-call button, so anyone searching for an auto shop in Harbor Falls on their phone can't easily reach you. The site also has heavy images that slow load time and a footer with outdated info.\n\nI fix sites like this for a flat fee. Happy to walk you through what I found, free, in 10 minutes, no obligation.\n\nWould this week work?\n\nAlex\nNorthlight Web",
+  "flaws_mentioned": [
+   "no_mobile",
+   "no_click_to_call",
+   "heavy_images",
+   "stale_footer"
+  ]
+ },
+ "secs": 12.4
+}

@@ -1,0 +1,34 @@
+{
+ "id": "b002",
+ "audit": {
+  "flags": {
+   "no_mobile": true,
+   "no_booking": false,
+   "no_click_to_call": false,
+   "heavy_images": false,
+   "no_reviews": true,
+   "stale_footer": false,
+   "no_hours": false,
+   "weak_title": true
+  },
+  "evidence": {
+   "no_mobile": "<meta charset=\"utf-8\">",
+   "no_booking": "<a class=\"btn\" href=\"/book\">Book online</a>",
+   "no_click_to_call": "<a href=\"tel:55501228367\">(555) 0122-8367</a>",
+   "heavy_images": "<img src=\"/photos/team-1.webp\" width=\"640\" height=\"420\" loading=\"lazy\" alt=\"Lighthouse Dentistry team\">",
+   "no_reviews": "NONE",
+   "stale_footer": "<footer>&copy; 2026 Lighthouse Dentistry. All rights reserved.</footer>",
+   "no_hours": "<h2>Hours</h2><ul><li>Mon-Fri 8:00-17:00</li><li>Sat 9:00-13:00</li></ul>",
+   "weak_title": "<title>Home</title>"
+  }
+ },
+ "email": {
+  "subject": "Lighthouse Dentistry's site on mobile",
+  "body": "Hi Ivy,\n\nI checked Lighthouse Dentistry's website. Two things are likely costing you new patients: it's not set up for mobile, so anyone searching for a dentist on their phone (most people) hits a broken layout and probably just leaves. And the page title doesn't mention \"dentist\" or \"Harbor Falls,\" so you may be ranking lower than you should in local search.\n\nI fix exactly this kind of thing for a flat fee, no ongoing contract.\n\nWant a free 10-minute walkthrough where I show you what I found and how I'd fix it? No pitch, just the screen.\n\nAlex\nNorthlight Web",
+  "flaws_mentioned": [
+   "no_mobile",
+   "weak_title"
+  ]
+ },
+ "secs": 16.5
+}

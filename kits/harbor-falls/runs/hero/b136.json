@@ -1,0 +1,35 @@
+{
+ "id": "b136",
+ "audit": {
+  "flags": {
+   "no_mobile": true,
+   "no_booking": false,
+   "no_click_to_call": true,
+   "heavy_images": true,
+   "no_reviews": false,
+   "stale_footer": false,
+   "no_hours": false,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "<head>\n<meta charset=\"utf-8\">\n<title>Studio 9 Pros Hair Studio | Salon in Harbor Falls</title>",
+   "no_booking": "<a class=\"btn\" href=\"/book\">Book online</a>",
+   "no_click_to_call": "<p>Phone: (555) 0134-4337</p>",
+   "heavy_images": "<img src=\"/photos/IMG_3694_original_11MB.jpg\" width=\"4032\" alt=\"\">",
+   "no_reviews": "<blockquote>\"Fast, honest and fair.\" - A. Rivera</blockquote><blockquote>\"Best in town.\" - J. Cho</blockquote>",
+   "stale_footer": "<footer>&copy; 2026 Studio 9 Pros Hair Studio. All rights reserved.</footer>",
+   "no_hours": "<h2>Hours</h2><ul><li>Mon-Fri 8:00-17:00</li><li>Sat 9:00-13:00</li></ul>",
+   "weak_title": "<meta name=\"description\" content=\"Studio 9 Pros Hair Studio: trusted salon in Harbor Falls for 20 years.\">"
+  }
+ },
+ "email": {
+  "subject": "Studio 9 Pros: two quick site fixes",
+  "body": "Hi Sofia,\n\nI checked Studio 9 Pros' site. Two things are likely costing you bookings: the site isn't mobile-friendly (most people search for salons on their phone), and there's no click-to-call button, so mobile visitors can't tap to book without hunting for your number. The site's also slow to load from heavy images, which pushes impatient visitors away before they see your work.\n\nI fix exactly this for local businesses, flat fee, no retainer.\n\nWant a free 10-minute walkthrough where I show you the specific issues on your site? No pitch, just the findings.\n\nAlex\nNorthlight Web",
+  "flaws_mentioned": [
+   "no_mobile",
+   "no_click_to_call",
+   "heavy_images"
+  ]
+ },
+ "secs": 16.1
+}

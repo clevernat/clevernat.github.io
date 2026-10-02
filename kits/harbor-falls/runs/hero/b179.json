@@ -1,0 +1,35 @@
+{
+ "id": "b179",
+ "audit": {
+  "flags": {
+   "no_mobile": false,
+   "no_booking": true,
+   "no_click_to_call": false,
+   "heavy_images": true,
+   "no_reviews": false,
+   "stale_footer": false,
+   "no_hours": true,
+   "weak_title": true
+  },
+  "evidence": {
+   "no_mobile": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+   "no_booking": "Stop in or give us a ring.",
+   "no_click_to_call": "Phone: <a href=\"tel:55501558971\">(555) 0155-8971</a>",
+   "heavy_images": "<img src=\"/photos/IMG_4671_original_10MB.jpg\" width=\"4032\" alt=\"\">",
+   "no_reviews": "<blockquote>\"Fast, honest and fair.\" - A. Rivera</blockquote>",
+   "stale_footer": "<footer>&copy; 2026 Harbor Group Auto Care. All rights reserved.</footer>",
+   "no_hours": "NONE",
+   "weak_title": "<title>Home</title>"
+  }
+ },
+ "email": {
+  "subject": "Harbor Group Auto Care: a couple quick fixes",
+  "body": "Hi Dev,\n\nLooked at Harbor Group Auto Care's site. Two things are likely costing you customers: there's no way to book an appointment online, so anyone searching after hours just moves to the next shop, and your hours aren't listed anywhere on the site, which makes people call to check (or give up) instead of booking.\n\nAlso worth fixing: your homepage title doesn't mention \"auto repair\" or \"Harbor Falls,\" so you're likely getting buried in local search.\n\nI fix stuff like this for a flat fee, no retainer. Happy to do a free 10-minute walkthrough showing exactly what I'd change. Worth a quick call?\n\nAlex",
+  "flaws_mentioned": [
+   "no_booking",
+   "no_hours",
+   "weak_title"
+  ]
+ },
+ "secs": 13.1
+}

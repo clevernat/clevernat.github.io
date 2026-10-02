@@ -1,0 +1,34 @@
+{
+ "id": "b026",
+ "audit": {
+  "flags": {
+   "no_mobile": false,
+   "no_booking": false,
+   "no_click_to_call": false,
+   "heavy_images": false,
+   "no_reviews": false,
+   "stale_footer": true,
+   "no_hours": true,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+   "no_booking": "<a class=\"btn\" href=\"/book\">Book online</a>",
+   "no_click_to_call": "<a href=\"tel:55501767690\">(555) 0176-7690</a>",
+   "heavy_images": "<img src=\"/photos/team-1.webp\" width=\"640\" height=\"420\" loading=\"lazy\" alt=\"Shoreline Dentistry team\">",
+   "no_reviews": "<blockquote>\"Fast, honest and fair.\" - A. Rivera</blockquote>",
+   "stale_footer": "&copy; 2022 Shoreline Dentistry. All rights reserved.",
+   "no_hours": "<footer>&copy; 2022 Shoreline Dentistry. All rights reserved.</footer>",
+   "weak_title": "<title>Shoreline Dentistry | Dental in Harbor Falls</title>"
+  }
+ },
+ "email": {
+  "subject": "Two quick things on Shoreline Dentistry's site",
+  "body": "Hi Priya,\n\nI checked Shoreline Dentistry's website and noticed it doesn't list your office hours anywhere. Patients searching for a dentist in Harbor Falls when they're in pain usually move to the next listing if they can't quickly confirm you're open - that's likely costing you new patient calls.\n\nThe footer also still shows outdated info, which makes the site feel unmaintained and can hurt trust for anyone comparing providers.\n\nBoth are quick fixes. I run Northlight Web, a one-person shop that fixes this kind of thing for a flat fee. Want a free 10-minute walkthrough showing exactly what I'd change?\n\nAlex",
+  "flaws_mentioned": [
+   "no_hours",
+   "stale_footer"
+  ]
+ },
+ "secs": 13.8
+}

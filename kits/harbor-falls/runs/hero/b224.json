@@ -1,0 +1,37 @@
+{
+ "id": "b224",
+ "audit": {
+  "flags": {
+   "no_mobile": false,
+   "no_booking": true,
+   "no_click_to_call": true,
+   "heavy_images": true,
+   "no_reviews": true,
+   "stale_footer": true,
+   "no_hours": false,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+   "no_booking": "Stop in or give us a ring.",
+   "no_click_to_call": "<p><strong>Call us anytime:</strong> (555) 0137-9326</p>",
+   "heavy_images": "<img src=\"/photos/IMG_8260_original_14MB.jpg\" width=\"5184\" alt=\"\">",
+   "no_reviews": "NONE",
+   "stale_footer": "&copy; 2022 Stride Co Fitness. All rights reserved.",
+   "no_hours": "<h2>Hours</h2><ul><li>Mon-Fri 8:00-17:00</li><li>Sat 9:00-13:00</li></ul>",
+   "weak_title": "<title>Stride Co Fitness | Fitness in Harbor Falls</title>"
+  }
+ },
+ "email": {
+  "subject": "Stride Co Fitness: quick site fixes",
+  "body": "Hi Ivy,\n\nI was looking at Stride Co's website and noticed a couple of things likely costing you members: there's no way to book a class online, and no click-to-call button on mobile, so people searching for a gym nearby probably just call the next result instead.\n\nI also noticed heavy, slow-loading images, no reviews shown, and a footer with outdated info.\n\nI fix sites like this for a flat fee, no retainer. Want a free 10-minute walkthrough where I show you exactly what's losing you leads?\n\nAlex\nNorthlight Web",
+  "flaws_mentioned": [
+   "no_booking",
+   "no_click_to_call",
+   "heavy_images",
+   "no_reviews",
+   "stale_footer"
+  ]
+ },
+ "secs": 14.1
+}

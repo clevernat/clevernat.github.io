@@ -1,0 +1,35 @@
+{
+ "id": "b131",
+ "audit": {
+  "flags": {
+   "no_mobile": true,
+   "no_booking": false,
+   "no_click_to_call": false,
+   "heavy_images": true,
+   "no_reviews": false,
+   "stale_footer": false,
+   "no_hours": true,
+   "weak_title": true
+  },
+  "evidence": {
+   "no_mobile": "<head>\n<meta charset=\"utf-8\">\n<title>Home</title>\n</head>",
+   "no_booking": "<a class=\"btn\" href=\"/book\">Book online</a>",
+   "no_click_to_call": "<a href=\"tel:55501409139\">(555) 0140-9139</a>",
+   "heavy_images": "<img src=\"/photos/IMG_2578_original_14MB.jpg\" width=\"5184\" alt=\"\">",
+   "no_reviews": "<blockquote>\"Fast, honest and fair.\" - A. Rivera</blockquote>",
+   "stale_footer": "&copy; 2026 Luna Works Hair Studio. All rights reserved.",
+   "no_hours": "NONE",
+   "weak_title": "<title>Home</title>"
+  }
+ },
+ "email": {
+  "subject": "Luna Works site: mobile and speed issues",
+  "body": "Hi Ben,\n\nI took a quick look at Luna Works' site. Two things are likely costing you bookings: it isn't set up for mobile, so anyone searching for a salon in Harbor Falls on their phone gets a broken layout and probably leaves; and the images are large enough that pages load slowly, which makes people bounce before they even see your work.\n\nYour hours aren't listed either, so people can't tell when to walk in or call.\n\nI fix these for a flat fee, no ongoing contract. Happy to do a free 10-minute walkthrough showing exactly what's going wrong and what it'd take to fix. Worth a short call?\n\nAlex",
+  "flaws_mentioned": [
+   "no_mobile",
+   "heavy_images",
+   "no_hours"
+  ]
+ },
+ "secs": 13.3
+}

@@ -1,0 +1,34 @@
+{
+ "id": "b199",
+ "audit": {
+  "flags": {
+   "no_mobile": false,
+   "no_booking": false,
+   "no_click_to_call": false,
+   "heavy_images": true,
+   "no_reviews": false,
+   "stale_footer": true,
+   "no_hours": false,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+   "no_booking": "<a class=\"btn\" href=\"/book\">Book online</a>",
+   "no_click_to_call": "<a href=\"tel:55501422831\">(555) 0142-2831</a>",
+   "heavy_images": "<img src=\"/photos/IMG_6297_original_14MB.jpg\" width=\"5184\" alt=\"\">",
+   "no_reviews": "<blockquote>\"Fast, honest and fair.\" - A. Rivera</blockquote>",
+   "stale_footer": "&copy; 2021 Redline Works Auto Care. All rights reserved.",
+   "no_hours": "<h2>Hours</h2><ul><li>Mon-Fri 8:00-17:00</li><li>Sat 9:00-13:00</li></ul>",
+   "weak_title": "NONE"
+  }
+ },
+ "email": {
+  "subject": "Redline Works: a couple quick site fixes",
+  "body": "Hi Elena,\n\nI took a look at Redline Works' site. Two things are likely costing you booked jobs: the photos are large, unoptimized files, so pages load slowly on phones (where most local searches happen, and where people give up fastest). Also, the footer still shows outdated info, which makes the business look inactive to someone checking hours or trust signals before calling.\n\nI fix issues like these for a flat fee, no retainer. Want a free 10-minute walkthrough where I show you exactly what I found?\n\nAlex\nNorthlight Web",
+  "flaws_mentioned": [
+   "heavy_images",
+   "stale_footer"
+  ]
+ },
+ "secs": 11.3
+}

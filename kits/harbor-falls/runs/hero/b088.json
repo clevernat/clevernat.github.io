@@ -1,0 +1,36 @@
+{
+ "id": "b088",
+ "audit": {
+  "flags": {
+   "no_mobile": true,
+   "no_booking": true,
+   "no_click_to_call": false,
+   "heavy_images": false,
+   "no_reviews": true,
+   "stale_footer": true,
+   "no_hours": false,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "<meta charset=\"utf-8\">",
+   "no_booking": "<p>Stop in or give us a ring.</p>",
+   "no_click_to_call": "<a href=\"tel:55501752174\">(555) 0175-2174</a>",
+   "heavy_images": "<img src=\"/photos/team-1.webp\" width=\"640\" height=\"420\" loading=\"lazy\" alt=\"Trusty Plumbing team\">",
+   "no_reviews": "<p>Serving Harbor Falls for 21 years. Owner: Ravi Alvarez.</p>",
+   "stale_footer": "<footer>&copy; 2020 Trusty Plumbing. All rights reserved.</footer>",
+   "no_hours": "<h2>Hours</h2><ul><li>Mon-Fri 8:00-17:00</li><li>Sat 9:00-13:00</li></ul>",
+   "weak_title": "<title>Trusty Plumbing | Plumbing in Harbor Falls</title>"
+  }
+ },
+ "email": {
+  "subject": "Trusty Plumbing site: two quick fixes",
+  "body": "Hi Ravi,\n\nI checked Trusty Plumbing's site. Two things are likely costing you calls: it's not mobile-friendly, so anyone searching for a plumber on their phone (most people, especially in an emergency) has a hard time even reading it, and there's no way to book online, so those visitors either call during business hours or just leave for a competitor's site.\n\nI also noticed no reviews are shown and the footer looks out of date.\n\nI fix sites like this for a flat fee. Want a free 10-minute walkthrough where I show you exactly what's happening and what I'd do?\n\nAlex",
+  "flaws_mentioned": [
+   "no_mobile",
+   "no_booking",
+   "no_reviews",
+   "stale_footer"
+  ]
+ },
+ "secs": 16.5
+}

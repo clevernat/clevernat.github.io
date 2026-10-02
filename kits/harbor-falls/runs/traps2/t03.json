@@ -1,0 +1,35 @@
+{
+ "id": "t03",
+ "audit": {
+  "flags": {
+   "no_mobile": false,
+   "no_booking": false,
+   "no_click_to_call": false,
+   "heavy_images": true,
+   "no_reviews": true,
+   "stale_footer": true,
+   "no_hours": false,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+   "no_booking": "<a class=\"btn\" href=\"/book\">Book online</a>",
+   "no_click_to_call": "<a href=\"tel:55502342177\">(555) 0234-2177</a>",
+   "heavy_images": "<img src=\"/photos/IMG_8170_original_13MB.jpg\" width=\"5184\" alt=\"\">",
+   "no_reviews": "NONE",
+   "stale_footer": "<footer>&copy; 2019 Mainline Plumbing. All rights reserved.</footer>",
+   "no_hours": "<h2>Hours</h2><ul><li>Mon-Fri 8:00-17:00</li><li>Sat 9:00-13:00</li></ul>",
+   "weak_title": "<title>Mainline Plumbing | Plumbing in Harbor Falls</title>"
+  }
+ },
+ "email": {
+  "subject": "Quick fixes for the Mainline Plumbing site",
+  "body": "Hi Aisha,\n\nLooked at Mainline Plumbing's site. Two things are likely costing you jobs: your photos are 9-14MB each, so on a phone the page crawls to load, and most people searching \"plumber near me\" will bail and call the next listing before it's even up. And there are no reviews anywhere on the page, which matters when someone's deciding who to let into their home.\n\nSmaller thing: the footer still says 2019, which can make the business look inactive.\n\nI fix sites like this for a flat fee. Want a free 10-minute walkthrough of what I'd change?\n\nAlex",
+  "flaws_mentioned": [
+   "heavy_images",
+   "no_reviews",
+   "stale_footer"
+  ]
+ },
+ "secs": 33.9
+}

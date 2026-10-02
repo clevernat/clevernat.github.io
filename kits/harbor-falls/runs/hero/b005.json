@@ -1,0 +1,37 @@
+{
+ "id": "b005",
+ "audit": {
+  "flags": {
+   "no_mobile": true,
+   "no_booking": true,
+   "no_click_to_call": false,
+   "heavy_images": false,
+   "no_reviews": true,
+   "stale_footer": true,
+   "no_hours": false,
+   "weak_title": true
+  },
+  "evidence": {
+   "no_mobile": "<head>\n<meta charset=\"utf-8\">\n<title>Home</title>\n</head>",
+   "no_booking": "<p>Stop in or give us a ring.</p>",
+   "no_click_to_call": "<a href=\"tel:55501762680\">(555) 0176-2680</a>",
+   "heavy_images": "<img src=\"/photos/team-1.webp\" width=\"640\" height=\"420\" loading=\"lazy\" alt=\"Shoreline Pros Dentistry team\">",
+   "no_reviews": "NONE",
+   "stale_footer": "&copy; 2019 Shoreline Pros Dentistry. All rights reserved.",
+   "no_hours": "<h2>Hours</h2><ul><li>Mon-Fri 8:00-17:00</li><li>Sat 9:00-13:00</li></ul>",
+   "weak_title": "<title>Home</title>"
+  }
+ },
+ "email": {
+  "subject": "Shoreline Pros Dentistry: quick site fix ideas",
+  "body": "Hi Ravi,\n\nI looked at the Shoreline Pros Dentistry site. Two things are likely costing you patients: there's no way to book an appointment online, so anyone searching after hours just moves to the next dentist, and the site isn't mobile-friendly, which is how most people find a dentist in the first place. On top of that, there are no reviews shown, the footer has outdated info, and the page title doesn't say what you do or where.\n\nI fix sites like this for a flat fee, no retainer. Happy to do a free 10-minute walkthrough and show you exactly what I'd change. Worth a quick call?\n\nAlex\nNorthlight Web",
+  "flaws_mentioned": [
+   "no_booking",
+   "no_mobile",
+   "no_reviews",
+   "stale_footer",
+   "weak_title"
+  ]
+ },
+ "secs": 15.9
+}

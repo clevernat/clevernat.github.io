@@ -1,0 +1,34 @@
+{
+ "id": "b083",
+ "audit": {
+  "flags": {
+   "no_mobile": false,
+   "no_booking": true,
+   "no_click_to_call": false,
+   "heavy_images": false,
+   "no_reviews": true,
+   "stale_footer": false,
+   "no_hours": false,
+   "weak_title": true
+  },
+  "evidence": {
+   "no_mobile": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+   "no_booking": "Stop in or give us a ring.",
+   "no_click_to_call": "<a href=\"tel:55501722487\">(555) 0172-2487</a>",
+   "heavy_images": "<img src=\"/photos/team-1.webp\" width=\"640\" height=\"420\" loading=\"lazy\" alt=\"Blue Pipe Works Plumbing team\">",
+   "no_reviews": "NONE",
+   "stale_footer": "&copy; 2026 Blue Pipe Works Plumbing. All rights reserved.",
+   "no_hours": "<h2>Hours</h2><ul><li>Mon-Fri 8:00-17:00</li><li>Sat 9:00-13:00</li></ul>",
+   "weak_title": "<title>Home</title>"
+  }
+ },
+ "email": {
+  "subject": "Blue Pipe Works: quick fix for after-hours calls",
+  "body": "Hi Chloe,\n\nI looked at Blue Pipe Works' site. Two things are likely costing you jobs: there's no way to book a visit online, so anyone searching after hours just calls the next plumber in Harbor Falls, and there are no reviews showing, which makes new customers hesitate before calling at all.\n\nI fix local business sites like this for a flat fee, no retainer. Want a free 10-minute walkthrough where I show you exactly what's happening and what I'd change first?\n\nAlex",
+  "flaws_mentioned": [
+   "no_booking",
+   "no_reviews"
+  ]
+ },
+ "secs": 14.5
+}

@@ -1,0 +1,7 @@
+{
+ "type": "buy",
+ "owner": "Dev",
+ "message": "Hi Alex, it's Dev at Polar HVAC, sounds good, let's do it. How do I pay and when do you start?",
+ "reply": "Hey Dev, great to hear it! I'll send a Stripe invoice for the $900 fix pack today \u2013 payable by card, due before I start. Once it's paid I'll kick off and aim to have fixes done within 5-7 business days. I'll also send details on the optional $250/mo care plan, no pressure either way. Thanks for trusting us with this.",
+ "pass": true
+}

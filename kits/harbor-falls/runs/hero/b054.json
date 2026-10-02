@@ -1,0 +1,35 @@
+{
+ "id": "b054",
+ "audit": {
+  "flags": {
+   "no_mobile": false,
+   "no_booking": true,
+   "no_click_to_call": true,
+   "heavy_images": true,
+   "no_reviews": false,
+   "stale_footer": true,
+   "no_hours": true,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+   "no_booking": "Stop in or give us a ring.",
+   "no_click_to_call": "Phone: (555) 0155-1236",
+   "heavy_images": "<img src=\"/photos/IMG_2439_original_9MB.jpg\" width=\"4608\" alt=\"\">",
+   "no_reviews": "<blockquote>\"Fast, honest and fair.\" - A. Rivera</blockquote>",
+   "stale_footer": "&copy; 2022 Summit Works Heating & Cooling. All rights reserved.",
+   "no_hours": "NONE",
+   "weak_title": "<title>Summit Works Heating & Cooling | HVAC in Harbor Falls</title>"
+  }
+ },
+ "email": {
+  "subject": "Summit Works: two quick fixes for Harbor Falls calls",
+  "body": "Hi Sam,\n\nI checked Summit Works' site. Two things are likely costing you customers: there's no click-to-call button, so mobile visitors with a broken furnace can't tap to reach you, and there's no booking option, so anyone wanting to schedule service after hours just leaves. Your hours also aren't listed, which adds hesitation for first-time callers.\n\nI fix issues like these for local businesses for a flat fee, no retainer.\n\nWant a free 10-minute walkthrough where I show you exactly what I'd change and why? No pressure either way.\n\nAlex\nNorthlight Web",
+  "flaws_mentioned": [
+   "no_click_to_call",
+   "no_booking",
+   "no_hours"
+  ]
+ },
+ "secs": 11.9
+}

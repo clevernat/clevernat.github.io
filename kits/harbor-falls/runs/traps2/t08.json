@@ -1,0 +1,34 @@
+{
+ "id": "t08",
+ "audit": {
+  "flags": {
+   "no_mobile": true,
+   "no_booking": false,
+   "no_click_to_call": false,
+   "heavy_images": true,
+   "no_reviews": false,
+   "stale_footer": false,
+   "no_hours": true,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "<meta charset=\"utf-8\">",
+   "no_booking": "<a class=\"btn\" href=\"/book\">Book online</a>",
+   "no_click_to_call": "<a href=\"tel:55502274921\">(555) 0227-4921</a>",
+   "heavy_images": "<img src=\"/photos/IMG_3646_original_10MB.jpg\" width=\"4032\" alt=\"\">",
+   "no_reviews": "<blockquote>\"Fast, honest and fair.\" - A. Rivera</blockquote>",
+   "stale_footer": "&copy; 2026 Evergreen Heating & Cooling. All rights reserved.",
+   "no_hours": "<p>Serving Harbor Falls for 11 years. Owner: Marcus Costa.</p>",
+   "weak_title": "<title>Evergreen Heating & Cooling | HVAC in Harbor Falls</title>"
+  }
+ },
+ "email": {
+  "subject": "Quick fix for Evergreen's mobile site",
+  "body": "Hi Marcus,\n\nLooked at Evergreen's site from a phone, the way most HVAC searches happen. There's no mobile layout, so text loads tiny and visitors have to pinch-zoom to find your number. On top of that, your three photos are 9-12MB each, so pages crawl on cell data. Together those make people bounce before they ever see \"Book online\" - likely your biggest source of lost calls.\n\nFree 10-minute walkthrough, no pitch, I'll show you exactly what's happening and what a flat-fee fix looks like.\n\nWorth a look?\n\nAlex",
+  "flaws_mentioned": [
+   "no_mobile",
+   "heavy_images"
+  ]
+ },
+ "secs": 31.5
+}

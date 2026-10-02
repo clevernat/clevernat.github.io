@@ -1,0 +1,36 @@
+{
+ "id": "b114",
+ "audit": {
+  "flags": {
+   "no_mobile": false,
+   "no_booking": true,
+   "no_click_to_call": true,
+   "heavy_images": true,
+   "no_reviews": true,
+   "stale_footer": false,
+   "no_hours": false,
+   "weak_title": true
+  },
+  "evidence": {
+   "no_mobile": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+   "no_booking": "Stop in or give us a ring.",
+   "no_click_to_call": "Phone: (555) 0173-5830",
+   "heavy_images": "<img src=\"/photos/IMG_7344_original_9MB.jpg\" width=\"5184\" alt=\"\">",
+   "no_reviews": "NONE",
+   "stale_footer": "&copy; 2026 Rapid Works Plumbing. All rights reserved.",
+   "no_hours": "<h2>Hours</h2><ul><li>Mon-Fri 8:00-17:00</li><li>Sat 9:00-13:00</li></ul>",
+   "weak_title": "<title>Home</title>"
+  }
+ },
+ "email": {
+  "subject": "Rapid Works Plumbing: a couple quick site fixes",
+  "body": "Hi Tom,\n\nI looked at Rapid Works Plumbing's site. Two things are likely costing you calls: there's no click-to-call button, so mobile visitors searching \"plumber Harbor Falls\" can't tap to reach you and probably just call the next result. And there's no online booking, so anyone who wants to schedule outside business hours has no way to do it.\n\nThe page title is also weak for search, and the site has no reviews shown, which hurts trust with new visitors.\n\nI fix sites like this for a flat fee, no retainer. Want a free 10-minute walkthrough where I show you exactly what's happening and what I'd fix first?\n\nAlex",
+  "flaws_mentioned": [
+   "no_click_to_call",
+   "no_booking",
+   "weak_title",
+   "no_reviews"
+  ]
+ },
+ "secs": 12.9
+}

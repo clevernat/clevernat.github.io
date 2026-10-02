@@ -1,0 +1,35 @@
+{
+ "id": "b079",
+ "audit": {
+  "flags": {
+   "no_mobile": false,
+   "no_booking": false,
+   "no_click_to_call": false,
+   "heavy_images": true,
+   "no_reviews": true,
+   "stale_footer": false,
+   "no_hours": true,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+   "no_booking": "<a class=\"btn\" href=\"/book\">Book online</a>",
+   "no_click_to_call": "<a href=\"tel:55501515700\">(555) 0151-5700</a>",
+   "heavy_images": "<img src=\"/photos/IMG_7358_original_12MB.jpg\" width=\"4608\" alt=\"\">",
+   "no_reviews": "<p>Serving Harbor Falls for 23 years. Owner: Ben Okafor.</p>",
+   "stale_footer": "<footer>&copy; 2026 Cool Breeze Co Heating & Cooling. All rights reserved.</footer>",
+   "no_hours": "<p>Serving Harbor Falls for 23 years. Owner: Ben Okafor.</p>",
+   "weak_title": "<title>Cool Breeze Co Heating & Cooling | HVAC in Harbor Falls</title>"
+  }
+ },
+ "email": {
+  "subject": "Cool Breeze's website might be losing you calls",
+  "body": "Hi Ben,\n\nI took a look at Cool Breeze Co's site. Two things are likely costing you customers: there's no Google reviews showing, and your hours aren't listed anywhere. For an HVAC company, people checking if you're open now or trustworthy enough to call will often just leave and pick a competitor instead. The page is also slow to load from oversized images, which doesn't help.\n\nI fix exactly this kind of thing for a flat fee. Want a free 10-minute walkthrough where I show you what I'd change and why? No pressure either way.\n\nAlex\nNorthlight Web",
+  "flaws_mentioned": [
+   "no_reviews",
+   "no_hours",
+   "heavy_images"
+  ]
+ },
+ "secs": 15.1
+}

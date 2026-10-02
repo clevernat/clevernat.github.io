@@ -1,0 +1,34 @@
+{
+ "id": "t06",
+ "audit": {
+  "flags": {
+   "no_mobile": true,
+   "no_booking": false,
+   "no_click_to_call": false,
+   "heavy_images": false,
+   "no_reviews": true,
+   "stale_footer": false,
+   "no_hours": false,
+   "weak_title": true
+  },
+  "evidence": {
+   "no_mobile": "<meta charset=\"utf-8\">",
+   "no_booking": "<a class=\"btn\" href=\"/book\">Book online</a>",
+   "no_click_to_call": "<a href=\"tel:55502982559\">(555) 0298-2559</a>",
+   "heavy_images": "<img src=\"/photos/team-1.webp\" width=\"640\" height=\"420\" loading=\"lazy\" alt=\"Iron Tide Fitness team\">",
+   "no_reviews": "NONE",
+   "stale_footer": "<footer>&copy; 2026 Iron Tide Fitness. All rights reserved.</footer>",
+   "no_hours": "<h2>Hours</h2><ul><li>Mon-Fri 8:00-17:00</li><li>Sat 9:00-13:00</li></ul>",
+   "weak_title": "<title>Home</title>"
+  }
+ },
+ "email": {
+  "subject": "Iron Tide Fitness: two quick site issues",
+  "body": "Jack,\n\nLooked at Iron Tide Fitness's site. Two things are likely costing you members: it's not set up for mobile, so anyone checking you out on their phone (most people) gets a broken layout and probably leaves; and there's nowhere showing reviews, so new visitors have no quick proof you're legit before they call.\n\nBoth are fixable for a flat fee, no retainer.\n\nHappy to do a free 10-minute walkthrough showing exactly what I'd fix and why. No pitch, just a screen share.\n\nWorth a quick look?\n\nAlex\nNorthlight Web",
+  "flaws_mentioned": [
+   "no_mobile",
+   "no_reviews"
+  ]
+ },
+ "secs": 24.6
+}

@@ -1,0 +1,35 @@
+{
+ "id": "b202",
+ "audit": {
+  "flags": {
+   "no_mobile": false,
+   "no_booking": true,
+   "no_click_to_call": true,
+   "heavy_images": true,
+   "no_reviews": false,
+   "stale_footer": true,
+   "no_hours": true,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+   "no_booking": "Stop in or give us a ring.",
+   "no_click_to_call": "Phone: (555) 0121-6344",
+   "heavy_images": "<img src=\"/photos/IMG_5956_original_10MB.jpg\" width=\"4608\" alt=\"\">",
+   "no_reviews": "<h2>What customers say</h2><blockquote>\"Fast, honest and fair.\" - A. Rivera</blockquote><blockquote>\"Best in town.\" - J. Cho</blockquote>",
+   "stale_footer": "&copy; 2019 Breakwater Fitness. All rights reserved.",
+   "no_hours": "NONE",
+   "weak_title": "<title>Breakwater Fitness | Fitness in Harbor Falls</title>"
+  }
+ },
+ "email": {
+  "subject": "Breakwater Fitness: two quick fixes",
+  "body": "Hi Ivy,\n\nI looked at Breakwater Fitness's site. Two things are likely costing you members: there's no way to book a class online, so anyone checking at night or between errands has to remember to call later (and often doesn't), and there's no click-to-call button on mobile, so people have to copy the number instead of just tapping it.\n\nYour hours aren't listed either, which adds friction for anyone deciding whether to drop in.\n\nI fix these for a flat fee, no retainer. Want a free 10-minute walkthrough where I show you exactly what's happening and what I'd change?\n\nAlex\nNorthlight Web",
+  "flaws_mentioned": [
+   "no_booking",
+   "no_click_to_call",
+   "no_hours"
+  ]
+ },
+ "secs": 11.9
+}

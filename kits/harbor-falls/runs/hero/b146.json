@@ -1,0 +1,36 @@
+{
+ "id": "b146",
+ "audit": {
+  "flags": {
+   "no_mobile": true,
+   "no_booking": false,
+   "no_click_to_call": false,
+   "heavy_images": false,
+   "no_reviews": true,
+   "stale_footer": true,
+   "no_hours": true,
+   "weak_title": true
+  },
+  "evidence": {
+   "no_mobile": "<head>\n<meta charset=\"utf-8\">\n<title>Home</title>\n</head>",
+   "no_booking": "<a class=\"btn\" href=\"/book\">Book online</a>",
+   "no_click_to_call": "<a href=\"tel:55501379144\">(555) 0137-9144</a>",
+   "heavy_images": "<img src=\"/photos/team-1.webp\" width=\"640\" height=\"420\" loading=\"lazy\" alt=\"Tide Pros Hair Studio team\">",
+   "no_reviews": "NONE",
+   "stale_footer": "&copy; 2022 Tide Pros Hair Studio. All rights reserved.",
+   "no_hours": "NONE",
+   "weak_title": "<title>Home</title>"
+  }
+ },
+ "email": {
+  "subject": "Tide Pros site is likely losing mobile bookings",
+  "body": "Hi Luis,\n\nI checked Tide Pros Hair Studio's site. Two things are probably costing you customers: it's not usable on mobile, which is where most salon searches happen, and there's no reviews section, so new visitors have nothing to confirm you're good before calling.\n\nI also noticed no listed hours and a page title that doesn't say \"hair salon\" or \"Harbor Falls,\" both of which hurt search visibility.\n\nI fix sites like this for a flat fee, no retainer. Want a free 10-minute walkthrough where I show you exactly what's happening and what it'd take to fix?\n\nAlex",
+  "flaws_mentioned": [
+   "no_mobile",
+   "no_reviews",
+   "no_hours",
+   "weak_title"
+  ]
+ },
+ "secs": 12.3
+}

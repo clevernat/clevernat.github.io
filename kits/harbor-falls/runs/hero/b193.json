@@ -1,0 +1,37 @@
+{
+ "id": "b193",
+ "audit": {
+  "flags": {
+   "no_mobile": true,
+   "no_booking": true,
+   "no_click_to_call": true,
+   "heavy_images": false,
+   "no_reviews": true,
+   "stale_footer": false,
+   "no_hours": true,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "NONE",
+   "no_booking": "Stop in or give us a ring.",
+   "no_click_to_call": "Phone: (555) 0121-4374",
+   "heavy_images": "NONE",
+   "no_reviews": "NONE",
+   "stale_footer": "\u00a9 2026 Keel Works Auto Care. All rights reserved.",
+   "no_hours": "NONE",
+   "weak_title": "NONE"
+  }
+ },
+ "email": {
+  "subject": "Keel Works Auto Care: a couple quick fixes",
+  "body": "Hi Kofi,\n\nI looked at Keel Works Auto Care's site. Two things are likely costing you customers: it's not set up for mobile, so anyone searching for an auto shop on their phone has a hard time using it, and there's no click-to-call button, so mobile visitors can't tap to ring you and often just move to the next result. The site also has no booking option, no reviews shown, and no listed hours.\n\nI fix these for a flat fee. Want a free 10-minute walkthrough of what's happening and what I'd do first?\n\nAlex\nNorthlight Web",
+  "flaws_mentioned": [
+   "no_mobile",
+   "no_click_to_call",
+   "no_booking",
+   "no_reviews",
+   "no_hours"
+  ]
+ },
+ "secs": 10.5
+}

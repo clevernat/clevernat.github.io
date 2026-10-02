@@ -1,0 +1,35 @@
+{
+ "id": "b144",
+ "audit": {
+  "flags": {
+   "no_mobile": false,
+   "no_booking": false,
+   "no_click_to_call": false,
+   "heavy_images": true,
+   "no_reviews": true,
+   "stale_footer": false,
+   "no_hours": false,
+   "weak_title": true
+  },
+  "evidence": {
+   "no_mobile": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+   "no_booking": "<a class=\"btn\" href=\"/book\">Book online</a>",
+   "no_click_to_call": "<a href=\"tel:55501104305\">(555) 0110-4305</a>",
+   "heavy_images": "<img src=\"/photos/IMG_6006_original_13MB.jpg\" width=\"4032\" alt=\"\">",
+   "no_reviews": "NONE",
+   "stale_footer": "&copy; 2026 Coral Group Hair Studio. All rights reserved.",
+   "no_hours": "<h2>Hours</h2><ul><li>Mon-Fri 8:00-17:00</li><li>Sat 9:00-13:00</li></ul>",
+   "weak_title": "<title>Home</title>"
+  }
+ },
+ "email": {
+  "subject": "Coral Group Hair Studio: quick site fix idea",
+  "body": "Hi Dev,\n\nI checked Coral Group Hair Studio's site. Two things are likely costing you bookings: there's no reviews section, so new visitors in Harbor Falls can't see social proof before choosing a salon, and the homepage title is weak, which hurts how you show up in Google search results for local searches.\n\nThe page is also slow to load because the images aren't optimized, which adds friction right when someone's trying to book.\n\nI fix issues like these for a flat fee. Happy to walk you through what I found in a free 10-minute call, no obligation.\n\nWorth a quick look?\n\nAlex",
+  "flaws_mentioned": [
+   "no_reviews",
+   "weak_title",
+   "heavy_images"
+  ]
+ },
+ "secs": 14.7
+}

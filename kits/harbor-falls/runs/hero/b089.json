@@ -1,0 +1,34 @@
+{
+ "id": "b089",
+ "audit": {
+  "flags": {
+   "no_mobile": true,
+   "no_booking": true,
+   "no_click_to_call": false,
+   "heavy_images": false,
+   "no_reviews": false,
+   "stale_footer": false,
+   "no_hours": false,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "<head>\n<meta charset=\"utf-8\">\n<title>Northwind Plumbing | Plumbing in Harbor Falls</title>",
+   "no_booking": "<p>Stop in or give us a ring.</p>",
+   "no_click_to_call": "<a href=\"tel:55501535681\">(555) 0153-5681</a>",
+   "heavy_images": "<img src=\"/photos/team-1.webp\" width=\"640\" height=\"420\" loading=\"lazy\" alt=\"Northwind Plumbing team\">",
+   "no_reviews": "<blockquote>\"Fast, honest and fair.\" - A. Rivera</blockquote>",
+   "stale_footer": "&copy; 2026 Northwind Plumbing. All rights reserved.",
+   "no_hours": "<h2>Hours</h2><ul><li>Mon-Fri 8:00-17:00</li><li>Sat 9:00-13:00</li></ul>",
+   "weak_title": "<meta name=\"description\" content=\"Northwind Plumbing: trusted plumbing in Harbor Falls for 10 years.\">"
+  }
+ },
+ "email": {
+  "subject": "Northwind Plumbing: two quick site fixes",
+  "body": "Hi Chloe,\n\nI checked Northwind Plumbing's site. Two things are likely costing you calls: it's not mobile-friendly, so anyone searching for a plumber from their phone (most people with a leak) has a hard time using it, and there's no way to book or request service online, so they have to call during business hours or leave.\n\nI fix exactly these kinds of issues for a flat fee. Happy to do a free 10-minute walkthrough showing what I'd change and why.\n\nWorth a quick look?\n\nAlex\nNorthlight Web",
+  "flaws_mentioned": [
+   "no_mobile",
+   "no_booking"
+  ]
+ },
+ "secs": 15.2
+}

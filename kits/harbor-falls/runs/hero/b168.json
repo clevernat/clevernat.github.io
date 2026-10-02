@@ -1,0 +1,35 @@
+{
+ "id": "b168",
+ "audit": {
+  "flags": {
+   "no_mobile": true,
+   "no_booking": false,
+   "no_click_to_call": true,
+   "heavy_images": false,
+   "no_reviews": true,
+   "stale_footer": false,
+   "no_hours": false,
+   "weak_title": false
+  },
+  "evidence": {
+   "no_mobile": "<meta charset=\"utf-8\">",
+   "no_booking": "<a class=\"btn\" href=\"/book\">Book online</a>",
+   "no_click_to_call": "<p><strong>Call us anytime:</strong> (555) 0149-6081</p>",
+   "heavy_images": "<img src=\"/photos/team-1.webp\" width=\"640\" height=\"420\" loading=\"lazy\" alt=\"Gearhead Auto Care team\">",
+   "no_reviews": "NONE",
+   "stale_footer": "<footer>&copy; 2026 Gearhead Auto Care. All rights reserved.</footer>",
+   "no_hours": "<h2>Hours</h2><ul><li>Mon-Fri 8:00-17:00</li><li>Sat 9:00-13:00</li></ul>",
+   "weak_title": "<meta name=\"description\" content=\"Gearhead Auto Care: trusted auto repair in Harbor Falls for 4 years.\">"
+  }
+ },
+ "email": {
+  "subject": "Quick fix for Gearhead's website",
+  "body": "Hi Luis,\n\nI checked Gearhead Auto Care's site. Two things are likely costing you customers: it isn't mobile-friendly, and there's no click-to-call button, so people searching for auto repair on their phones can't easily reach you. The site also has no reviews shown, which makes new visitors less sure about choosing you over another shop.\n\nI fix sites like this for a flat fee. Want a free 10-minute walkthrough where I show you exactly what's happening and what it'd take to fix?\n\nAlex\nNorthlight Web",
+  "flaws_mentioned": [
+   "no_mobile",
+   "no_click_to_call",
+   "no_reviews"
+  ]
+ },
+ "secs": 21.1
+}

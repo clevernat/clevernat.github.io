@@ -1,0 +1,7 @@
+{
+ "type": "buy",
+ "owner": "Chloe",
+ "message": "Hi Alex, it's Chloe at Rapid Plumbing, sounds good, let's do it. How do I pay and when do you start?",
+ "reply": "Great to have you on board, Chloe! I'll send a secure invoice link today for the $900 fix pack - pay by card or bank transfer. Once it's paid, I'll start within 1-2 business days and keep you posted as I go. If you want the $250/month care plan for ongoing upkeep, just say so and I'll add it. Talk soon!",
+ "pass": true
+}
