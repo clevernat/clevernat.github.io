@@ -1,6 +1,13 @@
 {
- "updated": "2026-10-02",
+ "updated": "2026-10-04",
  "long": [
+  {
+   "id": "7ywDj_zdW5s",
+   "title": "Gemini Canvas vs ClickFunnels: I Built 3 Tools to Test It",
+   "date": "2026-10-03",
+   "short": false,
+   "len": "20:40"
+  },
   {
    "id": "5mLb5lb6WI8",
    "title": "Claude Sonnet 5.5 Tested: 6 Real-World Tasks, No Retries",
@@ -28,16 +35,16 @@
    "date": "2026-09-27",
    "short": false,
    "len": "12:00"
-  },
-  {
-   "id": "YSeiVqjBKxw",
-   "title": "How to Humanize AI Writing With Claude (Free Skill Tutorial)",
-   "date": "2026-09-26",
-   "short": false,
-   "len": "13:21"
   }
  ],
  "shorts": [
+  {
+   "id": "RKuR89okWMk",
+   "title": "Claude Code just got mods (I built one in 1 sentence)",
+   "date": "2026-10-03",
+   "short": true,
+   "len": "0:00"
+  },
   {
    "id": "r31_omrwbjw",
    "title": "Meta's AI Agent Just Beat ChatGPT",
@@ -83,13 +90,6 @@
   {
    "id": "aASEkFVk4Js",
    "title": "This New AI Can't Write a Single Word (and X Loves It)",
-   "date": "2026-09-25",
-   "short": true,
-   "len": "1:52"
-  },
-  {
-   "id": "yGwgxsWlFVc",
-   "title": "One Email Can Hijack Your AI Browser",
    "date": "2026-09-25",
    "short": true,
    "len": "1:52"
