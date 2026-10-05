@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04",
+ "updated": "2026-10-05",
  "long": [
   {
    "id": "7ywDj_zdW5s",
@@ -38,6 +38,13 @@
   }
  ],
  "shorts": [
+  {
+   "id": "zRp7_W1yhPs",
+   "title": "OpenAI built a smarter AI, then refused to release it",
+   "date": "2026-10-05",
+   "short": true,
+   "len": "1:31"
+  },
   {
    "id": "RKuR89okWMk",
    "title": "Claude Code just got mods (I built one in 1 sentence)",
@@ -86,13 +93,6 @@
    "date": "2026-09-27",
    "short": true,
    "len": "2:04"
-  },
-  {
-   "id": "aASEkFVk4Js",
-   "title": "This New AI Can't Write a Single Word (and X Loves It)",
-   "date": "2026-09-25",
-   "short": true,
-   "len": "1:52"
   }
  ]
 }
