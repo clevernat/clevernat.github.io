@@ -14,7 +14,13 @@ const secs = d => { const m = d.match(/PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?/) || 
   const pub = v.data.items.filter(x => x.status.privacyStatus === 'public')
     .sort((a, b) => b.snippet.publishedAt.localeCompare(a.snippet.publishedAt))
     .map(x => { const s = secs(x.contentDetails.duration); return { id: x.id, title: x.snippet.title.replace(/\s*#shorts?\b/ig, '').trim(), date: x.snippet.publishedAt.slice(0, 10), short: s <= 180, len: s >= 3600 ? '' : `${Math.floor(s / 60)}:${String(s % 60).padStart(2, '0')}` }; });
-  const out = { updated: new Date().toISOString().slice(0, 10), long: pub.filter(x => !x.short).slice(0, 5), shorts: pub.filter(x => x.short).slice(0, 8) };
+  // Tool cards stay hidden until their video is live: 'now' when public, the publishAt time when scheduled, absent when private.
+  const cardIds = [...new Set([...fs.readFileSync(path.join(__dirname, 'index.html'), 'utf8').matchAll(/data-video="([\w-]{11})"/g)].map(m => m[1]))];
+  const cards = {};
+  if (cardIds.length) for (const x of (await yt.videos.list({ part: ['status'], id: cardIds })).data.items) {
+    if (x.status.privacyStatus === 'public') cards[x.id] = 'now'; else if (x.status.publishAt) cards[x.id] = x.status.publishAt;
+  }
+  const out = { updated: new Date().toISOString().slice(0, 10), long: pub.filter(x => !x.short).slice(0, 5), shorts: pub.filter(x => x.short).slice(0, 8), cards };
   const f = path.join(__dirname, 'videos.json'); const old = fs.existsSync(f) ? fs.readFileSync(f, 'utf8') : '';
   const next = JSON.stringify(out, null, 1);
   if (JSON.stringify({ ...JSON.parse(old || '{}'), updated: 0 }) === JSON.stringify({ ...out, updated: 0 })) { console.log('unchanged'); return; }

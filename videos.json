@@ -2,6 +2,13 @@
  "updated": "2026-10-06",
  "long": [
   {
+   "id": "8FWDxPHvxPQ",
+   "title": "Gemini Skills Tutorial: 10 Tested Skills + Free Downloads",
+   "date": "2026-10-06",
+   "short": false,
+   "len": "15:53"
+  },
+  {
    "id": "hicP5ue67cE",
    "title": "Claude for Small Business: I Tested All 44 Skills",
    "date": "2026-10-05",
@@ -28,13 +35,6 @@
    "date": "2026-10-01",
    "short": false,
    "len": "10:26"
-  },
-  {
-   "id": "-dphtKsZAN0",
-   "title": "3 More One-Person AI Business Ideas With Claude (Part 2)",
-   "date": "2026-09-28",
-   "short": false,
-   "len": "9:53"
   }
  ],
  "shorts": [
@@ -94,5 +94,13 @@
    "short": true,
    "len": "1:43"
   }
- ]
+ ],
+ "cards": {
+  "8FWDxPHvxPQ": "now",
+  "JuszD9H1Dpg": "2026-10-11T06:00:00Z",
+  "7ywDj_zdW5s": "now",
+  "14JKJK-0T18": "2026-10-09T06:00:00Z",
+  "hicP5ue67cE": "now",
+  "YSeiVqjBKxw": "now"
+ }
 }
