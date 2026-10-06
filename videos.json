@@ -1,6 +1,13 @@
 {
- "updated": "2026-10-05",
+ "updated": "2026-10-06",
  "long": [
+  {
+   "id": "hicP5ue67cE",
+   "title": "Claude for Small Business: I Tested All 44 Skills",
+   "date": "2026-10-05",
+   "short": false,
+   "len": "14:26"
+  },
   {
    "id": "7ywDj_zdW5s",
    "title": "Gemini Canvas vs ClickFunnels: I Built 3 Tools to Test It",
@@ -28,16 +35,16 @@
    "date": "2026-09-28",
    "short": false,
    "len": "9:53"
-  },
-  {
-   "id": "6LzsGSaI6G4",
-   "title": "4 One-Person AI Business Ideas With Claude (Part 1)",
-   "date": "2026-09-27",
-   "short": false,
-   "len": "12:00"
   }
  ],
  "shorts": [
+  {
+   "id": "wIK6J6BNWCc",
+   "title": "I gave Grok Bot and Meta's Muse the same job. They disagreed",
+   "date": "2026-10-06",
+   "short": true,
+   "len": "1:51"
+  },
   {
    "id": "zRp7_W1yhPs",
    "title": "OpenAI built a smarter AI, then refused to release it",
@@ -86,13 +93,6 @@
    "date": "2026-09-28",
    "short": true,
    "len": "1:43"
-  },
-  {
-   "id": "Vnpy3tr8Csw",
-   "title": "An AI Detector Says the Declaration of Independence Is 100% AI 🤔",
-   "date": "2026-09-27",
-   "short": true,
-   "len": "2:04"
   }
  ]
 }
