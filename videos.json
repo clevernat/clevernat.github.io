@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06",
+ "updated": "2026-10-07",
  "long": [
   {
    "id": "8FWDxPHvxPQ",
@@ -39,6 +39,13 @@
  ],
  "shorts": [
   {
+   "id": "EVwD1mQtUXc",
+   "title": "Google's new AI found a flaw every AI missed. You can't use it.",
+   "date": "2026-10-07",
+   "short": true,
+   "len": "1:28"
+  },
+  {
    "id": "wIK6J6BNWCc",
    "title": "I gave Grok Bot and Meta's Muse the same job. They disagreed",
    "date": "2026-10-06",
@@ -51,13 +58,6 @@
    "date": "2026-10-05",
    "short": true,
    "len": "1:31"
-  },
-  {
-   "id": "RKuR89okWMk",
-   "title": "Claude Code just got mods (I built one in 1 sentence)",
-   "date": "2026-10-03",
-   "short": true,
-   "len": "0:00"
   },
   {
    "id": "r31_omrwbjw",
