@@ -1,6 +1,13 @@
 {
- "updated": "2026-10-07",
+ "updated": "2026-10-09",
  "long": [
+  {
+   "id": "oUNih99pP20",
+   "title": "Google AI Made My Faceless Video in 6 Minutes (Full Tutorial)",
+   "date": "2026-10-08",
+   "short": false,
+   "len": "17:34"
+  },
   {
    "id": "NHaK0ATWFXk",
    "title": "How to Use Claude AI for Job Search (4 Free Prompts)",
@@ -28,13 +35,6 @@
    "date": "2026-10-03",
    "short": false,
    "len": "20:40"
-  },
-  {
-   "id": "5mLb5lb6WI8",
-   "title": "Claude Sonnet 5.5 Tested: 6 Real-World Tasks, No Retries",
-   "date": "2026-10-01",
-   "short": false,
-   "len": "10:34"
   }
  ],
  "shorts": [
@@ -96,7 +96,7 @@
   }
  ],
  "cards": {
-  "oUNih99pP20": "2026-10-08T06:00:00Z",
+  "oUNih99pP20": "now",
   "NHaK0ATWFXk": "now",
   "8FWDxPHvxPQ": "now",
   "JuszD9H1Dpg": "2026-10-11T06:00:00Z",
