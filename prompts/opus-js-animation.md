@@ -22,6 +22,10 @@ Ten checks, one point each, judged from frames at fixed times (about 1, 4, 8, 12
 9. There is sound (music).
 10. It looks hand-made in one consistent style.
 
+## No terminal? Use the Claude desktop app
+
+Everything in Levels 2 and 3 also works in the Claude desktop app. Open the app, go to the Code tab, choose an empty folder, pick the model and effort in the prompt box, then paste the same prompt. The terminal is just another way to run the same Claude Code.
+
 ## Level 1: one line (claude.ai, about 1.5 minutes, scored 6/10)
 
 Open claude.ai, start a new chat (incognito is fine), pick Opus 5.5, and send:
