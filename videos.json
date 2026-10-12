@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11",
+ "updated": "2026-10-12",
  "long": [
   {
    "id": "uR0DsgPAVt8",
@@ -38,6 +38,13 @@
   }
  ],
  "shorts": [
+  {
+   "id": "xiBsbqfL_xw",
+   "title": "Claude Drew a Full Animation With Code: 6/10 to 10/10",
+   "date": "2026-10-12",
+   "short": true,
+   "len": "1:28"
+  },
   {
    "id": "4HiwFRC3E7s",
    "title": "I let Claude find me 10 jobs. It said 8 fit. Only 5 did.",
@@ -86,13 +93,6 @@
    "date": "2026-09-30",
    "short": true,
    "len": "1:56"
-  },
-  {
-   "id": "AR-QJ9gOx-Y",
-   "title": "Google Just Gave Gemini a Face",
-   "date": "2026-09-29",
-   "short": true,
-   "len": "1:30"
   }
  ],
  "cards": {
