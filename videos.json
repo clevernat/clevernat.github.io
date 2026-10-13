@@ -2,6 +2,13 @@
  "updated": "2026-10-13",
  "long": [
   {
+   "id": "u5smL_Fw2rM",
+   "title": "Claude Code Edited My Reel From 2 Links (Opus 5.5, Full Walkthrough)",
+   "date": "2026-10-13",
+   "short": false,
+   "len": "10:32"
+  },
+  {
    "id": "PsNq7XZZhQs",
    "title": "Claude Opus 5.5: Make Motion Graphics Directly in Chat",
    "date": "2026-10-12",
@@ -28,13 +35,6 @@
    "date": "2026-10-09",
    "short": false,
    "len": "30:17"
-  },
-  {
-   "id": "oUNih99pP20",
-   "title": "Google AI Made My Faceless Video in 6 Minutes (Full Tutorial)",
-   "date": "2026-10-08",
-   "short": false,
-   "len": "17:34"
   }
  ],
  "shorts": [
@@ -96,6 +96,7 @@
   }
  ],
  "cards": {
+  "u5smL_Fw2rM": "now",
   "PsNq7XZZhQs": "now",
   "uR0DsgPAVt8": "now",
   "oUNih99pP20": "now",
