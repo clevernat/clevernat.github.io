@@ -1,6 +1,13 @@
 {
- "updated": "2026-10-12",
+ "updated": "2026-10-13",
  "long": [
+  {
+   "id": "PsNq7XZZhQs",
+   "title": "Claude Opus 5.5: Make Motion Graphics Directly in Chat",
+   "date": "2026-10-12",
+   "short": false,
+   "len": "15:08"
+  },
   {
    "id": "uR0DsgPAVt8",
    "title": "Claude Opus 5.5 Animation Tutorial: Make 2D Videos With Code",
@@ -28,16 +35,16 @@
    "date": "2026-10-08",
    "short": false,
    "len": "17:34"
-  },
-  {
-   "id": "NHaK0ATWFXk",
-   "title": "How to Use Claude AI for Job Search (4 Free Prompts)",
-   "date": "2026-10-07",
-   "short": false,
-   "len": "15:03"
   }
  ],
  "shorts": [
+  {
+   "id": "DYNS-FY67bo",
+   "title": "Claude filled a real job application. Then it caught what the ad hid.",
+   "date": "2026-10-13",
+   "short": true,
+   "len": "1:05"
+  },
   {
    "id": "xiBsbqfL_xw",
    "title": "Claude Drew a Full Animation With Code: 6/10 to 10/10",
@@ -86,16 +93,10 @@
    "date": "2026-10-01",
    "short": true,
    "len": "1:20"
-  },
-  {
-   "id": "BCY5cjEKX1U",
-   "title": "Claude Found a New Molecular Machine. Scientists Are Split.",
-   "date": "2026-09-30",
-   "short": true,
-   "len": "1:56"
   }
  ],
  "cards": {
+  "PsNq7XZZhQs": "now",
   "uR0DsgPAVt8": "now",
   "oUNih99pP20": "now",
   "NHaK0ATWFXk": "now",
