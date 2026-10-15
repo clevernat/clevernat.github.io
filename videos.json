@@ -1,6 +1,13 @@
 {
- "updated": "2026-10-14",
+ "updated": "2026-10-15",
  "long": [
+  {
+   "id": "AgwaMEk5cqc",
+   "title": "ChatGPT Tutorial 2026: Beginner to Advanced Full Course",
+   "date": "2026-10-14",
+   "short": false,
+   "len": "25:26"
+  },
   {
    "id": "u5smL_Fw2rM",
    "title": "Claude Code Video Editing: Turn 2 Links Into an Instagram Reel",
@@ -28,13 +35,6 @@
    "date": "2026-10-10",
    "short": false,
    "len": "16:58"
-  },
-  {
-   "id": "14JKJK-0T18",
-   "title": "How to Build an AI Receptionist With Claude + ElevenLabs",
-   "date": "2026-10-09",
-   "short": false,
-   "len": "30:17"
   }
  ],
  "shorts": [
@@ -99,6 +99,7 @@
   "u5smL_Fw2rM": "now",
   "PsNq7XZZhQs": "now",
   "uR0DsgPAVt8": "now",
+  "AgwaMEk5cqc": "now",
   "oUNih99pP20": "now",
   "NHaK0ATWFXk": "now",
   "8FWDxPHvxPQ": "now",
