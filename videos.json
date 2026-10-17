@@ -1,6 +1,13 @@
 {
- "updated": "2026-10-16",
+ "updated": "2026-10-17",
  "long": [
+  {
+   "id": "q50ixw8hhN4",
+   "title": "Gemini Tutorial: Beginner to Advanced, Step by Step",
+   "date": "2026-10-17",
+   "short": false,
+   "len": "27:32"
+  },
   {
    "id": "3p-Lw__h2Es",
    "title": "Claude AI Tutorial 2026: Beginner to Advanced Full Course",
@@ -28,13 +35,6 @@
    "date": "2026-10-12",
    "short": false,
    "len": "15:08"
-  },
-  {
-   "id": "uR0DsgPAVt8",
-   "title": "Claude Opus 5.5 Animation Tutorial: Make 2D Videos With Code",
-   "date": "2026-10-11",
-   "short": false,
-   "len": "15:37"
   }
  ],
  "shorts": [
@@ -99,6 +99,7 @@
   "u5smL_Fw2rM": "now",
   "PsNq7XZZhQs": "now",
   "uR0DsgPAVt8": "now",
+  "q50ixw8hhN4": "now",
   "AgwaMEk5cqc": "now",
   "3p-Lw__h2Es": "now",
   "oUNih99pP20": "now",
