@@ -1,40 +1,40 @@
 {
- "updated": "2026-10-17",
+ "updated": "2026-10-21",
  "long": [
   {
+   "id": "vcMVA4zAu3E",
+   "title": "How to Start a Faceless YouTube Channel With Gemini 4 Argon",
+   "date": "2026-10-21",
+   "short": false,
+   "len": "19:16"
+  },
+  {
+   "id": "sCUXsHlKKfU",
+   "title": "Claude for Google Workspace: Docs, Sheets & Slides Tutorial",
+   "date": "2026-10-20",
+   "short": false,
+   "len": "17:28"
+  },
+  {
+   "id": "J7m0p00e8WQ",
+   "title": "ChatGPT GPT-6 Tutorial: Maps, Calculators and Interactive Tools",
+   "date": "2026-10-19",
+   "short": false,
+   "len": "15:35"
+  },
+  {
+   "id": "qvPmSMRxvqk",
+   "title": "How to Use Google Gemini for Your Job Search (Full Tutorial)",
+   "date": "2026-10-18",
+   "short": false,
+   "len": "16:07"
+  },
+  {
    "id": "q50ixw8hhN4",
-   "title": "Gemini Tutorial: Beginner to Advanced, Step by Step",
+   "title": "Gemini AI Tutorial 2026: Beginner to Advanced Full Course",
    "date": "2026-10-17",
    "short": false,
    "len": "27:32"
-  },
-  {
-   "id": "3p-Lw__h2Es",
-   "title": "Claude AI Tutorial 2026: Beginner to Advanced Full Course",
-   "date": "2026-10-15",
-   "short": false,
-   "len": "23:44"
-  },
-  {
-   "id": "AgwaMEk5cqc",
-   "title": "ChatGPT Tutorial 2026: Beginner to Advanced Full Course",
-   "date": "2026-10-14",
-   "short": false,
-   "len": "25:26"
-  },
-  {
-   "id": "u5smL_Fw2rM",
-   "title": "Claude Code Video Editing: Turn 2 Links Into an Instagram Reel",
-   "date": "2026-10-13",
-   "short": false,
-   "len": "10:32"
-  },
-  {
-   "id": "PsNq7XZZhQs",
-   "title": "Claude Opus 5.5: Make Motion Graphics Directly in Chat",
-   "date": "2026-10-12",
-   "short": false,
-   "len": "15:08"
   }
  ],
  "shorts": [
@@ -96,9 +96,13 @@
   }
  ],
  "cards": {
+  "vcMVA4zAu3E": "now",
+  "sCUXsHlKKfU": "now",
+  "J7m0p00e8WQ": "now",
   "u5smL_Fw2rM": "now",
   "PsNq7XZZhQs": "now",
   "uR0DsgPAVt8": "now",
+  "qvPmSMRxvqk": "now",
   "q50ixw8hhN4": "now",
   "AgwaMEk5cqc": "now",
   "3p-Lw__h2Es": "now",
