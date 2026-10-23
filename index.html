@@ -76,6 +76,27 @@ h1{letter-spacing:-.04em}h2{letter-spacing:-.03em}.k{letter-spacing:.08em}
 <nav class="jump"><a href="#tools"><svg viewBox="0 0 24 24"><path d="M14.7 6.3a4 4 0 0 0-5.4 5.4L3 18l3 3 6.3-6.3a4 4 0 0 0 5.4-5.4l-2.5 2.5-2.5-.5-.5-2.5z"/></svg>Free tools</a><a href="#videos"><svg viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="14" rx="3"/><path d="m10 9 5 3-5 3z"/></svg>Latest videos</a></nav>
 <div class="k" id="tools">Free tools · newest first</div>
 
+<article class="tool" id="ai-job-search-test">
+  <img src="img/ai-job-search-test.jpg" alt="AI Job Search GitHub repo tested: Jordan's test kit with the CV, rules, trap posting and answer key">
+  <div class="body">
+    <div class="tags"><span class="tag">Claude Code test kit</span><span class="tag">AI Job Search · GitHub · MIT</span><span class="tag">Tested on camera</span></div>
+    <h2>AI Job Search repo test kit</h2>
+    <p class="desc">Run my exact test on the free AI Job Search project (it runs inside Claude Code): a fictional candidate's CV, the rules I gave /setup, the answer key I wrote before recording, the 7 tests, and the booby-trapped job posting with a hidden "ignore your rules" line. It also lists what I got and the 3 mistakes to avoid.</p>
+    <div class="btns">
+      <a class="btn" href="prompts/ai-job-search-test-kit.md" download="ai-job-search-test-kit.md"><svg viewBox="0 0 24 24"><path d="M12 3v12m0 0 5-5m-5 5-5-5M4 20h16"/></svg>Download the test kit</a>
+      <a class="btn alt" href="prompts/jordan-ellis-cv.pdf" download="jordan-ellis-cv.pdf">Download the CV (PDF)</a>
+      <a class="btn alt watch" data-video="5iSjH4-ULqs" href="https://youtu.be/5iSjH4-ULqs" hidden><svg viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="14" rx="3"/><path d="m10 9 5 3-5 3z"/></svg>Watch the full tutorial</a>
+    </div>
+    <ol>
+      <li><span>Install Claude Code (Pro, Max or API credits), Python, Bun and LaTeX (TinyTeX works without admin rights).</span></li>
+      <li><span><b>Clone</b> github.com/ai-job-search-dev/ai-job-search (don't press Fork: forks of public repos are public), then run <b>python3 tools/install_portal_clis.py</b>.</span></li>
+      <li><span>Put the CV in <b>documents/cv/</b>, open <b>claude</b> in the folder and run <b>/setup</b> with the rules from the kit.</span></li>
+      <li><span>Run <b>/scrape</b>, <b>/rank</b> and <b>/apply</b>, and paste the trap posting after <b>/apply</b>. Check every result against the answer key.</span></li>
+      <li><span>Open every posting yourself and read every CV and letter before you send anything.</span></li>
+    </ol>
+    <div class="laptop"><svg viewBox="0 0 24 24"><rect x="4" y="4" width="16" height="11" rx="1.5"/><path d="M2 19h20"/></svg><span>Do this on a laptop or desktop (Terminal, or the Claude desktop app's Code tab). Tested on a Mac with Claude Code and Opus 5.5 on October 23, 2026. Jordan Ellis is fictional; no real application was sent.</span></div>
+  </div>
+</article>
 <article class="tool" id="notebooklm-levels">
   <img src="img/notebooklm-levels.jpg" alt="NotebookLM (Gemini Notebook) beginner to advanced: prompt pack with every prompt, tested on camera">
   <div class="body">
