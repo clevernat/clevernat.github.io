@@ -1,101 +1,106 @@
 {
- "updated": "2026-10-21",
+ "updated": "2026-11-11",
  "long": [
   {
-   "id": "vcMVA4zAu3E",
-   "title": "How to Start a Faceless YouTube Channel With Gemini 4 Argon",
-   "date": "2026-10-21",
+   "id": "QK2bp-BUQ8c",
+   "title": "Claude Fable 5.2 vs Opus 5.5: I Gave Both the Same 3 Jobs",
+   "date": "2026-11-11",
    "short": false,
-   "len": "19:16"
+   "len": "10:26"
   },
   {
-   "id": "sCUXsHlKKfU",
-   "title": "Claude for Google Workspace: Docs, Sheets & Slides Tutorial",
-   "date": "2026-10-20",
+   "id": "6qy7_0aK6bA",
+   "title": "Automate Your Grad School Applications with Claude AI (Free Prompts)",
+   "date": "2026-11-09",
    "short": false,
-   "len": "17:28"
+   "len": "10:43"
   },
   {
-   "id": "J7m0p00e8WQ",
-   "title": "ChatGPT GPT-6 Tutorial: Maps, Calculators and Interactive Tools",
-   "date": "2026-10-19",
+   "id": "5Q3cA5yDvO8",
+   "title": "Claude Job Search Kit: It Filled 3 Applications (No Submit)",
+   "date": "2026-11-08",
    "short": false,
-   "len": "15:35"
+   "len": "10:40"
   },
   {
-   "id": "qvPmSMRxvqk",
-   "title": "How to Use Google Gemini for Your Job Search (Full Tutorial)",
-   "date": "2026-10-18",
+   "id": "mkEDIdHIJvU",
+   "title": "Automate Your Job Search with Claude AI (No Coding + Free Prompts)",
+   "date": "2026-11-06",
    "short": false,
-   "len": "16:07"
+   "len": "11:15"
   },
   {
-   "id": "q50ixw8hhN4",
-   "title": "Gemini AI Tutorial 2026: Beginner to Advanced Full Course",
-   "date": "2026-10-17",
+   "id": "_EoCAD2hJMQ",
+   "title": "AI Job Search with Claude: This Free Agent Said APPLY or SKIP",
+   "date": "2026-11-05",
    "short": false,
-   "len": "27:32"
+   "len": "12:10"
   }
  ],
  "shorts": [
   {
-   "id": "DYNS-FY67bo",
-   "title": "Claude filled a real job application. Then it caught what the ad hid.",
-   "date": "2026-10-13",
+   "id": "wTP_X3sNwq0",
+   "title": "Would You Trust Your Phone to Warn You Before an Earthquake?",
+   "date": "2026-11-11",
    "short": true,
-   "len": "1:05"
+   "len": "2:12"
   },
   {
-   "id": "xiBsbqfL_xw",
-   "title": "Claude Drew a Full Animation With Code: 6/10 to 10/10",
-   "date": "2026-10-12",
+   "id": "YC-LD9CTj0I",
+   "title": "Would You Let This Robot Hold Your Hand?",
+   "date": "2026-11-10",
    "short": true,
-   "len": "1:28"
+   "len": "2:06"
   },
   {
-   "id": "4HiwFRC3E7s",
-   "title": "I let Claude find me 10 jobs. It said 8 fit. Only 5 did.",
-   "date": "2026-10-11",
+   "id": "XZjtKBo-kIQ",
+   "title": "Would You Buy a Car That Charges in 5 Minutes?",
+   "date": "2026-11-10",
    "short": true,
-   "len": "1:05"
+   "len": "2:07"
   },
   {
-   "id": "EVwD1mQtUXc",
-   "title": "Google's new AI found a flaw every AI missed. You can't use it.",
-   "date": "2026-10-07",
+   "id": "v88butfUEtY",
+   "title": "Would you give up AC for this house?",
+   "date": "2026-11-09",
    "short": true,
-   "len": "1:28"
+   "len": "2:02"
   },
   {
-   "id": "wIK6J6BNWCc",
-   "title": "I gave Grok Bot and Meta's Muse the same job. They disagreed",
-   "date": "2026-10-06",
+   "id": "eRE1gxbKNcM",
+   "title": "Would You Live in a 3D-Printed House?",
+   "date": "2026-11-09",
    "short": true,
    "len": "1:51"
   },
   {
-   "id": "zRp7_W1yhPs",
-   "title": "OpenAI built a smarter AI, then refused to release it",
-   "date": "2026-10-05",
+   "id": "Wfk7MlWf0WY",
+   "title": "Would You Work Next to This Robot?",
+   "date": "2026-11-08",
    "short": true,
-   "len": "1:31"
+   "len": "1:59"
   },
   {
-   "id": "r31_omrwbjw",
-   "title": "Meta's AI Agent Just Beat ChatGPT",
-   "date": "2026-10-02",
+   "id": "9XOskWu6LsY",
+   "title": "Would You Live Under a Beam Poured Into a Bag?",
+   "date": "2026-11-08",
    "short": true,
-   "len": "1:14"
+   "len": "2:04"
   },
   {
-   "id": "GwL40mOXNYw",
-   "title": "I Hid 3 Fake Citations. Can Claude Catch Them?",
-   "date": "2026-10-01",
+   "id": "GRbEiFkiff4",
+   "title": "Would You Let A Robot Cook Your Dinner?",
+   "date": "2026-11-07",
    "short": true,
-   "len": "1:20"
+   "len": "1:58"
   }
  ],
  "cards": {
+  "QK2bp-BUQ8c": "now",
+  "6qy7_0aK6bA": "now",
+  "mkEDIdHIJvU": "now",
+  "6_WZBU8By9g": "now",
+  "hhWiiTXWhfk": "now",
   "vcMVA4zAu3E": "now",
   "sCUXsHlKKfU": "now",
   "J7m0p00e8WQ": "now",
