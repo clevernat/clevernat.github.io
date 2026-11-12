@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-11",
+ "updated": "2026-11-12",
  "long": [
+  {
+   "id": "XMS7Nl9fQAU",
+   "title": "I Tested Claude Sheets and Whiteboards on 3 Real Jobs",
+   "date": "2026-11-12",
+   "short": false,
+   "len": "10:18"
+  },
   {
    "id": "QK2bp-BUQ8c",
    "title": "Claude Fable 5.2 vs Opus 5.5: I Gave Both the Same 3 Jobs",
@@ -28,16 +35,16 @@
    "date": "2026-11-06",
    "short": false,
    "len": "11:15"
-  },
-  {
-   "id": "_EoCAD2hJMQ",
-   "title": "AI Job Search with Claude: This Free Agent Said APPLY or SKIP",
-   "date": "2026-11-05",
-   "short": false,
-   "len": "12:10"
   }
  ],
  "shorts": [
+  {
+   "id": "xQEl9_zgAkQ",
+   "title": "One Man Is Building Every Step of AI. Would You Trust Him?",
+   "date": "2026-11-12",
+   "short": true,
+   "len": "1:49"
+  },
   {
    "id": "wTP_X3sNwq0",
    "title": "Would You Trust Your Phone to Warn You Before an Earthquake?",
@@ -86,16 +93,10 @@
    "date": "2026-11-08",
    "short": true,
    "len": "2:04"
-  },
-  {
-   "id": "GRbEiFkiff4",
-   "title": "Would You Let A Robot Cook Your Dinner?",
-   "date": "2026-11-07",
-   "short": true,
-   "len": "1:58"
   }
  ],
  "cards": {
+  "XMS7Nl9fQAU": "now",
   "QK2bp-BUQ8c": "now",
   "6qy7_0aK6bA": "now",
   "mkEDIdHIJvU": "now",
