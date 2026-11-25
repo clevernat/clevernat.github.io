@@ -1,102 +1,107 @@
 {
- "updated": "2026-11-12",
+ "updated": "2026-11-25",
  "long": [
   {
-   "id": "XMS7Nl9fQAU",
-   "title": "I Tested Claude Sheets and Whiteboards on 3 Real Jobs",
-   "date": "2026-11-12",
+   "id": "FuNXX1jqWr0",
+   "title": "ChatGPT vs Gemini vs Claude: I Tested the New Models on 6 Real-Life Jobs",
+   "date": "2026-11-25",
    "short": false,
-   "len": "10:18"
+   "len": "12:40"
   },
   {
-   "id": "QK2bp-BUQ8c",
-   "title": "Claude Fable 5.2 vs Opus 5.5: I Gave Both the Same 3 Jobs",
-   "date": "2026-11-11",
+   "id": "_kBwxuZS_iM",
+   "title": "Claude Checked 3 Apps on My Mac: REA With No Terminal (Step by Step)",
+   "date": "2026-11-24",
    "short": false,
-   "len": "10:26"
+   "len": "12:12"
   },
   {
-   "id": "6qy7_0aK6bA",
-   "title": "Automate Your Grad School Applications with Claude AI (Free Prompts)",
-   "date": "2026-11-09",
+   "id": "lsxBhD9RBUo",
+   "title": "Career-Ops vs AI Job Search: Same CV, Same 5 Jobs (One Was 4x Faster)",
+   "date": "2026-11-20",
    "short": false,
-   "len": "10:43"
+   "len": "10:15"
   },
   {
-   "id": "5Q3cA5yDvO8",
-   "title": "Claude Job Search Kit: It Filled 3 Applications (No Submit)",
-   "date": "2026-11-08",
+   "id": "13S5yWLJgx0",
+   "title": "I Let ChatGPT Run My Job Search: Plan, Search, Apply (Honest Test)",
+   "date": "2026-11-18",
    "short": false,
-   "len": "10:40"
+   "len": "10:04"
   },
   {
-   "id": "mkEDIdHIJvU",
-   "title": "Automate Your Job Search with Claude AI (No Coding + Free Prompts)",
-   "date": "2026-11-06",
+   "id": "713H_Hrq7uM",
+   "title": "Claude Replica: Clone Linktree With 11 Free AI Skills",
+   "date": "2026-11-16",
    "short": false,
-   "len": "11:15"
+   "len": "10:45"
   }
  ],
  "shorts": [
   {
-   "id": "xQEl9_zgAkQ",
-   "title": "One Man Is Building Every Step of AI. Would You Trust Him?",
-   "date": "2026-11-12",
+   "id": "iAOGk4E8xsU",
+   "title": "Hackers Robbed Target Through Its Air-Conditioning Company (2013)",
+   "date": "2026-11-25",
    "short": true,
-   "len": "1:49"
+   "len": "2:39"
   },
   {
-   "id": "wTP_X3sNwq0",
-   "title": "Would You Trust Your Phone to Warn You Before an Earthquake?",
-   "date": "2026-11-11",
+   "id": "RHQUiXrhqk4",
+   "title": "A $10.69 Web Address Stopped a Global Cyberattack (WannaCry)",
+   "date": "2026-11-22",
    "short": true,
-   "len": "2:12"
+   "len": "2:51"
   },
   {
-   "id": "YC-LD9CTj0I",
-   "title": "Would You Let This Robot Hold Your Hand?",
-   "date": "2026-11-10",
+   "id": "vmtk5urpy5o",
+   "title": "A Computer Worm Wrecked a Nuclear Plant's Machines (Stuxnet)",
+   "date": "2026-11-20",
    "short": true,
-   "len": "2:06"
+   "len": "2:40"
   },
   {
-   "id": "XZjtKBo-kIQ",
-   "title": "Would You Buy a Car That Charges in 5 Minutes?",
-   "date": "2026-11-10",
+   "id": "C7iXaaDXCDg",
+   "title": "One Leaked Password Stopped a 5,500-Mile Fuel Pipeline",
+   "date": "2026-11-18",
    "short": true,
-   "len": "2:07"
+   "len": "2:50"
   },
   {
-   "id": "v88butfUEtY",
-   "title": "Would you give up AC for this house?",
-   "date": "2026-11-09",
+   "id": "FcZWvJoeNIo",
+   "title": "A 17-Year-Old Took Over Obama's and Musk's Accounts With a Phone Call",
+   "date": "2026-11-16",
    "short": true,
-   "len": "2:02"
+   "len": "2:42"
   },
   {
-   "id": "eRE1gxbKNcM",
-   "title": "Would You Live in a 3D-Printed House?",
-   "date": "2026-11-09",
+   "id": "Oams709O8Uo",
+   "title": "Hackers Tried to Steal $1 Billion. Two Tiny Details Stopped Most of It.",
+   "date": "2026-11-15",
+   "short": true,
+   "len": "2:50"
+  },
+  {
+   "id": "9bQdxt2VVFU",
+   "title": "How Most People vs Pros Use AI to Find a Job",
+   "date": "2026-11-14",
+   "short": true,
+   "len": "2:18"
+  },
+  {
+   "id": "bHKo7-7aq2c",
+   "title": "Would You Let a Robot Build Your House?",
+   "date": "2026-11-14",
    "short": true,
    "len": "1:51"
-  },
-  {
-   "id": "Wfk7MlWf0WY",
-   "title": "Would You Work Next to This Robot?",
-   "date": "2026-11-08",
-   "short": true,
-   "len": "1:59"
-  },
-  {
-   "id": "9XOskWu6LsY",
-   "title": "Would You Live Under a Beam Poured Into a Bag?",
-   "date": "2026-11-08",
-   "short": true,
-   "len": "2:04"
   }
  ],
  "cards": {
+  "FuNXX1jqWr0": "now",
+  "13S5yWLJgx0": "now",
+  "713H_Hrq7uM": "now",
+  "Y0oamXLalIg": "now",
   "XMS7Nl9fQAU": "now",
+  "9xDR0XI6M90": "now",
   "QK2bp-BUQ8c": "now",
   "6qy7_0aK6bA": "now",
   "mkEDIdHIJvU": "now",
